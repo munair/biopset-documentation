@@ -17,7 +17,7 @@
 
 ## Practice
 
-* [Guides](practice/guides/README.md)
+* [Instruction Manuals](practice/guides/README.md)
   * [Buying Options Step-By-Step](practice/guides/buying-options-step-by-step.md)
   * [Selling Options Step-By-Step](practice/guides/selling-options-step-by-step.md)
   * [Exercising Options Step-By-Step](practice/guides/exercising-options-step-by-step.md)
