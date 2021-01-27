@@ -1,6 +1,6 @@
 # Table of contents
 
-* [BIOPset Documentation](WELCOME.md)
+* [Official BIOPset Documentation](WELCOME.md)
 
 ## Theory
 
