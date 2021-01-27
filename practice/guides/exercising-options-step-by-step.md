@@ -1,5 +1,5 @@
 ---
-description: Instructions for buyer intervention (exercising option).
+description: Instructions for buyer intervention.
 ---
 
 # Exercising Options Step-By-Step
