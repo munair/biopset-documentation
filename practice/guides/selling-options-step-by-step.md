@@ -6,7 +6,7 @@ description: Instructions for writing (selling options).
 
 
 
-### Step 1: Connect Your Wallet
+## Step 1: Connect Your Wallet
 
 Visit [BIOPset.com](http://biopset.com/) and connect your wallet by pressing the “**Connect**” button. 
 
@@ -14,19 +14,19 @@ Visit [BIOPset.com](http://biopset.com/) and connect your wallet by pressing the
 
 Choose your provider.
 
-### Step 2: Open Earn Dialog
+## Step 2: Open Earn Dialog
 
 Once your wallet is connected, click on "**Earn**" in the menu at the top of the screen. This action opens a page for writers to provide liquidity.
 
 ![](https://github.com/BIOPset/gitbook/raw/main/lp2.png)
 
-### Step 3: Enter Liquidity Contribution Amount
+## Step 3: Enter Liquidity Contribution Amount
 
 Enter the amount of ETH you want to provide \(or **stake**\) to the pool.
 
 ![enter the amount you want to stake](https://github.com/BIOPset/gitbook/raw/main/lp3.png)
 
-### Step 4: Stake Desired Funds
+## Step 4: Stake Desired Funds
 
 Click on "**Stake**".
 
