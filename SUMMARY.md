@@ -1,8 +1,8 @@
 # Contents
 
-[BIOPset](documentation/README.md)
-1. [BIOPset In Brief](documentation/biopset_in_brief.md)
-2. [BIOPset Documentation](documentation/structure.md)
+[BIOPset](about/README.md)
+1. [BIOPset In Brief](about/biopset_in_brief.md)
+2. [BIOPset Documentation](about/structure.md)
 
 * [BIOPset Overview](overview/README.md)
     * [Summary](overview/summary.md)
