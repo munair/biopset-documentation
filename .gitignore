@@ -1,0 +1,20 @@
+# Gitbook Template
+
+# Node rules:
+## Grunt intermediate storage
+.grunt
+npm-debug.log
+
+## Dependency directory
+node_modules/
+
+# Book build output
+_book/
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+
+# IntelliJ / WebStorm config
+.idea/

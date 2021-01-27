@@ -1,0 +1,13 @@
+{
+  "title" : "BIOPset Documentation",
+  "description" : "BIOPset Documentation",
+  "language": "en",
+  "gitbook": "2.4.3",
+  "structure": {
+    "readme": "Introduction.md",
+    "summary": "Contents.md"
+  },
+  "plugins" : [
+    "hide-published-with"
+  ]
+}
