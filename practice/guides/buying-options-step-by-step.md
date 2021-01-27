@@ -1,5 +1,5 @@
 ---
-description: Instructions for trading (buying options).
+description: Instructions for trading.
 ---
 
 # Buying Options Step-By-Step

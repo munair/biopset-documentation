@@ -1,5 +1,5 @@
 ---
-description: Instructions for writing (selling options).
+description: Instructions for writing.
 ---
 
 # Selling Options Step-By-Step

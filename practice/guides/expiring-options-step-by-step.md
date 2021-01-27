@@ -1,5 +1,5 @@
 ---
-description: Instructions for seller intervention (expiring option).
+description: Instructions for seller intervention.
 ---
 
 # Expiring Options Step-By-Step
