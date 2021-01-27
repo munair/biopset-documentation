@@ -8,7 +8,7 @@ description: >-
 
 Binary options are speculative financial instruments that derive their value from some other asset or quantity. Eventually, all binary options are either completely worthless or become worth a specific calculable amount in the future.
 
-This section on buying options was taken from the detailed explanation provided on Medium [here](https://munair.medium.com/what-are-binary-options-e18fcf59dd01).
+This section on buying options was taken from the detailed explanation provided on Medium [here](https://munair.medium.com/what-are-binary-options-e18fcf59dd01). To skip the theory and dive straight into trading, check out the [instruction manuals](https://munair.gitbook.io/biopset/practice/guides).
 
 ## Price Speculation
 
