@@ -12,8 +12,8 @@ _BIOPset is the world's first decentralized binary options trading protocol. It 
 
 BIOPset caters to the following classes of stakeholders:
 
-1. Binary options buyers.
-2. Binary options sellers.
+1. Traders.
+2. Writers.
 3. Interventionists.
 4. Governors.
 
@@ -25,27 +25,25 @@ Counterparties take opposing sides of a derivative contract. It is impossible to
 
 Every participant stands to gain something financially for their participation in BIOPset.
 
-### Binary Options Buyers
+### Traders
 
-Binary options buyers \(or "**options holders**"\) are actively speculating on the direction of price movements. They are the chief users of the BIOPset platform and known as **options traders** in BIOPset nomenclature.
+The purchasers of binary options are called **options traders** \(or just **traders**\) in BIOPset nomenclature. These binary options buyers \(or "**options holders**"\) are actively speculating on the direction of price movements. Traders are the principal users of the BIOPset platform.
 
 {% hint style="info" %}
-Options traders are active users in BIOPset.
+Traders are active participants in the BIOPset trading protocol.
 {% endhint %}
 
-**Buyer's Recompense:** Options traders can double their wealth if they speculate correctly on price direction.
+### Writers
 
-### Binary Options Sellers
+The vendors of binary options are called **writers** in BIOPset nomenclature. These binary options sellers \(or "**options writers**"\) are counterparties to binary options buyers. 
 
-Binary options sellers \(or "**options writers**"\) are the counterparty to binary options buyers. In BIOPset, they pool their funds together to function as passive counterparties to options traders. They are known as **liquidity providers** \(or **market makers**\) in BIOPset nomeclature.
+In BIOPset, writers pool their funds together to function as passive counterparties to traders. They are also called **liquidity providers** \(or **market makers**\).
 
 {% hint style="info" %}
 Liquidity providers are passive users in BIOPset.
 {% endhint %}
 
-Although BIOPset's infrastructure primarily provides a service to binary options buyers, it is the passive pool of options sellers that provide the liquidity for the service to work.  They are like vendors that set up a shop and bring a market to life.
-
-**Writer's Recompense:** Liquidity providers earn very competitive yields for market making \(options writing\).
+Although BIOPset's infrastructure primarily provides a service to binary options buyers, it is the passive pool of options sellers that provide the liquidity required for the service to work.  They are like vendors that set up a shop and bring a market to life.
 
 ### Interventionists
 
@@ -53,15 +51,11 @@ Interventionists are humans \(or bots\) that facilitate the realization of a gai
 
 They intervene on behalf of the options trader by **exercising** in-the-money options. They intervene on behalf of the liquidity provider by **expiring** binary options that have become worthless.
 
-**Inverventionist's Recompense:** Interventionists receive risk-free fees for providing their services.
-
 ### Governors
 
 Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. Liquidity providers need not governors and vice versa. 
 
 Ideally, governors are also liquidity providers. This aligns shorter-term and longer-term incentive structures.
-
-**Governor's Recompense:** Governors earn transaction fees.
 
 {% hint style="info" %}
 Transaction fees must be enabled through voting.
