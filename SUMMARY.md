@@ -23,7 +23,9 @@
   * [Exercising Options Step-By-Step](practice/guides/exercising-options-step-by-step.md)
   * [Expiring Options Step-By-Step](practice/guides/expiring-options-step-by-step.md)
 * [FAQs](practice/faqs/README.md)
-  * [Most Frequent Questions](practice/faqs/most-frequent-questions.md)
+  * [General Questions](practice/faqs/most-frequent-questions.md)
+  * [Trading Questions](practice/faqs/trading-questions.md)
+  * [Liquidity Provision Questions](practice/faqs/liquidity-provision-questions.md)
 
 ## References
 
