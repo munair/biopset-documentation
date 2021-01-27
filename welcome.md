@@ -1,4 +1,4 @@
-# Gitbook Template
+# BIOPset Documentation
 
 ## Introduction
 

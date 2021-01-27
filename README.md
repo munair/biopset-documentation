@@ -4,7 +4,7 @@
 
 ## What is this ?
 
-This is a template project for creating books using Gitbook.
+This is a template project for creating books using Gitbook. The actual gitbook is [BIOPset Documentation](contents.md).
 
 ## What is the software required to install it ?
 

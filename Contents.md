@@ -1,5 +1,5 @@
 # Contents
 
-[Introduction](content/Content.md)
+[Introduction](content/content.md)
 
-1. [Chapter 1](content/Chapter1.md)
+1. [BIOPset Overview](content/overview.md)
