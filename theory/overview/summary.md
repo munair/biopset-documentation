@@ -1,5 +1,5 @@
 ---
-description: A summary of BIOPset and its vario stakeholders.
+description: A summary of BIOPset and its users.
 ---
 
 # Summary
