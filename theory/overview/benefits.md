@@ -29,21 +29,17 @@ Writers \(or **options writers**\) are passively selling binary options in a poo
 
 ### Interventionists
 
-Interventionists receive risk-free fees for providing their services.
+Interventionists receive risk-free fees for providing their services. The amount is 5% of the position size. Consequently, an interventionist can earn $50K USD for exercising/expiring a million dollar position.
 
 {% hint style="info" %}
-They intervene on behalf of the options trader by **exercising** in-the-money options. They intervene on behalf of the liquidity provider by **expiring** binary options that have become worthless.
+Interventionist act on behalf of the options trader by **exercising** in-the-money options. They intervene on behalf of the liquidity provider by **expiring** binary options that have become worthless.
 {% endhint %}
 
 ### Governors
 
-Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. Liquidity providers need not governors and vice versa. 
-
-Ideally, governors are also liquidity providers. This aligns shorter-term and longer-term incentive structures.
-
-**Governor's Recompense:** Governors earn transaction fees.
+Governors earn transaction fees. This fee is presently set to 20 basis points \(0.2%\).
 
 {% hint style="info" %}
-Transaction fees must be enabled through voting.
+Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. They are incentivized for ensuring user growth of the platform in the longer-term.
 {% endhint %}
 
