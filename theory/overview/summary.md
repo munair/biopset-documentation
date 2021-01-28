@@ -57,6 +57,8 @@ Governors are responsible for fine tuning BIOPset parameters to ensure a reasona
 
 Ideally, governors are also liquidity providers. This aligns shorter-term and longer-term incentive structures.
 
+Theres power is derived from delegated voting power from their own $BIOP stake as well as that of others who support their leadership.
+
 {% hint style="info" %}
 Transaction fees must be enabled through voting.
 {% endhint %}
