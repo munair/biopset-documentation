@@ -6,11 +6,43 @@ description: >-
 
 # Selling Options
 
-Traditionally, 
+In BIOPset, options sellers \(or **writers**\) pool their funds together to take an opposing position to any option buyer \(or **trader**\) that wants to express an opinion on the direction of prices.
 
-When you stake ETH into the binary options trading protocol you receive pETH. pETH is a representation of your % of the total ETH that has been staked in the pool.
+Writers are always passive counterparties to active traders on the BIOPset platform.
 
-**For Example:** if Brock the bull is the first to stake, and sends 1 ETH and gets 1 pETH then Brocks pETH represents 100% of the pool. Then if Tahlia the tiger comes along and stakes 2 ETH she will receive 2 pETH. At this point Brock's 1 pETH represents 33% of the pool. Tahlia's represents 66%. Next Jose the jackrabbit buys a 2 ETH binary put option, he thinks the price is going to go down. An hour goes by and Jose is wrong, his option expires OTM. Now the pool has a total of 5 ETH. If Brock wants to withdraw his stake now he will receive 33% of 5 ETH or 1.66 ETH.
+{% hint style="info" %}
+Counterparties take the opposing side of a binary options contract. It is impossible to buy binary options without a counterparty.
+{% endhint %}
+
+Whenever a writer makes a contribution to the pool, they are issued **pETH** \(or **poolETH**\) in proportion to their stake in the pool. For this reason, providing funds to the pool is ofter called staking.
+
+## Staking Ether
+
+BIOPset V3 will offer traders the ability to speculate on the direction of ether \(or **ETH**\) prices. An ETH pool will be created to make this happen. Option sellers deposit their contributions directly to this pool and receive pETH in return.
+
+{% hint style="info" %}
+The amount of pETH a writer receives is a representation of their relative contribution to the entire quantity of ETH in the pool.
+
+**pETH is a risky asset.** Its value in ETH changes over time depending on the performance of the pool. The value may increase tremendously if the writer pool performs well. pETH could also become worthless if traders perform well.
+{% endhint %}
+
+pETH is issued one-to-one for ETH, but its redemption is less trivial.
+
+## Redemption Value
+
+pETH is redeemable for ETH. However, its redemption value changes every time binary options expire worthless \(or **out-of-the-money** or **OTM**\) or are valuable \(or **in-the-money** or **ITM**\) and exercised.
+
+Shalaquinha expresses this most eloquently with the following scenario:
+
+> Suppose BIOPset just launched and Brock the Bull has 1 ETH at his disposal. He decides to sell binary options for the pure fun of it. It's discretionary wealth for him and he has a lot of wealth to burn. 
+>
+> Brock is the first writer to stake and received 1 pETH for contributing 1 ETH to the fledgling ETH pool. Brock's 1 pETH represents 100% of the ETH pool.
+
+> Furthermore, suppose Tahlia the Tigress comes along and contributes 2 ETH. She receives 2 pETH. At this point, Brock's 1 pETH represents 33% of the ETH pool. Tahlia's 2 pETH represents the remaining 66% of the ETH pool. 
+>
+> Finally, suppose Jose the Jackrabbit holds the opinion that ETH prices are going down and purchases a 2 ETH binary put option on BIOPset. An hour passes and the options expire worthlessly OTM. Jose was wrong and lost 2 ETH.
+>
+> Jose's loss is the pool's benefit. At the expiration of Jose's binary option, the pool has a total of 5 ETH in it. If Brock were to withdraw his portion of the pool, his 33% stake is worth 1.66 ETH. He receives 33% of 5 ETH.
 
 ### Early Withdraw Fees
 
