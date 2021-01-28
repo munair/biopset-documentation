@@ -20,7 +20,7 @@ The majority of BIOP tokens \(70%\) are on a bonding curve and distributed to ea
 
 The majority \(57%\) of $BIOP will be distributed to community members via a **transaction mining** mechanism. Transaction mining is the process of rewarding platform participants. 
 
-Transaction mining activities commenced with the BIOPset V1 Mainnet launch. Please see BIOPset Benefits for more information.
+Transaction mining activities commenced with the BIOPset V1 Mainnet launch. Please see the [Benefits](https://munair.gitbook.io/biopset/theory/overview/benefits) section for more information.
 
 | Specification | Attribute |
 | :--- | :--- |
