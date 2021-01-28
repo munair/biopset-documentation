@@ -8,7 +8,7 @@ A total of 125 Billion $BIOP tokens will be issued. $BIOP tokens are standard ER
 
 The majority of BIOP tokens \(70%\) are on a bonding curve and distributed to early adopters. For a more detailed breakdown, see the "token distribution" section below.
 
-### Token Specification 
+## Token Specification 
 
 | Specification | Attribute |
 | :--- | :--- |
