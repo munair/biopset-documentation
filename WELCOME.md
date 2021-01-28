@@ -4,7 +4,7 @@ description: An introduction to BIOPset documentation.
 
 # Introduction
 
-To those new to binary options and decentralized options trading, BIOPset is overwhelming at first glance. These official documents will serve to demystify the protocol and how to profit from using it.
+To those new to binary options and decentralized options trading, BIOPset can be overwhelming at first glance. These official documents will serve to demystify the protocol and help you to profit from using it.
 
 BIOPset documentation is broken into three groups:
 
