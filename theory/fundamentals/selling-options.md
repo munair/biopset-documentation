@@ -6,7 +6,7 @@ description: >-
 
 # Selling Options
 
-In BIOPset, options sellers \(or **writers**\) pool their funds together to take an opposing position to any option buyer \(or **trader**\) that wants to express an opinion on the direction of prices.
+In BIOPset, options sellers are market makers \(or **liquidity providers**\). Sellers \(or **writers**\) pool their funds together to take an opposing position to any option buyer \(or **trader**\) that wants to express an opinion on the direction of prices.
 
 Writers are always passive counterparties to active traders on the BIOPset platform.
 
@@ -32,7 +32,7 @@ pETH is issued one-to-one for ETH, but its redemption is less trivial.
 
 pETH is redeemable for ETH. However, its redemption value changes every time binary options expire worthless \(or **out-of-the-money** or **OTM**\) or are valuable \(or **in-the-money** or **ITM**\) and exercised.
 
-Shalaquinha expresses this most eloquently with the following scenario:
+[Shalaquiana](https://twitter.com/shalaquiana) expresses this most eloquently with the following scenario:
 
 > Suppose BIOPset just launched and Brock the Bull has 1 ETH at his disposal. He decides to sell binary options for the pure fun of it. It's discretionary wealth for him and he has a lot of wealth to burn. 
 >
@@ -44,13 +44,36 @@ Shalaquinha expresses this most eloquently with the following scenario:
 >
 > Jose's loss is the pool's benefit. At the expiration of Jose's binary option, the pool has a total of 5 ETH in it. If Brock were to withdraw his portion of the pool, his 33% stake is worth 1.66 ETH. He receives 33% of 5 ETH.
 
-### Early Withdraw Fees
+Shalaquiana's explanation is clearly understood, but it's an oversimplification. It left out one important part of market making on BIOPset: Liquidity Locks.
 
-There is a 1% early withdrawal fee. 
+## Liquidity Locking
 
-When you lock ETH in the pool there is a lockup period. This is set at the time of staking and can't be changed later on for your stake. It is reset every time you make a new stake.
+There are two types of liquidity locks in BIOPset:
 
-### Liquidity is locked when an option is opened
+1. Collateral Locks
+2. Deposit Locks
 
-Whenever you withdraw you only receive your % of non locked liquidity. This means if there's 6 ETH in the pool and you have 3 pETH, but 2 ETH is currently locked in open options then you will only receive 2 ETH, not the 3 ETH you would get by waiting for those options to expire.
+Traders trigger collateral locks. Writers commit to a deposit lock every time they contribute liquidity.
+
+### Collateral Locks
+
+A collateral lock occurs whenever an option is purchased. The lock on pool funds remains until the option expires or the option is exercised ITM. 
+
+During this period of time \(called the **lockup period**\) writers may only withdraw their respective share of the unlocked liquidity in the ETH pool.
+
+Again, [Shalaquiana](https://twitter.com/shalaquiana) explains it best:
+
+> **Withdrawal only entitles liquidity providers to their share of the unlocked liquidity.** For example, supposed there is 6 ETH in the pool and your share of the pool is 50% \(meaning that you possess 3 pETH of the total 6 pETH issued\) but a trader suddenly purchases a 2 ETH binary call option. That purchase would result in a collateral lock that reduces the unlocked liquidity from 6 ETH to 4 ETH.
+>
+> If you wanted to withdraw your liquidity during the collateral lock, you could only withdraw up to 2 ETH \(50% of the unlocked 4 ETH\). If you wait for the collateral lock to be removed through expiration or exercise, you could withdraw your entire stake of 3 ETH \(50% of the unlocked 6 ETH\).
+
+### Deposit Locks
+
+Writers deposit ETH into the pool for minimum period of time. This is the second type of lockup period. The lockup period on a deposit lock resets every time a writer contributes new funds to the pool. It is set on the deposit of funds and cannot be reduced.
+
+The lockup period of BIOPset V3 is 14 days. During that 14 day period, any withdrawal of funds contributed to the pool is taxed an early withdrawal fee.
+
+#### Early Withdraw Fees
+
+There is a 1% early withdrawal fee. During the deposit lockup period, writers are only entitled to their stake in the unlocked pool liquidity.
 
