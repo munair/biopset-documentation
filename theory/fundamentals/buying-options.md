@@ -12,7 +12,7 @@ This section on buying options was taken from the detailed explanation provided 
 
 ## Price Speculation
 
-BIOPset was created to facilitate price speculation. The whole purpose of buying binary options is to take a position on the direction of movement in prices.
+BIOPset facilitates price speculation. The whole purpose of buying binary options is to take a position on the direction of movement in prices.
 
 {% hint style="info" %}
  Binary options are essentially all or nothing financial derivatives. Traders either win or they lose. There’s no in-between \(or other possible outcomes\).
