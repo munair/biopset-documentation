@@ -71,9 +71,9 @@ Again, [Shalaquiana](https://twitter.com/shalaquiana) explains it best:
 
 Writers deposit ETH into the pool for minimum period of time. This is the second type of lockup period. The lockup period on a deposit lock resets every time a writer contributes new funds to the pool. It is set on the deposit of funds and cannot be reduced.
 
-The lockup period of BIOPset V3 is 14 days. During that 14 day period, any withdrawal of funds contributed to the pool is taxed an early withdrawal fee.
+The lockup period of BIOPset V3 is 14 days, this may be changed through governance decisions. During that 14 day period, any withdrawal of funds contributed to the pool is taxed an early withdrawal fee.
 
 #### Early Withdraw Fees
 
-There is a 1% early withdrawal fee. During the deposit lockup period, writers are only entitled to their stake in the unlocked pool liquidity.
+There is a 1% early withdrawal fee. During the deposit lockup period, writers are only entitled to their stake in the unlocked pool liquidity. You do not pay any withdraw fee if you wait until the end of your lockup period.
 
