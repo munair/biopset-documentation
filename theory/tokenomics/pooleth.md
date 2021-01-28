@@ -1,8 +1,10 @@
 ---
-description: poolETH is the liquidity provision token.
+description: $PETH is the liquidity provision token.
 ---
 
-# poolETH
+# $PETH Token
 
-poolETH \(or pETH\) is the token provided to options sellers \(or **writers**\) after providing liquidity. The token is also referred to as the **staking token**.
+poolETH \(or pETH\) is the token issued to options sellers \(or **writers**\) after providing liquidity. The token is also referred to as the **staking token**.
+
+$PETH represents the token holders stake in the pool of funds provided by all writers.
 
