@@ -20,8 +20,6 @@ BIOPset facilitates price speculation. The whole purpose of buying binary option
 
 They are called derivatives because their value is derived from something else after a certain period of time. After that period of time, the options are said to have **expired**. That _something else_ from which binary options derive their value is called the **underlying** \(or **underlying asset**\).
 
-## What's New?
-
 In BIOPset V3, the underlying asset is ether \(or **ETH**\). However, the underlying needn’t be a financial asset or cryptocurrency. It could be the quality of the weather \(like a rainy day\) or something else that will have an attribute that changes in the future. \[1\]
 
 Binary options are speculative instruments. Those that purchase them \(**options buyers** or **options holders**\) usually have a strong opinion about the future state of some phenomenon. In BIOPset V3, traders that buy binary options typically have a serious opinion about the future price of ETH.
