@@ -20,7 +20,7 @@ There are too many to mention. Here is a [list](https://evokefinance.com/best-bi
 2. Maximums are capped at the pool balance. 
 3. There are no know-your-customer \(or **KYC**\) obligations to fulfill. 
 4. BIOPset boast competitive  rates of return \(189.8% at the time of writing as compared with 183–195% of the 20 other services listed above\).
-5. BIOPset is a much safer platform for binary options trading, there is no waiting period to withdraw your earnings as a better or fee to do so, claim your ETH and walk away at any moment.
+5. BIOPset is a much safer platform for binary options trading, there is no waiting period to withdraw your earnings as a trader or fee to do so, claim your ETH and walk away at any moment.
 
 ## Why is BIOPset safer than centralized competitors?
 
