@@ -1,2 +1,2 @@
-# BIOPset Tokenomics
+# BIOPset Tokens
 

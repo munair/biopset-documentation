@@ -12,7 +12,7 @@
   * [Selling Options](theory/fundamentals/selling-options.md)
   * [Exercising Options](theory/fundamentals/exercising-options.md)
   * [Expiring Options](theory/fundamentals/expiring-options.md)
-* [BIOPset Tokenomics](theory/tokenomics.md)
+* [BIOPset Tokens](theory/tokenomics.md)
 * [BIOPset Governance](theory/governance.md)
 
 ## Practice
