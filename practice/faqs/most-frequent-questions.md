@@ -30,11 +30,11 @@ Prior to BIOPset, only early investors/owners could act as a house in centralize
 
 ## What are BIOP tokens?
 
-Liquidity providers earn BIOP tokens and those tokens are required to vote on proposals that govern the platform. Learn more about BIOP tokens [here](https://medium.com/biopset/whats-up-with-that-biop-token-554773eec46b).
+Liquidity providers earn BIOP governance tokens. Those tokens are required to vote on proposals that govern the platform and earn a % of fees it generates in ETH. Learn more about BIOP tokens: [here](https://medium.com/biopset/whats-up-with-that-biop-token-554773eec46b).
 
 ## What are the risks of using BIOPset?
 
 BIOPset is presently in beta. The code is constantly improved and variables may change. Finally, BIOPset runs on smart contracts that have not yet been audited.
 
-In short, there are many risks and platform users must know that the possibility of losing their funds is very high at this stage.
+In short, there are many risks and platform users must know that the possibility of losing their funds is very high at this stage. Using BIOPset is your decision to make, DYOR. You will be the only one responsible for losses or gains you incur.
 
