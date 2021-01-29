@@ -20,7 +20,7 @@ There are too many to mention. Here is a [list](https://evokefinance.com/best-bi
 2. Maximums are capped at the pool balance. 
 3. There are no know-your-customer \(or **KYC**\) obligations to fulfill. 
 4. BIOPset boast competitive  rates of return \(89.8% at the time of writing as compared with 83–95% of the 20 other services listed above\).
-5. BIOPset is a more seamless platform for binary options trading. Compared to centralized services there is no waiting period to withdraw earnings.
+5. BIOPset is a more seamless platform for binary options trading. Compared to centralized services, there is no waiting period to withdraw earnings.
 
 ## Why is BIOPset safer than centralized competitors?
 
