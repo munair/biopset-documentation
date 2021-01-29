@@ -34,11 +34,11 @@ pETH is redeemable for ETH. However, its redemption value changes every time bin
 
 [Shalaquiana](https://twitter.com/shalaquiana) expresses this most eloquently with the following scenario:
 
-> Suppose BIOPset just launched and Brock the Bull has 1 ETH at his disposal. He decides to sell binary options for the pure fun of it. It's discretionary wealth for him and he has a lot of wealth to burn. 
+> Suppose BIOPset just launched and Brock the Bull has 1 ETH at his disposal. He decides to sell binary options for the pure fun of it. It's discretionary wealth for him and he has a lot of wealth to burn.
 >
 > Brock is the first writer to stake and received 1 pETH for contributing 1 ETH to the fledgling ETH pool. Brock's 1 pETH represents 100% of the ETH pool.
-
-> Furthermore, suppose Tahlia the Tigress comes along and contributes 2 ETH. She receives 2 pETH. At this point, Brock's 1 pETH represents 33% of the ETH pool. Tahlia's 2 pETH represents the remaining 66% of the ETH pool. 
+>
+> Furthermore, suppose Tahlia the Tigress comes along and contributes 2 ETH. She receives 2 pETH. At this point, Brock's 1 pETH represents 33% of the ETH pool. Tahlia's 2 pETH represents the remaining 66% of the ETH pool.
 >
 > Finally, suppose Jose the Jackrabbit holds the opinion that ETH prices are going down and purchases a 2 ETH binary put option on BIOPset. An hour passes and the options expire worthlessly OTM. Jose was wrong and lost 2 ETH.
 >
@@ -57,7 +57,7 @@ Traders trigger collateral locks. Writers commit to a deposit lock every time th
 
 ### Collateral Locks
 
-A collateral lock occurs whenever an option is purchased. The lock on pool funds remains until the option expires or the option is exercised ITM. 
+A collateral lock occurs whenever an option is purchased. The lock on pool funds remains until the option expires or the option is exercised ITM.
 
 During this period of time \(called the **lockup period**\) writers may only withdraw their respective share of the unlocked liquidity in the ETH pool.
 
@@ -71,9 +71,17 @@ Again, [Shalaquiana](https://twitter.com/shalaquiana) explains it best:
 
 Writers deposit ETH into the pool for minimum period of time. This is the second type of lockup period. The lockup period on a deposit lock resets every time a writer contributes new funds to the pool. It is set on the deposit of funds and cannot be reduced.
 
-The lockup period of BIOPset V3 is 14 days, this may be changed through governance decisions. During that 14 day period, any withdrawal of funds contributed to the pool is taxed an early withdrawal fee.
+The lockup period of BIOPset V3 is 14 days. During that 14 day period, any withdrawal of funds contributed to the pool is taxed an early withdrawal fee.
+
+{% hint style="info" %}
+The 14-day lockup period may change depending on governance decisions.
+{% endhint %}
 
 #### Early Withdraw Fees
 
-There is a 1% early withdrawal fee. During the deposit lockup period, writers are only entitled to their stake in the unlocked pool liquidity. You do not pay any withdraw fee if you wait until the end of your lockup period.
+There is a 1% early withdrawal fee. During the deposit lockup period, writers are only entitled to their stake in the unlocked pool liquidity. 
+
+{% hint style="info" %}
+The early withdrawal fee does not apply after the 14-day lockup period expires.
+{% endhint %}
 
