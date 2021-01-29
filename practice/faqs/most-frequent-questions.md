@@ -19,8 +19,8 @@ There are too many to mention. Here is a [list](https://evokefinance.com/best-bi
 1. BIOPset has no minimums. 
 2. Maximums are capped at the pool balance. 
 3. There are no know-your-customer \(or **KYC**\) obligations to fulfill. 
-4. BIOPset boast competitive  rates of return \(89.8% at the time of writing as compared with 83–95% of the 20 other services listed above\).
-5. BIOPset is arguably a much safer platform for binary options trading.
+4. BIOPset boast competitive  rates of return \(189.8% at the time of writing as compared with 183–195% of the 20 other services listed above\).
+5. BIOPset is a much safer platform for binary options trading, there is no waiting period to withdraw your earnings as a trader or fee to do so, claim your ETH and walk away at any moment.
 
 ## Why is BIOPset safer than centralized competitors?
 
@@ -30,11 +30,11 @@ Prior to BIOPset, only early investors/owners could act as a house in centralize
 
 ## What are BIOP tokens?
 
-Liquidity providers earn BIOP tokens and those tokens are required to vote on proposals that govern the platform. Learn more about BIOP tokens [here](https://medium.com/biopset/whats-up-with-that-biop-token-554773eec46b).
+Liquidity providers earn BIOP governance tokens. Those tokens are required to vote on proposals that govern the platform and earn a % of fees it generates in ETH. Learn more about BIOP tokens: [here](https://medium.com/biopset/whats-up-with-that-biop-token-554773eec46b).
 
 ## What are the risks of using BIOPset?
 
 BIOPset is presently in beta. The code is constantly improved and variables may change. Finally, BIOPset runs on smart contracts that have not yet been audited.
 
-In short, there are many risks and platform users must know that the possibility of losing their funds is very high at this stage.
+In short, there are many risks and platform users must know that the possibility of losing their funds is very high at this stage. Using BIOPset is your decision to make, DYOR. You will be the only one responsible for losses or gains you incur.
 
