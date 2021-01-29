@@ -35,7 +35,7 @@ Traders are active participants in the BIOPset trading protocol.
 
 ### Writers
 
-The vendors of binary options are called **writers** in BIOPset nomenclature. These binary options sellers \(or "**options writers**"\) are counterparties to binary options buyers. 
+The vendors of binary options are called **writers** in BIOPset nomenclature. These binary options sellers \(or "**options writers**"\) are counterparties to binary options buyers.
 
 In BIOPset, writers pool their funds together to function as passive counterparties to traders. They are also called **liquidity providers** \(or **market makers**\).
 
@@ -43,7 +43,7 @@ In BIOPset, writers pool their funds together to function as passive counterpart
 Liquidity providers are passive users in BIOPset.
 {% endhint %}
 
-Although BIOPset's infrastructure primarily provides a service to binary options buyers, it is the passive pool of options sellers that provide the liquidity required for the service to work.  They are like vendors that set up a shop and bring a market to life.
+Although BIOPset's infrastructure primarily provides a service to binary options buyers, it is the passive pool of options sellers that provide the liquidity required for the service to work. They are like vendors that set up a shop and bring a market to life.
 
 ### Interventionists
 
@@ -53,11 +53,11 @@ They intervene on behalf of the options trader by **exercising** in-the-money op
 
 ### Governors
 
-Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. Liquidity providers need not governors and vice versa. 
+Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. Liquidity providers need not governors and vice versa.
 
 Ideally, governors are also liquidity providers. This aligns shorter-term and longer-term incentive structures.
 
-Governers power (which is measured on four tiers of access) is derived from delegated voting power from their own $BIOP stake as well as that of others who support their leadership.
+Governers power \(which is measured on four tiers of access\) is derived from delegated voting power from their own $BIOP stake as well as that of others who support their leadership.
 
 {% hint style="info" %}
 Transaction fees must be enabled through voting.

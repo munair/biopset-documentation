@@ -34,11 +34,11 @@ pETH is redeemable for ETH. However, its redemption value changes every time bin
 
 [Shalaquiana](https://twitter.com/shalaquiana) expresses this most eloquently with the following scenario:
 
-> Suppose BIOPset just launched and Brock the Bull has 1 ETH at his disposal. He decides to sell binary options for the pure fun of it. It's discretionary wealth for him and he has a lot of wealth to burn. 
+> Suppose BIOPset just launched and Brock the Bull has 1 ETH at his disposal. He decides to sell binary options for the pure fun of it. It's discretionary wealth for him and he has a lot of wealth to burn.
 >
 > Brock is the first writer to stake and received 1 pETH for contributing 1 ETH to the fledgling ETH pool. Brock's 1 pETH represents 100% of the ETH pool.
-
-> Furthermore, suppose Tahlia the Tigress comes along and contributes 2 ETH. She receives 2 pETH. At this point, Brock's 1 pETH represents 33% of the ETH pool. Tahlia's 2 pETH represents the remaining 66% of the ETH pool. 
+>
+> Furthermore, suppose Tahlia the Tigress comes along and contributes 2 ETH. She receives 2 pETH. At this point, Brock's 1 pETH represents 33% of the ETH pool. Tahlia's 2 pETH represents the remaining 66% of the ETH pool.
 >
 > Finally, suppose Jose the Jackrabbit holds the opinion that ETH prices are going down and purchases a 2 ETH binary put option on BIOPset. An hour passes and the options expire worthlessly OTM. Jose was wrong and lost 2 ETH.
 >
@@ -57,7 +57,7 @@ Traders trigger collateral locks. Writers commit to a deposit lock every time th
 
 ### Collateral Locks
 
-A collateral lock occurs whenever an option is purchased. The lock on pool funds remains until the option expires or the option is exercised ITM. 
+A collateral lock occurs whenever an option is purchased. The lock on pool funds remains until the option expires or the option is exercised ITM.
 
 During this period of time \(called the **lockup period**\) writers may only withdraw their respective share of the unlocked liquidity in the ETH pool.
 

@@ -4,10 +4,10 @@ description: The benefits of interacting with BIOPset.
 
 # Benefits
 
-_BIOPset provides a **trustless** binary options trading solution for traders \(or **speculators**\). It is the first binary options platform to offer **instant access** and **no holds** on speculator funds. As soon as a trader's options are valuable \(or **in-the-money**\), they \(as an "**interventionist**"\) can exercise their claim and receive ETH directly to their wallet without having to depend or trust a third-party._ 
+_BIOPset provides a **trustless** binary options trading solution for traders \(or **speculators**\). It is the first binary options platform to offer **instant access** and **no holds** on speculator funds. As soon as a trader's options are valuable \(or **in-the-money**\), they \(as an "**interventionist**"\) can exercise their claim and receive ETH directly to their wallet without having to depend or trust a third-party._
 
 {% hint style="info" %}
-Options writers with BIOP tokens become investor/owners and act as house. This provides a benefit rarely observed in centralized binary options trading platforms. 
+Options writers with BIOP tokens become investor/owners and act as house. This provides a benefit rarely observed in centralized binary options trading platforms.
 {% endhint %}
 
 Every interaction with the BIOPset platform earns BIOP tokens. BIOP rewards may be sold or held for their voting power.
@@ -32,7 +32,7 @@ Governors always retain the right to determine exactly how each stakeholder is c
 
 ### Traders
 
-Traders \(or **options traders**\) are actively buying binary options. They can potentially double their wealth if they speculate correctly on price direction. 
+Traders \(or **options traders**\) are actively buying binary options. They can potentially double their wealth if they speculate correctly on price direction.
 
 Traders can also be interventionists \(see below\).
 
