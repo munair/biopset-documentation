@@ -6,7 +6,7 @@ description: A summary of BIOPset and its users.
 
 _BIOPset is the world's first decentralized binary options trading protocol. It is built on the Ethereum Network and governed by BIOP tokens._
 
-\_\_[_Shalaquiana_](https://twitter.com/shalaquiana) _is the pseudonymous founder behind the BIOPset protocol._
+[_Shalaquiana_](https://twitter.com/shalaquiana) _is the pseudonymous founder behind the BIOPset protocol._
 
 ## Stakeholders
 
@@ -53,13 +53,11 @@ They intervene on behalf of the options trader by **exercising** in-the-money op
 
 ### Governors
 
-Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. Liquidity providers need not governors and vice versa.
+Anyone holding BIOP tokens is automatically a governor. Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. 
 
-Ideally, governors are also liquidity providers. This aligns shorter-term and longer-term incentive structures.
-
-Governers power \(which is measured on four tiers of access\) is derived from delegated voting power from their own $BIOP stake as well as that of others who support their leadership.
+Liquidity providers need not be governors and vice versa.
 
 {% hint style="info" %}
-Transaction fees must be enabled through voting.
+Ideally, governors are also liquidity providers. This aligns shorter-term and longer-term incentive structures.
 {% endhint %}
 
