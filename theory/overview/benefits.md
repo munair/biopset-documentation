@@ -54,11 +54,11 @@ Anyone \(human, bot, or artificial intelligence\) with a wallet and sufficient g
 
 ### Governors
 
-Governors earn transaction fees. This fee is presently set to 20 basis points \(0.2%\). Every $BIOP stakers recieves a part of this fee. You do not have to have delegated governer power to reap this benefit. Even if you delegate your voting power to someone else you will still receive your % of the fee.
+Transaction fees are presently set to 20 basis points \(0.2%\) and governors may elect \(through voting\) to distribute a portion of those fees to token holders willing to stake BIOP tokens.
 
 {% hint style="info" %}
 Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. They are incentivized for ensuring user growth of the platform in the longer-term.
 {% endhint %}
 
-Traders, writers, and interventionists can all participate in governance initiatives by holding BIOP tokens.
+Traders, writers, and interventionists can all participate in governance initiatives by holding BIOP tokens. They may also delegate that voting power to any governor that garners their confidence.
 
