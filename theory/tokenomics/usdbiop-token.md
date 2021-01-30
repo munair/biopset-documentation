@@ -14,7 +14,7 @@ The majority of BIOP tokens \(68%\) are distributed to early adopters. For a mor
 | :--- | :--- |
 | Token Ticker | BIOP |
 | Token Type | ERC-20 |
-| Token Supply | 164,473,684,000 |
+| Token Supply | 125,000,176,512 |
 
 ## Token Distribution
 
