@@ -4,7 +4,7 @@ description: An introduction to BIOPset documentation.
 
 # Prologue
 
-\_\_[_BIOPset_](https://biopset.com/) _is a censorship-resistant platform that essentially empowers speculative traders to profit from forecasting the direction of asset prices. Presently, traders may take the position that ether \(or **ETH**\) prices are going up or not._
+\_\_[_BIOPset_](https://biopset.com/) _is a censorship-resistant platform that essentially empowers speculative traders to profit from forecasting the direction of asset prices. In particular, traders can speculate on the price of ether \(or **ETH**\) going up or down._
 
 ## Documentation Guide
 
