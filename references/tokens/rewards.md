@@ -8,7 +8,7 @@ Incentivizing early adoption and transitioning to a successful decentralized gov
 
 ## Transaction Mining
 
-Every interaction with the BIOPset platform earns BIOP tokens. BIOP rewards may be sold or held for their voting power.
+Every interaction with the BIOPset platform earns BIOP tokens. BIOP rewards may be sold or held or delegated for their voting power.
 
 | Action | Launch Rewards \(4x\) | Standard Rewards |
 | :--- | :--- | :--- |
