@@ -4,7 +4,7 @@ description: $BIOP is the governance token.
 
 # $BIOP Token
 
-BIOP tokens are used for governing the protocol. A total of 125 Billion $BIOP tokens will be issued. $BIOP tokens are standard ERC-20 tokens and use the ticker BIOP.
+BIOP tokens are used for governing the protocol. A total of approximately 125 Billion $BIOP tokens will be issued. $BIOP tokens are standard ERC-20 tokens and use the ticker BIOP.
 
 The majority of BIOP tokens \(68%\) are distributed to early adopters. For a more detailed breakdown, see the "token distribution" section below.
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](WELCOME.md)
+* [Prologue](WELCOME.md)
 
 ## Theory
 
