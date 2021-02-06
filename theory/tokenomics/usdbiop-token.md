@@ -14,7 +14,7 @@ The majority of BIOP tokens \(68%\) are distributed to early adopters. For a mor
 | :--- | :--- |
 | Token Ticker | BIOP |
 | Token Type | ERC-20 |
-| Token Supply | 135,000,176,512 |
+| Token Supply | 125,000,176,512 |
 
 ## Token Distribution
 
@@ -22,11 +22,11 @@ The majority \(68%\) of $BIOP will be distributed to community members via a **t
 
 Transaction mining activities commenced with the BIOPset V1 Mainnet launch. Please see the [Benefits](https://munair.gitbook.io/biopset/theory/overview/benefits) section for more information.
 
-| Specification | Attribute |
-| :--- | :--- |
-| Bonding Curve Offering | 29% |
-| Utilization Rewards | 55% |
-| Developer Fund | 7% |
+| Specification | Attribute | Amount |
+| :--- | :--- | :--- |
+| Bonding Curve Offering | 32% | 400,000,000,000 |
+| Utilization Rewards | 60% | 750,000,176,512 |
+| Developer Fund | 8% | 100,000,000,000 |
 
 {% hint style="info" %}
 BIOP V1 and BIOP V2 tokens may be exchanged for BIOP V3 tokens.
