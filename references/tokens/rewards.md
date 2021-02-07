@@ -26,7 +26,7 @@ Utilization rewards are quadrupled during the rewards period and are broken down
 Capturing utilization rewards is also referred to as **transaction mining** in BIOPset documentation.
 {% endhint %}
 
-Intervening and trading rewards are issued per option. Read more.
+Intervening and trading rewards are issued per option. [Read more](https://docs.biopset.com/references/tokens/rewards#trading-utilization-rewards-in-detail).
 
 Writing rewards are issued over time. [Read more](https://docs.biopset.com/references/tokens/rewards#writer-utilization-rewards-in-detail).
 
