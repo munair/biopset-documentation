@@ -44,7 +44,7 @@ These three types of rewards are called **contribution bonuses**, **period bonus
 
 ### Contribution Bonuses
 
-Contribution bonuses are issued relative to the liquidity provided relative to the funds in the pool.
+Contribution bonuses are issued relative to the liquidity contributed to the pool.
 
 | Contribution | Reward Multiplier |
 | :--- | :--- |
