@@ -40,7 +40,7 @@ Writers earn rewards based on 3 factors:
 2. The length of time that contribution has been staked in the pool. _For example, 3 months._
 3. The quantity of options written during the staking period. _For example, 400 1 ETH calls and 200 1 ETH puts._
 
-These three types of rewards are called **contribution bonuses**, **period bonuses**, and **trading bonuses** respectively.
+These three types of rewards are called **contribution bonuses**, **period bonuses**, and **transaction bonuses** respectively.
 
 ### Contribution Bonuses
 
@@ -75,17 +75,21 @@ Period bonuses are issued every nine \(9\) days. _For example, contributing to t
 
 There is no upper limit to the period bonus. As long as utilization rewards exist, writers are eligible to claim period bonuses. However, the bonus resets whenever there is a change in the funds contributed \(for example, on a withdrawal of funds from the pool\). The bonus also resets whenever rewards are claimed.
 
-### Trading Bonuses
+### Transaction Bonuses
 
-A trading bonus is for every ETH written \(call or put\).
+A transaction bonus is issued for every ETH written \(call or put\).
 
-| Trade | Reward Multiplier |
+| Transaction | Reward Multiplier |
 | :--- | :--- |
 | 1 ETH | 1X |
 | 2 ETH | 2X |
 | 10 ETH | 10X |
 
-The trading bonus resets anytime rewards are claimed. It also resets whenever the contribution to the pool changes. _For example, funds are withdraw from the pool._
+The transaction bonus resets anytime rewards are claimed. It also resets whenever the contribution to the pool changes. _For example, funds are withdraw from the pool._
+
+{% hint style="info" %}
+Transaction bonuses are different from [trading utilization rewards](https://docs.biopset.com/references/tokens/rewards#trading-utilization-rewards-in-detail).
+{% endhint %}
 
 ## Trading Utilization Rewards In Detail
 
