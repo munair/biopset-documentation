@@ -59,7 +59,7 @@ Contribution bonuses are issued relative to the liquidity contributed to the poo
 Contributions are diluted over time as other writers contribute to the pool. 
 
 {% hint style="info" %}
-Shalaquiana recommends claiming this bonus as soon as writers make a large contribution. Timing is essential because the contribution bonus is calculated at time of the writer makes the claim. 
+Shalaquiana recommends claiming this bonus immediately after making a large contribution. Timing is essential because the contribution bonus is calculated at time of the writer makes the claim. 
 {% endhint %}
 
 ### Period Bonuses
