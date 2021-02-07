@@ -28,7 +28,7 @@ Capturing utilization rewards is also referred to as **transaction mining** in B
 
 Intervening and trading rewards are issued per option. Read more.
 
-Writing rewards are issued over time. Read more.
+Writing rewards are issued over time. [Read more](https://docs.biopset.com/references/tokens/rewards#writer-utilization-rewards-in-detail).
 
 ## Writer Utilization Rewards In Detail
 
@@ -88,4 +88,12 @@ A trading bonus is for every ETH written \(call or put\).
 | 10 ETH | 10X |
 
 The trading bonus resets anytime rewards are claimed. It also resets whenever the contribution to the pool changes. _For example, funds are withdraw from the pool._
+
+## Trading Utilization Rewards In Detail
+
+Trading rewards are issued for each call or put purchased.
+
+## Intervening Utilization Rewards in Detail
+
+Intervening rewards are issued for each call or put expired or exercised.
 
