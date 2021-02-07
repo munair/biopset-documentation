@@ -77,7 +77,7 @@ There is no upper limit to the period bonus. As long as utilization rewards exis
 
 ### Transaction Bonuses
 
-A transaction bonus is issued for every ETH traded \(call or put\).
+A transaction bonus is issued for every trade \(call or put\).
 
 | Transaction | Reward Multiplier |
 | :--- | :--- |
