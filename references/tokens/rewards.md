@@ -75,7 +75,7 @@ Period bonuses are issued every nine \(9\) days. _For example, contributing to t
 
 There is no upper limit to the period bonus. As long as utilization rewards exist, writers are eligible to claim period bonuses. However, the bonus resets whenever there is a change in the funds contributed \(for example, on a withdrawal of funds from the pool\). The bonus also resets whenever rewards are claimed.
 
-Every 9 days you remain staked your bonus will grow. For example at 18 days you get 2x, 27 days 3x, 81 days 9x. This bonus is uncapped. It resets anytime you claim rewards or withdraw from the pool.
+Every 9 days staked the bonus grows. For example at 18 days you get 2x, 27 days 3x, 81 days 9x. This bonus is uncapped. It resets anytime you claim rewards or withdraw from the pool.
 
 ### Trading Bonuses
 
