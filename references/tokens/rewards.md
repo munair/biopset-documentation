@@ -56,7 +56,7 @@ Contribution bonuses are issued relative to the liquidity contributed to the poo
 | More than 25% of the writer pool | 14X |
 | More than 50% of the writer pool | 20X |
 
-Contributions are diluted over time as other writers contribute to the pool. 
+**Contributions are diluted over time as other writers contribute to the pool.** 
 
 {% hint style="info" %}
 Shalaquiana recommends claiming this bonus immediately after making a large contribution. Timing is essential because the contribution bonus is calculated at time of the writer makes the claim. 
