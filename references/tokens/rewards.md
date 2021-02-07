@@ -32,7 +32,7 @@ Writing rewards are issued over time. [Read more](https://docs.biopset.com/refer
 
 ## Writer Utilization Rewards In Detail
 
-Providing liquidity \(or **writing**\) to the pool is heavily incentivized. Writing rewards are structured so that writers receive more BIOP over time depending on the amount of liquidity staked.
+Providing liquidity \(or **contributing** or **writing**\) to the pool is heavily incentivized. Writing rewards are structured so that writers receive more BIOP over time depending on the amount of liquidity staked.
 
 Writers earn rewards based on 3 factors: 
 
