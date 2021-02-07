@@ -64,7 +64,7 @@ Shalaquiana recommends claiming this bonus immediately after making a large cont
 
 ### Period Bonuses
 
-Period bonuses are issued every nine \(9\) days regardless of trading activity or contribution size. _For example, contributing to the pool for 18 days results in 2X reward multiplier._
+Period bonuses are issued every nine \(9\) days. _For example, contributing to the pool for 18 days results in 2X reward multiplier._
 
 | Staking Period | Reward Multiplier |
 | :--- | :--- |
