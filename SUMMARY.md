@@ -14,7 +14,7 @@
   * [Expiring Options](theory/fundamentals/expiring-options.md)
 * [BIOPset Tokens](theory/tokenomics/README.md)
   * [$PETH Token](theory/tokenomics/pooleth.md)
-  * [$BIOP Token](theory/tokenomics/usdbiop-token.md)
+  * [$BIOP Token](theory/tokenomics/biop-token.md)
 * [BIOPset Governance](theory/governance.md)
 
 ## Practice
