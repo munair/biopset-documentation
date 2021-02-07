@@ -40,7 +40,7 @@ Writers earn rewards based on 3 factors:
 2. The length of time that contribution has been staked in the pool. _For example, 3 months._
 3. The quantity of options written during the staking period. _For example, 400 1 ETH calls and 200 1 ETH puts._
 
-These three types of rewards are called **contribution bonuses**, **period bonuses**, and **trading bonuses**.
+These three types of rewards are called **contribution bonuses**, **period bonuses**, and **trading bonuses** respectively.
 
 ### Contribution Bonuses
 
