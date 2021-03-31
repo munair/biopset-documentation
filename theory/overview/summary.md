@@ -4,7 +4,7 @@ description: A summary of BIOPset and its users.
 
 # Summary
 
-_BIOPset is the world's first decentralized binary options trading protocol. It is built on the Ethereum Network and governed by BIOP tokens._
+_BIOPset is the world's first on-demand, peer-to-pool, decentralized binary options trading protocol. It is built on the Ethereum Network to ensure censorship-resistance and governed by BIOP tokens in the Settlement DAO._
 
 [_Shalaquiana_](https://twitter.com/shalaquiana) _is the pseudonymous founder behind the initial version of the BIOPset protocol._
 
@@ -17,10 +17,10 @@ BIOPset caters to the following classes of stakeholders:
 3. Settlers.
 4. Governors.
 
-The first two stakeholders are counterparties to decentralized derivatives. The second two stakeholders make and fine tune the execution the protocol.
+The first two stakeholders are counterparties to decentralized binary options. The second two stakeholders make and fine tune the execution the protocol.
 
 {% hint style="info" %}
-Counterparties take opposing sides of a derivative contract. It is impossible to buy derivatives \(like binary options\) without a counterparty willing to sell it.
+Counterparties take opposing sides of an options contract. It is impossible to buy derivatives \(like binary options\) without a counterparty willing to sell it.
 {% endhint %}
 
 Every participant stands to gain something financially for their participation in BIOPset.
@@ -45,9 +45,9 @@ Liquidity providers are passive users in BIOPset.
 
 Although BIOPset's infrastructure primarily provides a service to binary options buyers, it is the passive pool of options sellers that provide the liquidity required for the service to work. They are like vendors that set up a shop and bring a market to life.
 
-### Interventionists
+### Settlers
 
-Interventionists are humans \(or bots\) that facilitate the realization of a gain for either the options trader or the liquidity provider.
+Settlers are humans \(or bots\) that facilitate the realization of a gain for either the options trader or the liquidity provider.
 
 They intervene on behalf of the options trader by **exercising** in-the-money options. They intervene on behalf of the liquidity provider by **expiring** binary options that have become worthless.
 
