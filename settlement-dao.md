@@ -30,7 +30,7 @@ After discussion has been exhausted via the forum, holders of the BIOP Governanc
 
 {% embed url="https://snapshot.org/\#/biopset.eth" caption="BIOPset Snapshot Page" %}
 
-To learn more about BIOPset Governance please visit this link:
+To learn more about BIOPset Governance, please visit this link:
 
 {% page-ref page="theory/governance.md" %}
 

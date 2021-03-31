@@ -6,7 +6,7 @@ description: A summary of BIOPset and its users.
 
 _BIOPset is the world's first decentralized binary options trading protocol. It is built on the Ethereum Network and governed by BIOP tokens._
 
-[_Shalaquiana_](https://twitter.com/shalaquiana) _is the pseudonymous founder behind the BIOPset protocol._
+[_Shalaquiana_](https://twitter.com/shalaquiana) _is the pseudonymous founder behind the initial version of the BIOPset protocol._
 
 ## Stakeholders
 
@@ -14,7 +14,7 @@ BIOPset caters to the following classes of stakeholders:
 
 1. Traders.
 2. Writers.
-3. Interventionists.
+3. Settlers.
 4. Governors.
 
 The first two stakeholders are counterparties to decentralized derivatives. The second two stakeholders make and fine tune the execution the protocol.
