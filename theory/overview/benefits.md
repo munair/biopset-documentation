@@ -20,7 +20,7 @@ Outside of receiving BIOP rewards, every participant stands to gain something fi
 
 1. Traders.
 2. Writers.
-3. Interventionists.
+3. Settlers.
 4. Governors.
 
 Governors always retain the right to determine exactly how each stakeholder is compensated for their activities.
@@ -37,7 +37,7 @@ Writers \(or **options writers**\) are passively selling binary options in a poo
 
 Writers can also be interventionists \(see below\).
 
-### Interventionists
+### Settlers
 
 Interventionists receive risk-free fees for providing their services. The amount is 5% of the position size. Consequently, an interventionist can earn $50K USD for exercising/expiring a million dollar position.
 
