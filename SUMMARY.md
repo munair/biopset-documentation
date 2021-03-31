@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Prologue](WELCOME.md)
+* [Documentation Guide](documentation-guide.md)
+* [Settlement DAO](settlement-dao.md)
 
 ## Theory
 

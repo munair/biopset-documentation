@@ -1,24 +1,24 @@
 ---
-description: An introduction to BIOPset documentation.
+description: BIOPset Documentation
 ---
 
 # Prologue
 
-\_\_[_BIOPset_](https://biopset.com/) _is a censorship-resistant platform that essentially empowers speculative traders to profit from forecasting the direction of asset prices. In particular, traders can speculate on the price of ether \(or **ETH**\) going up or down._
+_The **Binary Options Settlement Protocol**,_ [_BIOPset_](https://biopset.com/)_, is an audited, on-demand, censorship-resistant, peer-to-pool protocol for decentralized binary options trading._ 
 
-## Documentation Guide
+_The platform essentially provides liquidity providers \("**options writers**"\) with passive returns and  empowers speculative traders \("**options holders**"\) to profit from forecasting the direction of asset prices._ 
 
-To those new to binary options and decentralized options trading, BIOPset may be overwhelming at first glance. These official documents will serve to demystify the protocol and explain how to benefit from it.
+_The protocol is governed by a decentralized autonomous organization \("**DAO**"\) called the **Settlement DAO**._
 
-BIOPset documentation is broken into three groups:
+## Document Revision
 
-1. Theory
-2. Practice
-3. References
+The latest version \(**BIOPset Version 4**\) allows traders to speculate on the price of Link tokens \(or **LINK**\) going up or down.
 
-The section on "**theory**" explains the binary options, decentralized trading, and some design philosophies. Experienced traders may want to skip over this section. However, it is required reading for liquidity providers that want to know how yield is generated.
+**These are the official documents as of March 31st 2021**. 
 
-The section on "**practice**" is a step-by-step user guide. It is updated with changes to the platform, but for the latest information, traders are strongly urged to [join the BIOPset Discord community](https://discord.gg/4SRYBNdE3r).
+If you have any questions or concerns after reviewing this documentation, please join the discussion on [Discord](https://discord.gg/4SRYBNdE3r).
 
-The section on "**references**" contains all the relevant facts about BIOPset and its smart contracts. This section is essential for those building on top of the platform or programmatically interfacing with it.
+{% embed url="https://discord.gg/4SRYBNdE3r" caption="Get the latest information on BIOPset by asking the Discord Community" %}
+
+ If there is anything unclear or out of date, please submit a [pull request](https://github.com/munair/biopset-documentation/blob/main/WELCOME.md).
 
