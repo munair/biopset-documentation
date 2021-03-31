@@ -45,7 +45,7 @@ Interventionists receive risk-free fees for providing their services. The amount
 Interventionist act on behalf of the options trader by **exercising** in-the-money options. They intervene on behalf of the liquidity provider by **expiring** binary options that have become worthless.
 {% endhint %}
 
-Anyone \(human, bot, or artificial intelligence\) with a wallet and sufficient gas can be an interventionist.
+Anyone \(human, bot, or artificial intelligence\) with a wallet and sufficient gas can be a settler.
 
 ### Governors
 
