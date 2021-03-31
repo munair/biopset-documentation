@@ -39,10 +39,10 @@ Writers can also be interventionists \(see below\).
 
 ### Settlers
 
-Interventionists receive risk-free fees for providing their services. The amount is 5% of the position size. Consequently, an interventionist can earn $50K USD for exercising/expiring a million dollar position.
+Settlers receive risk-free fees for providing their services. The amount is 5% of the position size. Consequently, an interventionist can earn $50K USD for exercising/expiring a million dollar position.
 
 {% hint style="info" %}
-Interventionist act on behalf of the options trader by **exercising** in-the-money options. They intervene on behalf of the liquidity provider by **expiring** binary options that have become worthless.
+Settlers act on behalf of the options trader by **exercising** in-the-money options. They intervene on behalf of the liquidity provider by **expiring** binary options that have become worthless.
 {% endhint %}
 
 Anyone \(human, bot, or artificial intelligence\) with a wallet and sufficient gas can be a settler.
@@ -55,5 +55,5 @@ Transaction fees are presently set to 20 basis points \(0.2%\) and governors may
 Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. They are incentivized for ensuring user growth of the platform in the longer-term.
 {% endhint %}
 
-Traders, writers, and interventionists can all participate in governance initiatives by holding BIOP tokens. They may also delegate that voting power to any governor that garners their confidence.
+Traders, writers, and settlers can all participate in governance initiatives by holding BIOP tokens. They may also delegate that voting power to any governor that garners their confidence.
 
