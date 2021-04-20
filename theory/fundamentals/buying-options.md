@@ -66,9 +66,9 @@ At expiration, binary options are always worthless \(or possess **zero intrinsic
 
 In BIOPset V3, the future is always only one hour away. Options always expire after 60 minutes. Consider it a fancy way of stating that your options are worthless after an hour.
 
-Thanks to smart contract design, BIOPset options cannot completely expire on their own. Expiration requires intervention. Human intervention is incentivized by offering a 5_% expiration fee_.
+Thanks to smart contract design, BIOPset options cannot completely expire on their own. Expiration requires intervention. Human intervention is incentivized by offering a 0.2_% intervention fee_.
 
 Consequently, the call or put holder can _expire_ the option themselves and collect that 5% fee. In such cases, the payout of the option is 100%.
 
-Otherwise, any arbitrary platform participant can expire the option if it is in their financial interest and collect the 5% fee. In such cases, the payout of the option drops to 95% \(as 5% is paid to the person/bot that expires the option\).
+Otherwise, any arbitrary platform participant can expire the option if it is in their financial interest and collect the 0.2% fee. In such cases, the payout of the option drops to 99.8% \(as 0.2% is paid to the person/bot that interviens to complete the option\).
 
