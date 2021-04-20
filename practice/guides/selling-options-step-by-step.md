@@ -32,5 +32,5 @@ Click on "**Stake**".
 
 ![Press button and send transaction in wallet to confirm stake](https://github.com/BIOPset/gitbook/raw/main/lp4.png)
 
-When you stake funds you will receive a message explaining the current lockup period. Don't worry, if you need to access your funds before the period is complete you can, but pay a small fee for leaving the other LPs hanging.
+When you stake funds you will receive a message explaining the current lockup period. Don't worry, if you need to access your funds before the period is complete you can, but pay a small fee(1% by default, distributed to everyone else in the pool proportionately) for leaving the other LPs hanging. See [here](https://docs.biopset.com/theory/fundamentals/selling-options#liquidity-locking) for more information on early withdraw fees.
 
