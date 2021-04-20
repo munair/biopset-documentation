@@ -55,5 +55,5 @@ Once you’ve confirmed the transaction you have two choices:
 1. You can sit back and watch for the next dip to buy at.
 2. You can visit the Exercise/Expire page to complete your option.
 
-If you don’t want to have to watch your option for the next hour that’s ok. Anyone will be able to complete it for you and they will get a small fee \(~5% of your profits\).
+If you don’t want to have to watch your option for the next hour that’s ok. Anyone will be able to complete it for you and they will get a small fee \(~0.02% of your profits\). See [here](https://docs.biopset.com/practice/guides/exercising-options-step-by-step#step-1-exercise-valuable-options) for more information on option settlement.
 
