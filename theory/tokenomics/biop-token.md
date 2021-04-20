@@ -34,12 +34,14 @@ The majority of BIOP tokens \(45.2%\) are allocated to reward platform utilizati
 ### Utilization Rewards
 
 The majority \(45.2%\) of $BIOP will be distributed to community members via an **transaction mining** mechanism. Transaction mining is the process of rewarding platform participants. Thus these rewards may also be called transaction mining rewards.
+Of these tokens, 10% will be unlocked at Token Generation Event, with a following vesting of 3.125% per month over the following 
 
 Transaction mining activities commenced with the BIOPset V1 Mainnet launch. Please see the [Benefits](https://munair.gitbook.io/biopset/theory/overview/benefits) section for more information.
 
 ### Bonding Curve
 
 The Bonding Curve will be deployed by the DAO in the case of lackluster liquidity on dexes. The swap fee of the Bonding Curve will go to the BIOPset Treasury.
+The tokens will be locked until 6 months from launch, when the ability to deploy the Bonding Curve will be transferred to the DAO
 Please see [Bonding Curve](https://docs.biopset.com/references/tokens/boding-curve) for further details.
 
 ### Initial Tiered Coins Offering
@@ -54,6 +56,8 @@ To incentivise Uniswap liquidity we will provide incentives to the Uniswap Liqui
 ### Developer Fund
 
 The Developer Fund will be used to pay for development, deployment, grants and to prevent DAO attacks until a healthy organization is present.
+Of the developer fund 25% will be dedicated to the original team members with a 10% unlock at TGE and a linear unlock over 3 years.
+The other 75% will be transferred to the DAO after its launch.
 
 ### Uniswap Listing
 
