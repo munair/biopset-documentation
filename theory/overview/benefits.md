@@ -29,17 +29,17 @@ Governors always retain the right to determine exactly how each stakeholder is c
 
 Traders \(or **options traders**\) are actively buying binary options. They can potentially double their wealth if they speculate correctly on price direction.
 
-Traders can also be interventionists \(see below\).
+Traders can also be settlers \(see below\).
 
 ### Writers
 
 Writers \(or **options writers**\) are passively selling binary options in a pool with other sellers. They are BIOPset's market makers \(or **liquidity providers**\). Liquidity providers earn very competitive yields for market making \(**options writing**\).
 
-Writers can also be interventionists \(see below\).
+Writers can also be settlers \(see below\).
 
 ### Settlers
 
-Settlers receive risk-free fees, \(0.2% by default\) for providing their services. The amount is 5% of the position size. Consequently, an interventionist can earn $50K USD for exercising/expiring a million dollar position.
+Settlers receive risk-free fees for providing their services. The default amount is 0.2% of the option's value. Consequently, any settler could potentially earn $2K USD for exercising/expiring a million dollar position.
 
 {% hint style="info" %}
 Settlers act on behalf of the options trader by **exercising** in-the-money options. They intervene on behalf of the liquidity provider by **expiring** binary options that have become worthless.
