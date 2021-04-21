@@ -23,7 +23,7 @@ The first two stakeholders are counterparties to decentralized binary options. T
 Counterparties take opposing sides of an options contract. It is impossible to buy derivatives \(like binary options\) without a counterparty willing to sell it.
 {% endhint %}
 
-Every participant stands to gain something financially for their participation in BIOPset.
+Every participant stands to gain something financially for their interaction with the protocol.
 
 ### Traders
 
