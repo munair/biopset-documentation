@@ -4,7 +4,7 @@ description: The benefits of interacting with BIOPset.
 
 # Benefits
 
-_BIOPset provides a **trustless** binary options trading solution for traders \(or **speculators**\). It is the first binary options platform to offer **instant access** and **no holds** on speculator funds. As soon as a trader's options are valuable \(or **in-the-money**\), they \(as an "**settler**"\) can exercise their claim and receive ETH directly to their wallet without having to depend or trust a third-party._
+_BIOPset provides a **trustless** binary options trading solution for traders \(or **speculators**\). It is the first binary options platform to offer **instant access** and **no holds** on speculator funds. As soon as a trader's options are valuable \(or **in-the-money**\), they \(as a "**settler**"\) can exercise their claim and receive ETH directly to their wallet without having to depend or trust a third-party._
 
 {% hint style="info" %}
 Options writers with BIOP tokens become investor/owners and act as house. This provides a benefit rarely observed in centralized binary options trading platforms.
