@@ -39,7 +39,7 @@ Transaction mining activities commenced with the BIOPset V1 Mainnet launch. Plea
 
 ### Bonding Curve
 
-The Bonding Curve will be deployed by the DAO in the case of lackluster liquidity on dexes. The swap fee of the Bonding Curve will go to the BIOPset Treasury.
+The Bonding Curve will be deployed by the DAO in the case of lackluster liquidity on dexes. Any swap fee (set to zero by default in both directions) of the Bonding Curve will go to the BIOPset Treasury.
 Please see [Bonding Curve](https://docs.biopset.com/references/tokens/boding-curve) for further details.
 
 ### Initial Tiered Coins Offering
