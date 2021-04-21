@@ -56,19 +56,23 @@ It never matters how much the price increases or decreases. In BIOPset, call hol
 
 ## Strike Price <a id="effd"></a>
 
-On BIOPset, call holders can exercise their options anytime the price of LINK exceeds the **strike price**. Put holders can exercise their options anytime the strike price exceeds the price of LINK.
+The price of LINK at the moment the binary option is purchased is called the **strike price**. It is always displayed on the BIOPset UI.
 
-The strike price of a binary option on BIOPset is simply determined. It is the price of LINK at the moment the option was purchased according to the [Chainlink Oracle](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work#:~:text=Summary,when%20certain%20conditions%20are%20met.). It is always listed on the BIOPset UI.
+To be precise, it is the price of LINK at the moment the option was purchased according to the [Chainlink Oracle](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work#:~:text=Summary,when%20certain%20conditions%20are%20met.). This is important to note because the value of the option changes based on this strike price.
+
+Put holders can settle their options if the strike price exceeds the price of LINK when the first update from the oracle is received. Call holders can settle their options if the price of LINK when the first update from the oracle exceeds the strike price.
 
 ## Expiration <a id="15d9"></a>
 
-At expiration, binary options are always worthless \(or possess **zero intrinsic value**\). The intrinsic value that they possessed has **expired**. At that point, the right to exercise them no longer exists.
+At expiration, traditional binary options are always worthless \(or possess **zero intrinsic value**\). The intrinsic value that they possessed has **expired**. At that point, the right to exercise them no longer exists. 
 
-In BIOPset V4, the future is always only one hour away. Options always expire after 60 minutes. Consider it a fancy way of stating that your options are worthless after an hour.
+The concept of expiration does not exist with BIOPset. Expiration is set to infinity. That's because the value of the option is determined by the oracle update received.
 
-Thanks to smart contract design, BIOPset options cannot completely expire on their own. Expiration requires intervention. Human intervention is incentivized by offering a 0.2_% settlement fee_.
+## Settlement
 
-Consequently, the call or put holder can _settle_ the option themselves and collect that 0.2% fee. In such cases, the payout of the option is 100%.
+Any person or bot may also settle the option and receive the 0.2_%_ **settlement fee** after the oracle update is received.
 
-Otherwise, any arbitrary platform participant can settle the option if it is in their financial interest and collect the 0.2% fee. In such cases, the payout of the option drops to 99.8% \(as 0.2% is paid to the person/bot that settles the option\).
+Consequently, the call or put holder can **settle** the option themselves and collect that 0.2% fee. In such cases, the payout of the option is 99% \(BIOPset charges 1% transaction fee\).
+
+Otherwise, any arbitrary platform participant can settle the option if it is in their financial interest and collect the 0.2% fee. In such cases, the payout of the option drops to 98.8% \(as 0.2% is paid to the person/bot that settles the option\).
 
