@@ -15,7 +15,7 @@ This section on buying options was taken from the detailed explanation provided 
 BIOPset facilitates price speculation. The whole purpose of buying binary options is to take a position on the direction of movement in prices.
 
 {% hint style="info" %}
- Binary options are essentially all or nothing financial derivatives. Traders either win or they lose. There’s no in-between \(or other possible outcomes\).
+Binary options are essentially all or nothing financial derivatives. Traders either win or they lose. There’s no in-between \(or other possible outcomes\).
 {% endhint %}
 
 They are called derivatives because their value is derived from something else after a certain period of time. After that period of time, the options are said to have **expired**. That _something else_ from which binary options derive their value is called the **underlying** \(or **underlying asset**\).
@@ -58,7 +58,7 @@ It never matters how much the price increases or decreases. In BIOPset, call hol
 
 On BIOPset, call holders can exercise their options anytime the price of ETH exceeds the **strike price**. Put holders can exercise their options anytime the strike price exceeds the price of ETH.
 
-The strike price of a binary option on BIOPset is simply determined. It is the price of ETH at the moment the option was purchased according to the [Chainlink Oracle](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work#:~:text=Summary,when%20certain%20conditions%20are%20met.). It is always listed on the BIOPset UI. 
+The strike price of a binary option on BIOPset is simply determined. It is the price of ETH at the moment the option was purchased according to the [Chainlink Oracle](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work#:~:text=Summary,when%20certain%20conditions%20are%20met.). It is always listed on the BIOPset UI.
 
 ## Expiration <a id="15d9"></a>
 
@@ -66,9 +66,9 @@ At expiration, binary options are always worthless \(or possess **zero intrinsic
 
 In BIOPset V3, the future is always only one hour away. Options always expire after 60 minutes. Consider it a fancy way of stating that your options are worthless after an hour.
 
-Thanks to smart contract design, BIOPset options cannot completely expire on their own. Expiration requires intervention. Human intervention is incentivized by offering a 0.2_% intervention fee_.
+Thanks to smart contract design, BIOPset options cannot completely expire on their own. Expiration requires intervention. Human intervention is incentivized by offering a 0.2_% settlement fee_.
 
-Consequently, the call or put holder can _expire_ the option themselves and collect that 5% fee. In such cases, the payout of the option is 100%.
+Consequently, the call or put holder can _settle_ the option themselves and collect that 0.2% fee. In such cases, the payout of the option is 100%.
 
-Otherwise, any arbitrary platform participant can expire the option if it is in their financial interest and collect the 0.2% fee. In such cases, the payout of the option drops to 99.8% \(as 0.2% is paid to the person/bot that interviens to complete the option\).
+Otherwise, any arbitrary platform participant can settle the option if it is in their financial interest and collect the 0.2% fee. In such cases, the payout of the option drops to 99.8% \(as 0.2% is paid to the person/bot that settles the option\).
 

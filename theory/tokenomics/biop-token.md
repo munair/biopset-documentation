@@ -4,8 +4,7 @@ description: $BIOP is the governance token.
 
 # $BIOP Token
 
-BIOP tokens are used for governing the BIOPset protocol.
-A total of approximately 31 Million $BIOP tokens will be issued. $BIOP tokens are standard ERC-20 tokens and use the ticker BIOP.
+BIOP tokens are used for governing the BIOPset protocol. A total of approximately 31 Million $BIOP tokens will be issued. $BIOP tokens are standard ERC-20 tokens and use the ticker BIOP.
 
 The majority of BIOP tokens \(45.2%\) are allocated to reward platform utilization. For a more detailed breakdown, see the "token distribution" section below.
 
@@ -39,13 +38,11 @@ Transaction mining activities commenced with the BIOPset V1 Mainnet launch. Plea
 
 ### Bonding Curve
 
-The Bonding Curve will be deployed by the DAO in the case of lackluster liquidity on dexes. Any swap fee (set to zero by default in both directions) of the Bonding Curve will go to the BIOPset Treasury.
-Please see [Bonding Curve](https://docs.biopset.com/references/tokens/boding-curve) for further details.
+The Bonding Curve will be deployed by the DAO in the case of lackluster liquidity on dexes. Any swap fee \(set to zero by default in both directions\) of the Bonding Curve will go to the BIOPset Treasury. Please see [Bonding Curve](https://docs.biopset.com/references/tokens/boding-curve) for further details.
 
 ### Initial Tiered Coins Offering
 
-The initial funds for development and a bootstrap to the BIOPset Liquidity will be done through the ITCO (Initial Tiered Coins Offering).
-For more details about the [ITCO](https://docs.biopset.com/references/tokens/itco).
+The initial funds for development and a bootstrap to the BIOPset Liquidity will be done through the ITCO \(Initial Tiered Coins Offering\). For more details about the [ITCO](https://docs.biopset.com/references/tokens/itco).
 
 ### Dex Rewards
 
@@ -61,8 +58,7 @@ To provide a starting price and enable trading on Uniswap the team will lock BIO
 
 ### V2/V3 Repayment
 
-During BIOPset V2 and BIOPset V3, the betters won over the entire liquidity pool. A lot of measures are now in place to avoid that it will happen again.
-To repay those who lost their Ethereum because of those reasons, we will reward them with an amount of BIOP equal to the ETH they lost, at a rate of ~0.0001 ETH / BIOP.
+During BIOPset V2 and BIOPset V3, the betters won over the entire liquidity pool. A lot of measures are now in place to avoid that it will happen again. To repay those who lost their Ethereum because of those reasons, we will reward them with an amount of BIOP equal to the ETH they lost, at a rate of ~0.0001 ETH / BIOP.
 
 ### Airdrops
 
@@ -71,3 +67,4 @@ To incentivize the community to actively partecipate and grow we are planning mu
 ### V2/V3 Swap
 
 The users that partecipated in transaction mining on the previous biop versions and got old versions of the BIOP token will receive the new BIOP v4
+
