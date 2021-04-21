@@ -1,8 +1,8 @@
 ---
 description: >-
-  An explanation of exercising binary options and what takes place at the
-  protocol level.
+  An explanation of settling binary options and what takes place at the protocol
+  level.
 ---
 
-# Exercising Options
+# Settling Options
 
