@@ -55,9 +55,8 @@ To incentivise Uniswap liquidity we will provide incentives to the Uniswap Liqui
 
 ### Developer Fund
 
-The Developer Fund will be used to pay for development, deployment, grants and to prevent DAO attacks until a healthy organization is present.
-Of the developer fund 25% will be dedicated to the original team members with a 10% unlock at TGE and a linear unlock over 3 years.
-The other 75% will be transferred to the DAO after its launch.
+The Developer Fund will be used to pay for initial development, deployment and to prevent DAO attacks until a healthy organization is present.
+10% of the Developer Fund will unlock at TGE followed by a linear unlock over 3 years.
 
 ### Uniswap Listing
 
