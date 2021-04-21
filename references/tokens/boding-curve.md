@@ -1,2 +1,2 @@
-# Boding Curve
+# Reserve Boding Curve
 

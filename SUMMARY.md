@@ -33,7 +33,7 @@
 
 * [Tokens](references/tokens/README.md)
   * [Tiered IBCO](references/tokens/tiered-ibco.md)
-  * [Boding Curve](references/tokens/boding-curve.md)
+  * [Reserve Boding Curve](references/tokens/boding-curve.md)
   * [Rewards](references/tokens/rewards.md)
 * [Smart Contracts](references/smart-contracts/README.md)
   * [Github Repository](references/smart-contracts/github-repository.md)
