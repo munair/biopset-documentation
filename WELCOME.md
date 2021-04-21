@@ -4,7 +4,7 @@ description: BIOPset Documentation
 
 # Prologue
 
-_The **Binary Options Settlement Protocol**,_ [_BIOPset_](https://biopset.com/)_, is an audited, on-demand, censorship-resistant, peer-to-pool protocol for decentralized binary options trading._
+_The **Binary Options Settlement Protocol**,_ [_BIOPset_](https://biopset.com/)_, is an audited, on-demand, censorship-resistant, peer-to-pool protocol for transparent binary options trading._
 
 _The platform essentially provides liquidity providers \("**options writers**"\) with passive returns and empowers speculative traders \("**options holders**"\) to profit from forecasting the direction of asset prices._
 
@@ -12,9 +12,9 @@ _The protocol is governed by a decentralized autonomous organization \("**DAO**"
 
 ## Document Revision
 
-The latest version \(**BIOPset Version 4**\) allows traders to speculate on the price of Link tokens \(or **LINK**\) going up or down.
+The latest version \(**BIOPset Version 4**\) allows traders to speculate on the [price of Chainlink tokens](https://www.coingecko.com/en/coins/chainlink) \(or **LINK**\) going up or down.
 
-**These are the official documents as of March 31st 2021**.
+**These are the official documents as of April 21st 2021**.
 
 If you have any questions or concerns after reviewing this documentation, please join the discussion on [Discord](https://discord.gg/4SRYBNdE3r).
 
