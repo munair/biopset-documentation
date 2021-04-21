@@ -34,7 +34,7 @@ The majority of BIOP tokens \(45.2%\) are allocated to reward platform utilizati
 ### Utilization Rewards
 
 The majority \(45.2%\) of $BIOP will be distributed to community members via an **transaction mining** mechanism. Transaction mining is the process of rewarding platform participants. Thus these rewards may also be called transaction mining rewards.
-Of these tokens, 10% will be unlocked at Token Generation Event, with a following vesting of 3.125% per month over the following 
+Of these tokens, 10% will be unlocked at Token Generation Event, with a following vesting of 2.5% per month over the following 3 years
 
 Transaction mining activities commenced with the BIOPset V1 Mainnet launch. Please see the [Benefits](https://munair.gitbook.io/biopset/theory/overview/benefits) section for more information.
 
