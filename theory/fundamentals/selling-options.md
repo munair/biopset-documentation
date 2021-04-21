@@ -6,7 +6,7 @@ description: >-
 
 # Selling Options
 
-In BIOPset, options sellers are market makers \(or **liquidity providers**\). Sellers \(or **writers**\) pool their funds together to take an opposing position to any option buyer \(or **trader**\) that wants to express an opinion on the direction of prices.
+In BIOPset, options sellers are market makers \(or **liquidity providers**\). Sellers \(officially called **writers**\) pool their funds together to take an opposing position to any option buyer \(or **trader**\) that wants to express an opinion on the direction of prices.
 
 Writers are always passive counterparties to active traders on the BIOPset platform.
 
@@ -18,7 +18,7 @@ Whenever a writer makes a contribution to the pool, they are issued **pETH** \(o
 
 ## Staking Ether
 
-BIOPset V3 will offer traders the ability to speculate on the direction of ether \(or **ETH**\) prices. An ETH pool will be created to make this happen. Option sellers deposit their contributions directly to this pool and receive pETH in return.
+BIOPset V4 offers traders the ability to speculate on the direction of Chainlink \(or **LINK**\) prices. The pooled ETH pool makes this possible. Option sellers deposit their contributions directly to this pool and receive pETH in return.
 
 {% hint style="info" %}
 The amount of pETH a writer receives is a representation of their relative contribution to the entire quantity of ETH in the pool.
@@ -40,7 +40,7 @@ pETH is redeemable for ETH. However, its redemption value changes every time bin
 >
 > Furthermore, suppose Tahlia the Tigress comes along and contributes 2 ETH. She receives 2 pETH. At this point, Brock's 1 pETH represents 33% of the ETH pool. Tahlia's 2 pETH represents the remaining 66% of the ETH pool.
 >
-> Finally, suppose Jose the Jackrabbit holds the opinion that ETH prices are going down and purchases a 2 ETH binary put option on BIOPset. An hour passes and the options expire worthlessly OTM. Jose was wrong and lost 2 ETH.
+> Finally, suppose Jose the Jackrabbit holds the opinion that LINK prices are going down and purchases a 2 ETH worth of binary put option on LINK via BIOPset. The oracle update is received and the options expire worthlessly OTM. Jose was wrong and lost 2 ETH.
 >
 > Jose's loss is the pool's benefit. At the expiration of Jose's binary option, the pool has a total of 5 ETH in it. If Brock were to withdraw his portion of the pool, his 33% stake is worth 1.66 ETH. He receives 33% of 5 ETH.
 
@@ -63,7 +63,7 @@ During this period of time \(called the **lockup period**\) writers may only wit
 
 Again, [Shalaquiana](https://twitter.com/shalaquiana) explains it best:
 
-> **Withdrawal only entitles liquidity providers to their share of the unlocked liquidity.** For example, supposed there is 6 ETH in the pool and your share of the pool is 50% \(meaning that you possess 3 pETH of the total 6 pETH issued\) but a trader suddenly purchases a 2 ETH binary call option. That purchase would result in a collateral lock that reduces the unlocked liquidity from 6 ETH to 4 ETH.
+> **Withdrawal only entitles liquidity providers to their share of the unlocked liquidity.** For example, supposed there is 6 ETH in the pool and your share of the pool is 50% \(meaning that you possess 3 pETH of the total 6 pETH issued\) but a trader suddenly purchases 2 ETH worth of binary call options banking on LINK's price appreciation. That purchase would result in a collateral lock that reduces the unlocked liquidity from 6 ETH to 4 ETH.
 >
 > If you wanted to withdraw your liquidity during the collateral lock, you could only withdraw up to 2 ETH \(50% of the unlocked 4 ETH\). If you wait for the collateral lock to be removed through expiration or exercise, you could withdraw your entire stake of 3 ETH \(50% of the unlocked 6 ETH\).
 
