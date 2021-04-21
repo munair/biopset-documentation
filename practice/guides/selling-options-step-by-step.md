@@ -4,13 +4,11 @@ description: Instructions for writing.
 
 # Selling Options Step-By-Step
 
-
-
 ## Step 1: Connect Your Wallet
 
-Visit [BIOPset.com](http://biopset.com/) and connect your wallet by pressing the “**Connect**” button. 
+Visit [BIOPset.com](http://biopset.com/) and connect your wallet by pressing the “**Connect**” button.
 
- ![1](https://github.com/BIOPset/gitbook/raw/main/1.png)
+![1](https://github.com/BIOPset/gitbook/raw/main/1.png)
 
 Choose your provider.
 
@@ -32,5 +30,5 @@ Click on "**Stake**".
 
 ![Press button and send transaction in wallet to confirm stake](https://github.com/BIOPset/gitbook/raw/main/lp4.png)
 
-When you stake funds you will receive a message explaining the current lockup period. Don't worry, if you need to access your funds before the period is complete you can, but pay a small fee(1% by default, distributed to everyone else in the pool proportionately) for leaving the other LPs hanging. See [here](https://docs.biopset.com/theory/fundamentals/selling-options#liquidity-locking) for more information on early withdraw fees.
+When you stake funds you will receive a message explaining the current lockup period. Don't worry, if you need to access your funds before the period is complete you can, but pay a small fee\(1% by default, distributed to everyone else in the pool proportionately\) for leaving the other LPs hanging. See [here](https://docs.biopset.com/theory/fundamentals/selling-options#liquidity-locking) for more information on early withdraw fees.
 
