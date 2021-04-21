@@ -79,13 +79,9 @@ The 14-day lockup period may change depending on governance decisions.
 
 #### Early Withdraw Fees
 
-There is a 1% early withdrawal fee. During the deposit lockup period, writers are only entitled to their stake in the unlocked pool liquidity. 
+There is a 1% early withdrawal fee. During the deposit lockup period, writers are only entitled to their stake in the unlocked pool liquidity.
 
 {% hint style="info" %}
-The early withdrawal fee does not apply after the 14-day lockup period expires.
-{% endhint %}
-
-{% hint style="info" %}
-The percentage of the early withdraw fee may change depending on governance decisions.
+The early withdrawal fee does not apply after the 14-day lockup period expires and the percentage may change depending on governance decisions.
 {% endhint %}
 
