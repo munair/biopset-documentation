@@ -25,7 +25,6 @@
   * [Buying Options Step-By-Step](practice/guides/buying-options-step-by-step.md)
   * [Selling Options Step-By-Step](practice/guides/selling-options-step-by-step.md)
   * [Settling Options Step-By-Step](practice/guides/exercising-options-step-by-step.md)
-  * [Expiring Options Step-By-Step](practice/guides/expiring-options-step-by-step.md)
 * [FAQs](practice/faqs/README.md)
   * [General Questions](practice/faqs/most-frequent-questions.md)
   * [Trading Questions](practice/faqs/trading-questions.md)
