@@ -4,13 +4,13 @@ description: The benefits of interacting with BIOPset.
 
 # Benefits
 
-_BIOPset provides a **trustless** binary options trading solution for traders \(or **speculators**\). It is the first binary options platform to offer **instant access** and **no holds** on speculator funds. As soon as a trader's options are valuable \(or **in-the-money**\), they \(as a "**settler**"\) can exercise their claim and receive ETH directly to their wallet without having to trust a third-party._
+_BIOPset provides a **trustless** binary options trading solution for traders \(or **speculators**\). It is the first binary options platform to offer **instant access** and **no holds** on speculator funds. As soon as a trader's options are valuable \(or **in-the-money**\), they \(as a "**settler**"\) can exercise their claim and receive ETH directly to their wallet without having to depend on a third-party._
 
 {% hint style="info" %}
-Options writers with BIOP tokens become investor/owners and act as house. This provides a benefit rarely observed in centralized binary options trading platforms.
+Options writers with BIOP tokens become investor-owners and act as house. This provides a benefit rarely observed in centralized binary options trading platforms.
 {% endhint %}
 
-Every interaction with the BIOPset platform earns BIOP tokens. BIOP rewards may be sold or held for their voting power.
+Every interaction with the BIOPset platform earns BIOP tokens during the utilization rewards period. BIOP rewards may be sold or held for their voting power.
 
 {% page-ref page="../../references/tokens/rewards.md" %}
 
@@ -42,17 +42,17 @@ Writers can also be settlers \(see below\).
 Settlers receive risk-free fees for providing their services. The default amount is 0.2% of the option's value. Consequently, any settler could potentially earn $2K USD for exercising/expiring a million dollar position.
 
 {% hint style="info" %}
-Settlers act on behalf of the options trader by **exercising** in-the-money options. They intervene on behalf of the liquidity provider by **expiring** binary options that have become worthless.
+Settlers act on behalf of the options trader by **settling** in-the-money options. They intervene on behalf of the liquidity provider by **settling** out-of-the money options.
 {% endhint %}
 
 Anyone \(human, bot, or artificial intelligence\) with a wallet and sufficient gas can be a settler.
 
 ### Governors
 
-Settlement fees are presently set to 20 basis points \(0.2%\) and governors may elect \(through voting\) to distribute a portion of those fees to token holders willing to stake BIOP tokens.
+Transaction fees are presently set to 20 basis points \(0.2%\) and those proceeds accrue to the treasury of the Settlement DAO. Governors control the funds in the Settlement DAO treasury. They may also elect \(through voting\) to distribute a portion of those fees directly to token holders willing to stake BIOP tokens.
 
 {% hint style="info" %}
-Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. They are incentivized for ensuring user growth of the platform in the longer-term.
+Governors manage the treasury and are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. They can elect to be incentivized for growing the number of users of the platform in the longer-term.
 {% endhint %}
 
 Traders, writers, and settlers can all participate in governance initiatives by holding BIOP tokens. They may also delegate that voting power to any governor that garners their confidence.
