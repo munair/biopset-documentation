@@ -37,5 +37,6 @@
   * [Rewards](references/tokens/rewards.md)
 * [Smart Contracts](references/smart-contracts/README.md)
   * [Github Repository](references/smart-contracts/github-repository.md)
+  * [Audits](references/smart-contracts/audits.md)
   * [Contact Addresses](references/smart-contracts/contact-addresses.md)
 
