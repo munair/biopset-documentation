@@ -26,7 +26,7 @@ Utilization rewards are quadrupled during the rewards period and are broken down
 Capturing utilization rewards is also referred to as **transaction mining** in BIOPset documentation.
 {% endhint %}
 
-Intervening and trading rewards are issued per day. [Read more](https://docs.biopset.com/references/tokens/rewards#trading-utilization-rewards-in-detail).
+Settling and trading rewards are issued per day. [Read more](https://docs.biopset.com/references/tokens/rewards#trading-utilization-rewards-in-detail).
 
 Writing rewards are issued per block. [Read more](https://docs.biopset.com/references/tokens/rewards#writer-utilization-rewards-in-detail).
 
@@ -38,9 +38,9 @@ The reward is calculated by the number of time the contribution has been staked 
 
 ## Trading Utilization Rewards In Detail
 
-Trading rewards are calculated at the end of the day (6666 blocks) weighted by the volume traded of settled options.
+Trading rewards are calculated at the end of the day \(6666 blocks\) weighted by the volume traded of settled options.
 
 ## Settling Utilization Rewards in Detail
 
-Settling rewards are issued at the end of the day (6666 blocks) weighted by the number of options settled.
+Settling rewards are issued at the end of the day \(6666 blocks\) weighted by the number of options settled.
 
