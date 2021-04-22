@@ -21,6 +21,8 @@ The TIBCO is comprised of 6 different price tiers that the coins can be traded a
 
 Every tier will last 12 hours and its price will be higher than the previous one. After 12 hours from the start of a tier the remaining coins in the tier are burned.
 
+The Event will last for a total of 3 days(72 hours) from the time the contract is activated.
+
 ## Use of raised funds
 
 The first 50 Ethereum raised will go to the treasury to be used for:
