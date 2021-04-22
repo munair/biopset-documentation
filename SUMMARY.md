@@ -27,7 +27,7 @@
 * [FAQs](practice/faqs/README.md)
   * [General Questions](practice/faqs/most-frequent-questions.md)
   * [Trading Questions](practice/faqs/trading-questions.md)
-  * [Liquidity Provision Questions](practice/faqs/liquidity-provision-questions.md)
+  * [Writer Questions](practice/faqs/liquidity-provision-questions.md)
 
 ## References
 
