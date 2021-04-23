@@ -28,7 +28,7 @@ Selling binary options on BIOPset is not a risk-free interaction with the protoc
 
 ### Settlers
 
-Settling options is risk free.
+Settling binary options on BIOPset is a risk free interaction.
 
 {% page-ref page="../fundamentals/exercising-options.md" %}
 
