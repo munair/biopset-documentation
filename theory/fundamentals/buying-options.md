@@ -60,7 +60,7 @@ The price of BTC at the moment the binary option is purchased is called the **st
 
 To be precise, it is the price of BTC at the moment the option was purchased according to the [Chainlink Oracle](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work#:~:text=Summary,when%20certain%20conditions%20are%20met.). This is important to note because the value of the option changes based on this strike price.
 
-Put holders can settle their options if the strike price exceeds the price of LINK when the first update from the oracle is received. Call holders can settle their options if the price of BTC when the first update from the oracle exceeds the strike price.
+Put holders can settle their options if the strike price exceeds the price of BTC when the first update from the oracle is received. Call holders can settle their options if the price of BTC when the first update from the oracle exceeds the strike price.
 
 ## Expiration <a id="15d9"></a>
 
