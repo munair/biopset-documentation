@@ -19,9 +19,9 @@ The TIBCO is comprised of 6 different price tiers that the coins can be traded a
 | 5 | 1'400'000 | 0.000055 |
 | 6 | 1'800'000 | 0.00006 |
 
-Every tier will last until the amount of tokens sold exceeds it or the IBCO event ends. Each tier price will be higher than the previous one. 
+Every tier will last until the amount of tokens sold exceeds it or the IBCO event ends. Each tier price will be higher than the previous one.
 
-The Event will last for a total of 3 days(72 hours) from the time the contract is activated.
+The Event will last for a total of 3 days\(72 hours\) from the time the contract is activated.
 
 ## Use of raised funds
 
