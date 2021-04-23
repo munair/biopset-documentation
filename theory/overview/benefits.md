@@ -12,7 +12,7 @@ _A trader's worthless options accrue to the liquidity pool \(aka "**house**"\) t
 Options writers with BIOP tokens become investor-owners and act as house. This provides a benefit rarely observed in centralized binary options trading platforms.
 {% endhint %}
 
-Every interaction with the BIOPset platform earns BIOP tokens during the utilization rewards period. BIOP rewards may be sold or held for their voting power.
+Every interaction with the BIOPset platform earns BIOP tokens during the utilization rewards period. BIOP rewards may be sold or staked for their voting power.
 
 {% page-ref page="../../references/tokens/rewards.md" %}
 
@@ -51,11 +51,13 @@ Anyone \(human, bot, or artificial intelligence\) with a wallet and sufficient g
 
 ### Governors
 
-Transaction fees are presently set to 20 basis points \(0.2%\) and those proceeds accrue to the treasury of the Settlement DAO. Governors control the funds in the Settlement DAO treasury. They may also elect \(through voting\) to distribute a portion of those fees directly to token holders willing to stake BIOP tokens.
+Transaction fees are presently set to 20 basis points \(0.2%\) and those proceeds accrue to the treasury of the Settlement DAO. Governors control the funds in the Settlement DAO treasury. They may also elect \(through vote delegation\) to distribute a portion of those fees directly to token holders willing to stake BIOP tokens.
 
 {% hint style="info" %}
 Governors manage the treasury and are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. They can elect to be incentivized for growing the number of users of the platform in the longer-term.
 {% endhint %}
 
-Traders, writers, and settlers can all participate in governance initiatives by holding BIOP tokens. They may also delegate that voting power to any governor that garners their confidence.
+Traders, writers, and settlers can all participate in governance initiatives by holding BIOP tokens. They may also delegate that voting power to any governor that garners their confidence. 
+
+It is highly recommended that voting power only ever be delegegated to predeployed audited smart contracts making the desired change instead of delegating to a human's address.
 
