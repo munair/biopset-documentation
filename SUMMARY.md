@@ -9,6 +9,7 @@
 * [BIOPset Overview](theory/overview/README.md)
   * [Summary](theory/overview/summary.md)
   * [Benefits](theory/overview/benefits.md)
+  * [Risks](theory/overview/risks.md)
 * [BIOPset Fundamentals](theory/fundamentals/README.md)
   * [Buying Options](theory/fundamentals/buying-options.md)
   * [Selling Options](theory/fundamentals/selling-options.md)
