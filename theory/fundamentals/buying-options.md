@@ -32,7 +32,7 @@ Traders use the platform to _make_ money based on what \(they think\) they know 
 {% tab title="Options Buyers" %}
 Options buyers hold an opinion about the direction of movement in the price of BTC/USD. There are only two directions: up or down. They choose one.
 
-_For example, Alice believes that BTC/USD prices are going up. She feels very strongly that this will come to pass. Alice is willing to commit 10 LINK on that opinion and takes "**up**" the position against a pool of option sellers on BIOPset._
+_For example, Alice believes that BTC/USD prices are going up. She feels very strongly that this will come to pass. Alice is willing to commit 10 ETH on that opinion and takes "**up**" the position against a pool of option sellers on BIOPset._
 {% endtab %}
 
 {% tab title="Options Sellers" %}
