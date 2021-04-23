@@ -34,7 +34,7 @@ Settling options is risk free.
 
 ### Governing
 
-Governing involves holding BIOP tokens. This is not risk free. The price of BIOP will go up or down depending on the supply and demand.
+Governing involves holding BIOP tokens. This is not risk free. The price of BIOP will go up or down depending on supply and demand.
 
 {% page-ref page="../governance.md" %}
 
