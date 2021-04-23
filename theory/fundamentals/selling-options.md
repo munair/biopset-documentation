@@ -8,7 +8,7 @@ description: >-
 
 In BIOPset, options sellers are market makers \(or **liquidity providers**\). Sellers \(officially called **writers**\) pool their funds together to take an opposing position to any option buyer \(or **trader**\) that wants to express an opinion on the direction of prices.
 
-Writers are passive counterparties to every active traders on the BIOPset platform.
+Writers are always passive counterparties to active traders on the BIOPset platform.
 
 {% hint style="info" %}
 Counterparties take the opposing side of a binary options contract. It is impossible to buy binary options without a counterparty.
@@ -71,7 +71,7 @@ Again, [Shalaquiana](https://twitter.com/shalaquiana) explains it best:
 
 Writers deposit ETH into the pool for minimum period of time. This is the second type of lockup period. The lockup period on a deposit lock resets every time a writer contributes new funds to the pool. It is set on the deposit of funds and cannot be reduced.
 
-The lockup period of BIOPset V3 is 14 days. During that 14 day period, any withdrawal of funds contributed to the pool is taxed an early withdrawal fee(1%). After the lockup period funds may be withdrawn and occur no fees.
+The lockup period of BIOPset V3 is 14 days. During that 14 day period, any withdrawal of funds contributed to the pool is taxed an early withdrawal fee\(1%\). After the lockup period funds may be withdrawn and occur no fees.
 
 {% hint style="info" %}
 The 14-day lockup period may change depending on governance decisions.

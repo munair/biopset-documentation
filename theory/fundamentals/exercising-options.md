@@ -6,7 +6,7 @@ description: >-
 
 # Settling Options
 
-This is a risk free opportunity to profit by helping the BIOPset protocol run smoothly.
+This is a risk free passive opportunity to profit by helping the BIOPset protocol run smoothly.
 
 Settling options is the process closing trades by exercising them ITM or expiring them OTM. Both of these actions are completed with the press of one button and are the same kind of transaction.
 
