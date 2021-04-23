@@ -22,7 +22,7 @@ They are called derivatives because their value is derived from something else a
 
 In BIOPset V4, the utilized information feeds are provided by [Chainlink](https://docs.chain.link/docs/reference-contracts). However, the underlying needn’t be a financial asset or cryptocurrency. It could be the quality of the weather \(like a rainy day\) or something else that will have an attribute that changes in the future. \[1\]
 
-Binary options are speculative instruments. Those that purchase them \(**options buyers** or **options holders**\) usually have a strong opinion about the future state of some phenomenon. In BIOPset V4, traders that buy binary options typically have a serious opinion about the future price of their choosen price trading pair (i.e. BTC/USD).
+Binary options are speculative instruments. Those that purchase them \(**options buyers** or **options holders**\) usually have a strong opinion about the future state of some phenomenon. In BIOPset V4, traders that buy binary options typically have a serious opinion about the future price of their chosen price trading pair \(i.e. BTC/USD\).
 
 More precisely, traders are actively engaged in forecasting the direction of the movements in the price of the underlying asset. They are not passively buying options because they want to _save_ money. **WARNING: never use your savings**.
 
@@ -64,7 +64,7 @@ Put holders can settle their options if the strike price exceeds the price of LI
 
 ## Expiration <a id="15d9"></a>
 
-At expiration, traditional binary options are always worthless \(or possess **zero intrinsic value**\). The intrinsic value that they possessed has **expired**. At that point, the right to exercise them no longer exists. 
+At expiration, traditional binary options are always worthless \(or possess **zero intrinsic value**\). The intrinsic value that they possessed has **expired**. At that point, the right to exercise them no longer exists.
 
 The concept of expiration does not exist with BIOPset. Expiration is set to infinity. That's because the value of the option is determined by the oracle update received.
 
