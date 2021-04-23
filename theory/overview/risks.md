@@ -4,7 +4,7 @@ description: The risks of interacting with BIOPset.
 
 # Risks
 
-_Trading binary options is risky and not all binary options carry the same risk. If you are the liquidity provider \(or **writer**\) you face different risks in comparison to the binary option holder \(or **trader**\) and the options settler \(or **settler**\)._
+_Trading binary options is risky and not all binary options carry the same risk. If you are the liquidity provider \(or **writer**\) you face different risks to the binary option holder \(or **trader**\) and the binary option settler \(or **settler**\)._
 
 ## Stakeholder Risks
 
