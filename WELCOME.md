@@ -6,9 +6,9 @@ description: BIOPset 문서화
 
 _**바이너리 옵션 결제 프로토콜**\(Binary Options Settlement Protocol, BIOPset\)은 투명한 바이너리 옵션 거래를 위하여 감사 완료된 주문형 검열 방지 피어-투-풀 프로토콜이다._
 
-_The platform essentially provides liquidity providers \("**options writers**"\) with passive returns and empowers speculative traders \("**options holders**"\) to profit from forecasting the direction of asset prices._
+_이 플랫폼은 기본적으로 유동성 제공자\("**옵션 작성자**"\)에게는 수동적인\(passive\) 수익을 제공하고 공격적인 거래자\("**옵션 보유자**"\)들에게는 권한을 부여해서 자산 가격의 방향을 예측하여 이익을 얻을 수 있도록 한다._
 
-_The protocol is governed by a decentralized autonomous organization \("**DAO**"\) called the **Settlement DAO**._
+_이 프로토콜은 **결산DAO**\(**Settlement DAO**\)라고 불리는 분산형 자율 조직의 관리하에 있다._
 
 ## Document Revision
 
