@@ -4,7 +4,7 @@ description: An Introduction to the Settlement DAO
 
 # Settlement DAO
 
-_The Binary Options Settlement Protocol \("**BIOPset**"\) is governed by the Settlement DAO._ 
+_The Binary Options Settlement Protocol \("**BIOPset**"\) is governed by the Settlement DAO._
 
 ## Governance Overview
 
@@ -33,8 +33,4 @@ After discussion has been exhausted via the forum, holders of the BIOP Governanc
 To learn more about BIOPset Governance, please visit this link:
 
 {% page-ref page="theory/governance.md" %}
-
-
-
-
 
