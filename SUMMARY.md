@@ -2,7 +2,7 @@
 
 * [프롤로그](WELCOME.md)
 * [문서화 가이드](documentation-guide.md)
-* [Settlement DAO](settlement-dao.md)
+* [결산 DAO](settlement-dao.md)
 
 ## Theory
 

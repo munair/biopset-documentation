@@ -2,7 +2,7 @@
 description: An Introduction to the Settlement DAO
 ---
 
-# Settlement DAO
+# 결산 DAO
 
 _The Binary Options Settlement Protocol \("**BIOPset**"\) is governed by the Settlement DAO._
 
