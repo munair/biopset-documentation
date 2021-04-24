@@ -1,32 +1,32 @@
 ---
-description: An Introduction to the Settlement DAO
+description: 결산 DAO 소개
 ---
 
 # 결산 DAO
 
-_The Binary Options Settlement Protocol \("**BIOPset**"\) is governed by the Settlement DAO._
+_바이너리 옵션 결산 프로토콜\(“**BIOPset**”\)은 결산 DAO가 관리합니다._
 
-## Governance Overview
+## 관리 개요
 
-The Settlement DAO governs through a liquid democracy of BIOP token holders.
+결산 DAO는 BIOP 토큰 보유자 들의 유동적 민주주의 방식\(비유적 표현으로 직/간접 민주주의의 혼합형\)을 통하여 관리합니다. 
 
-A "**House of Representatives**" votes on formalized initiatives that bubble up from community discussions on Discord to the BIOPset forum. Formalized initiatives are put to a vote on BIOPset [Snapshot Page](https://snapshot.org/#/biopset.eth).
+이를테면 “**하원**”은 Discord 상 커뮤니티 토론에서부터 BIOPset 포럼을 통해 형성된 공식화된 이니셔티브\(결정\)에 투표합니다. 공식화된 결정은 [BIOPset 스냅샷 페이지](https://snapshot.org/#/biopset.eth)에서 투표에 부쳐집니다.
 
-## Governance Process
+## 관리 프로세스\(절차\)
 
-The governance process of the Settlement DAO is outline below:
+결산 DAO의 관리 절차는 다음과 같이 요약할 수 있습니다.
 
-### Discussion
+## 토론
 
-Ideas for improving BIOPset are discussed in Discord.
+BIOPset을 개선을 위한 의견 들은 Discord 상에서 논의 됩니다.
 
-### Proposals
+## 제안
 
-Meritorious ideas are then outlined in official proposals in the BIOPset forum.
+그리고나서 매우 가치있는 의견 들은 BIOPset 포럼에서 공식 제안서로 요약됩니다.
 
-### Voting
+## **투표**
 
-After discussion has been exhausted via the forum, holders of the BIOP Governance Token may then vote on the official proposal via the [Snapshot Page](https://snapshot.org/#/biopset.eth).
+포럼에서 충분한 토론을 마친 후에, BIOP 관리 토큰 보유자 들은 [스냅샷 페이지](https://snapshot.org/#/biopset.eth)를 통해서 공식 제안서에 투표합니다.
 
 {% embed url="https://snapshot.org/\#/biopset.eth" caption="BIOPset Snapshot Page" %}
 
