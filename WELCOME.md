@@ -1,5 +1,5 @@
 ---
-description: BIOPset Documentation
+description: BIOPset 문서화
 ---
 
 # 프롤로그
