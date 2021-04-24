@@ -4,7 +4,7 @@ description: BIOPset 문서화
 
 # 프롤로그
 
-_The **Binary Options Settlement Protocol**,_ [_BIOPset_](https://biopset.com/)_, is an audited, on-demand, censorship-resistant, peer-to-pool protocol for transparent binary options trading._
+_**바이너리 옵션 결제 프로토콜**\(Binary Options Settlement Protocol, BIOPset\)은 투명한 바이너리 옵션 거래를 위하여 감사 완료된 주문형 검열 방지 피어-투-풀 프로토콜이다._
 
 _The platform essentially provides liquidity providers \("**options writers**"\) with passive returns and empowers speculative traders \("**options holders**"\) to profit from forecasting the direction of asset prices._
 
