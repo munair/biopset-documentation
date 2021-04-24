@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Prologue](WELCOME.md)
+* [프롤로그](WELCOME.md)
 * [Documentation Guide](documentation-guide.md)
 * [Settlement DAO](settlement-dao.md)
 
