@@ -1,24 +1,24 @@
 ---
-description: A Guide to BIOPset Documentation
+description: BIOPset 문서화에 대한 안내(가이드)
 ---
 
-# Documentation Guide
+# 문서화 가이드
 
-_Welcome to the Binary Options Settlement Protocol \(**BIOPset**\). This guide is prepared for users of the platform that are completely new to options trading and the peculiarities of high-low binary options._
+_바이너리 옵션 결산 프로토콜\(**BIOPset**\)에 오신 것을 환영합니다. 이 안내서는 옵션 거래 및 하이-로우\(최고-최저점\) 바이너리 옵션의 특성에 아주 처음인 플랫폼 사용자 들을 위해서 준비되었습니다._
 
-## Organization
+## **구성**
 
-To those new to binary options and decentralized options trading, BIOPset may be overwhelming at first glance. These official documents will serve to demystify the protocol and explain how to benefit from it.
+바이너리 옵션 및 분산 옵션 거래를 처음 접하는 사람 들에게는 BIOPset이 처음에 언뜻 보기에는 엄청나 보일 수도 있을 수 있습니다. 본 공식 문서\(설명서\)는 프로토콜을 이해하기 쉽게 도움을 줄 것이며, 또한 어떠한 혜택을 얻을 수 있는지를 잘 설명해 줄 것입니다.
 
-BIOPset documentation is broken into three groups:
+BIOPset 안내 문서화는 세가지 그룹으로 나뉘어 집니다:
 
-1. Theory
-2. Practice
-3. References
+1. 이론
+2. 실전 연습
+3. 참고 사례
 
-The section on "**theory**" explains the binary options, decentralized trading, and some design philosophies. Experienced traders may want to skip over this section. That said, consider it required reading for liquidity providers that want to know how yield is generated.
+“**이론**” 섹션에서는 바이너리 옵션, 분산 거래 및 디자인 철학\(배경\)에 대한 설명을 해 줄 것입니다. 경험이 많은 거래자 들은 이 부분을 건너 뛰고 싶어 할 지도 모릅니다만, 이는 수익률의 생성 방법을 알고자 하는 유동성 제공자 들에게는 읽어 볼 필요가 있다고 사료됩니다.
 
-The section on "**practice**" is a step-by-step user guide. It is updated with changes to the platform, but for the latest information, traders are strongly urged to [join the BIOPset Discord community](https://discord.gg/4SRYBNdE3r).
+“**실전 연습**” 항목은 단계별 사용자 가이드입니다. 플랫폼에 대한 변경은 업데이트 되지만, 최신 정보를 얻기 위해서는 [BIOPset Discord 커뮤니티에 가입/활동하기를 강력하게 권고합니다](https://discord.gg/4SRYBNdE3r).
 
-The section on "**references**" contains all the relevant facts about BIOPset and its smart contracts. This section is essential for those building on top of the platform or programmatically interfacing with it.
+“**참고사례**” 섹션에는 BIOPset과 그 스마트 계약에 관한 모든 관련 사항 들을 포함하고 있습니다. 이 항목은 플랫폼의 최상위에 구축하거나 프로그램 방식으로 인터페이스를 하고자 하는 사용자 들에게는 필수적입니다.
 
