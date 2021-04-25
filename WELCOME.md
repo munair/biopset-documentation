@@ -12,7 +12,7 @@ _이 프로토콜은 **결산DAO**\(**Settlement DAO**\)라고 불리는 분산�
 
 ## 문서 수정
 
-최신 버전\(**BIOpset 버전 4**\)은 거래자들이 [체인링크 토큰](https://www.coingecko.com/en/coins/chainlink)\(또는 LINK\)의 가격이 오르거나 내려가는 것을 추측할 수 있게 해준다. 
+최신 버전\(**BIOpset 버전 4**\)은 거래자들이 [체인링크 토큰](https://www.coingecko.com/en/coins/chainlink)\(또는 BTC\)의 가격이 오르거나 내려가는 것을 추측할 수 있게 해준다. 
 
 **이것들은 2021년 4월 21일 현재 공식 문서들입니다.** 
 
