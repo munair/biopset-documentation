@@ -8,61 +8,52 @@ _BIOPset은 세계 최초의 주문형, 피어-투-풀\(peer-to-pool\), 분산 �
 
 [_Shalaquiana_](https://twitter.com/shalaquiana)_는 BIOPset 프로토콜의 최초 버전 뒤에 숨겨졌던 익명의 설립자입니다._
 
-## 스테이크홀더\(보관자\) 들
+## 스테이크홀더\(보관자\)들
 
 BIOPset에는 다음과 같은 부류의 스테이크홀더 들에게 맡겨집니다: 
 
-1. 거래자들 
+1. 트레이더들\(거래자\)들 
 2. 기고가\(글 작성자\) 들 
 3. 결산 담당자 들 
 4. 관리/통제하는 자 들
 
-BIOPset caters to the following classes of stakeholders:
-
-1. Traders.
-2. Writers.
-3. Settlers.
-4. Governors.
-
-The first two stakeholders are counterparties to decentralized binary options. The second two stakeholders make and fine tune the execution the protocol.
+첫번째의 두 보관자 들은 서로 분산형 바이너리 옵션의 상대방 들입니다. 두 번째의 두 보관자 들은 프로토콜을 만들고 실행을 미세 조정합니다.
 
 {% hint style="info" %}
-Counterparties take opposing sides of an options contract. It is impossible to buy derivatives \(like binary options\) without a counterparty willing to sell it.
+이 두 상대방 들은 옵션 계약의 반대 편에 서게 됩니다. 즉, 거래상대방이 팔지 않고서는 파생상품\(바이너리 옵션 등\)을 살 수 없습니다.
 {% endhint %}
 
-Every participant stands to gain something financially for their interaction with the protocol.
+모든 참가자는 프로토콜과의 상호 작용에 댜해 재정적으로 무언가를 얻을 수 있는 위치에 있게 됩니다.
 
-### Traders
+### **거래자들**
 
-The purchasers of binary options are called **options traders** \(or just **traders**\) in BIOPset nomenclature. These binary options buyers \(or "**options holders**"\) are actively speculating on the direction of price movements. Traders are the principal users of the BIOPset platform.
+바이너리 옵션의 구매자 들을 BIOPset 명명법에서 **옵션 트레이더**\(또는 **트레이더**\)라고 합니다. 이러한 바이너리 옵션 구매자\(또는 "**옵션 보유자**"\)는 가격 이동 방향을 감지해서 적극적으로 과감한 투자\(투기\)를 하고 있습니다. 트레이더는 BIOPset 플랫폼의 주요 사용자 들 입니다.
 
 {% hint style="info" %}
-Traders \(or options buyers\) are active participants in the BIOPset trading protocol.
+트레이더\(또는 옵션 구매자\)는 BIOPset 거래 프로토콜의 적극적인 참여자 들 입니다.
 {% endhint %}
 
-### Writers
+### 기고가\(작가\)들
 
-The vendors of binary options are called **writers** in BIOPset nomenclature. These binary options sellers \(or "**options writers**"\) are counterparties to binary options buyers.
+바이너리 옵션의 매도자 들을 BIOPset 명명법에서 **기고가**\(작가\)라고 칭합니다. 이러한 바이너리 옵션 판매자\(또는 "**옵션 작성자**"\)는 바이너리 옵션 구매자의 상대자 들 입니다. BIOPset에서 작가들은 함께 그들의 자금을 모아서 거래자들에게 수동적인 거래상대방 역할을 합니다. 그들은 또한 유동성 공급자\(또는 마켓메이커\)라고도 불립니다.
 
-In BIOPset, writers pool their funds together to function as passive counterparties to traders. They are also called **liquidity providers** \(or **market makers**\).
+작가\(또는 **유동성 제공자**\) 들은 BIOPset 플랫폼에서 수동적인 사용자입니다. BIOPset의 인프라는 우선적으로 바이너리 옵션 구매자들에게 서비스를 제공하지만, 서비스가 작동하는데 필요한 유동성을 제공하는 것은 옵션 판매자들의 수동적인 풀입니다. 그들은 가게를 차리고 시장을 활성화하는 상인들과 같습니다.
 
 {% hint style="info" %}
 Writers \(or liquidity providers\) are passive users in BIOPset.
 {% endhint %}
 
-Although BIOPset's infrastructure primarily provides a service to binary options buyers, it is the passive pool of options sellers that provide the liquidity required for the service to work. They are like vendors that set up a shop and bring a market to life.
+BIOPset의 인프라는 우선적으로 바이너리 옵션 구매자들에게 서비스를 제공하지만, 서비스가 작동하는데 필요한 유동성을 제공하는 것은 옵션 판매자들의 수동적인 풀입니다. 그들은 가게를 차리고 시장을 활성화하는 상인들과 같습니다.
 
-### Settlers
+### 결산담당자 들
 
-Settlers are humans \(or bots\) that facilitate the realization of a gain for either the trader or writer.
+결산 담당자 들은 거래자 혹은 작가의 이익 실현을 용이하게 해 주는 인간\(혹은 봇-특정 작업을 반복 수행하는 프로그램\)입니다. 
 
-They intervene on behalf of the options trader by **settling** in-the-money options. They intervene on behalf of the options writers by **settling** binary options that have become worthless.
+이들은 옵션 거래자를 대신하여 “_내가격옵션\(in-the-money option\)”을 행사함으로써 개입합니다. 또한 이들은 옵션 작가를 대신하여 가치가 없어진 바이너리 옵션을 정리해 줌으로써 개입합니다._ in-the-money 옵션: 행사가격이 시장가격보다 낮은 경우 유리하게 행사할 수 있음.
 
-### Governors
+### 관리/통제자 들
 
-Anyone holding BIOP tokens is automatically a governor. Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers.
-
-Liquidity providers need not be governors and vice versa.
+BIOP 토큰을 보유한 자는 누구나 자동으로 거버너\(관리/통제자\)입니다. 관리자들은 유동성 제공자들에게 합리적인 수익률을 보장하기 위해 BIOPset 한도를 미세 조정할 책임이 있습니다. 유동성 제공자들은 관리자일 필요가 없으며 그 반대의 경우도 같습니다. 이상적으로는 관리자들도 유동성 제공자이며 이는 장/단기 인센티브 구조을 조정합니다.
 
 {% hint style="info" %}
 Ideally, governors are also liquidity providers. This aligns shorter-term and longer-term incentive structures.
