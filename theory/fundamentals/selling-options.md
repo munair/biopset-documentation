@@ -1,10 +1,8 @@
 ---
-description: >-
-  An explanation of selling binary options and what takes place at the protocol
-  level.
+description: 바이너리 옵션 판매에 대한 설명과 프로토콜 수준에서 수행되는 작업.
 ---
 
-# Selling Options
+# 판매옵션
 
 In BIOPset, options sellers are market makers \(or **liquidity providers**\). Sellers \(officially called **writers**\) pool their funds together to take an opposing position to any option buyer \(or **trader**\) that wants to express an opinion on the direction of prices.
 

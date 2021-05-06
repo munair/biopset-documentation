@@ -1,10 +1,8 @@
 ---
-description: >-
-  An explanation of settling binary options and what takes place at the protocol
-  level.
+description: 바이너리 옵션 결제에 대한 설명과 프로토콜 수준에서 수행되는 작업.
 ---
 
-# Settling Options
+# 결제옵션
 
 This is a risk free passive opportunity to profit by helping the BIOPset protocol run smoothly.
 

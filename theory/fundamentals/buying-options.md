@@ -1,38 +1,34 @@
 ---
-description: >-
-  An explanation of buying binary options and what takes place at the protocol
-  level.
+description: 바이너리 옵션 구매에 대한 설명과 프로토콜 수준에서 수행되는 작업.
 ---
 
-# Buying Options
+# 구매옵션
 
-Binary options are speculative financial instruments that derive their value from some other asset or quantity. Eventually, all binary options are either completely worthless or become worth a specific calculable amount in the future.
+바이너리 옵션은 일부 다른 자산 혹은 자산의 크기로부터 그 가치를 도출하는 투기적 성격의 금융상품\(또는 금융수단\)입니다. 결국, 모든 바이너리 옵션은 완전히 가치가 없어지거나 혹은 미래에 특정 양의 계산 가능한 가치있는 액수가 됩니다. 구매 옵션에 대한 이 섹션은 [미디엄](https://munair.medium.com/what-are-binary-options-e18fcf59dd01)\(Medium\)에 게재된 자세한 설명에서 발췌한 것입니다. 이론을 건너뛰고 바로 거래로 들어가려면 [사용 설명서](https://munair.gitbook.io/biopset/practice/guides)를 살펴 보십시오.
 
-This section on buying options was taken from the detailed explanation provided on [Medium](https://munair.medium.com/what-are-binary-options-e18fcf59dd01). To skip the theory and dive straight into trading, check out the [instruction manuals](https://munair.gitbook.io/biopset/practice/guides).
+## 가격 예측\(투기적 측면에서\)
 
-## Price Speculation
-
-BIOPset facilitates price speculation. The whole purpose of buying binary options is to take a position on the direction of movement in prices.
+BIOPset은 가격 예측을 용이하게 해 줍니다. 바이너리 옵션 구매의 전적인 목적은 가격 변화에 대해 방향을 잡는 것입니다.
 
 {% hint style="info" %}
-Binary options are essentially all or nothing financial derivatives. Traders either win or they lose. There’s no in-between \(or other possible outcomes\).
+바이너리 옵션은 본질적으로 all-or-nothing\(전부 혹은 제로\)의 금융 파생상품입니다. 트레이더 들은 돈을 벌거나 잃는 것-둘 중 하나이며, 그 중간\(혹은 또 다른 가능한 결과물-소득\)은 없습니다.
 {% endhint %}
 
-They are called derivatives because their value is derived from something else after a certain period of time. After that period of time, the options are said to have **expired**. That _something else_ from which binary options derive their value is called the **underlying** \(or **underlying asset**\).
+파생상품으로 불려지는 것은 그 가치가 일정 기간이 지난 후에 다른 어떤 것으로부터 파생 되기 때문입니다. 그 일정 기간 후에 옵션 들은 **기간** **만료** 되었다고 합니다. 바이너리 옵션에서 가치를 파생시킨 그 무엇을 **기초**\(또는 **기초 자산**\)이라고 부릅니다.
 
-In BIOPset V4, the utilized information feeds are provided by [Chainlink](https://docs.chain.link/docs/reference-contracts). However, the underlying needn’t be a financial asset or cryptocurrency. It could be the quality of the weather \(like a rainy day\) or something else that will have an attribute that changes in the future. \[1\]
+BIOPset 버전4에서 활용된 정보 입력 들은 [체인링크](https://docs.chain.link/docs/reference-contracts)\(Chainlink\)로부터 제공됩니다. 하지만, 기초자산은 금융자산이나 암호화화폐일 필요가 없으며 비오는 날과 같은 날씨의 질, 또는 미래에 변화를 가져올 속성을 가진 다른 어떤 것일 수도 있습니다.
 
-Binary options are speculative instruments. Those that purchase them \(**options buyers** or **options holders**\) usually have a strong opinion about the future state of some phenomenon. In BIOPset V4, traders that buy binary options typically have a serious opinion about the future price of their chosen price trading pair \(i.e. BTC/USD\).
+바이너리 옵션은 투기성 상품입니다. 이 상품을 구매하는 사람들\(옵션 **구매자**/**보유자**\)들은 통상 어떠한 현상의 미래 상태에 대한 강한 의견을 갖고 있습니다. BIOPset 버전4에서 바이너리 옵션을 구매하는 트레이더 들은 그들이 선택한 가격거래묶음\(예를들어 비트코인/미달러의 페어와 같은\)의 미래 가격에 대하여 전형적으로 진지한 의견을 갖고 있습니다.
 
-More precisely, traders are actively engaged in forecasting the direction of the movements in the price of the underlying asset. They are not passively buying options because they want to _save_ money. **WARNING: never use your savings**.
+보다 정확하게는 트레이더 들은 기초자산 가격의 변동 방향을 예측함에 있어서 적극적으로 개입되어 있습니다. 이들은 돈을 절약하고 싶어서 소극적으로 옵션을 구매하지는 않습니다. “경고:저축한 돈을 절대 사용하지 마십시요!” 
 
-Traders use the platform to _make_ money based on what \(they think\) they know about the future.
+트레이더 들은 그들이 미래에 대해 아는 것\(그들 생각으로\)에 근거하여 돈을 벌기 위한 플랫폼을 활용합니다.
 
 {% tabs %}
-{% tab title="Options Buyers" %}
-Options buyers hold an opinion about the direction of movement in the price of BTC/USD. There are only two directions: up or down. They choose one.
-
-_For example, Alice believes that BTC/USD prices are going up. She feels very strongly that this will come to pass. Alice is willing to commit 10 ETH on that opinion and takes "**up**" the position against a pool of option sellers on BIOPset._
+{% tab title="옵션 구매자" %}
+옵션 구매자들은 BTC/USD의 가격 이동 방향에 대한 의견을 가집니다. 오직 두 방향\(상승 혹은 하락\)만이 있으며, 그 중 하나를 선택합니다.  
+  
+_한가지 예를 들어보면, 앨리스는 BTC/USD 페어의 가격이 오를 것이라고 믿으며 그렇게 되리라고 매우 강하게 느끼고 있습니다. 그래서 앨리스는 그 의견에 기꺼이 10 ETH를 걸 것을 약속하고 BIOPset 상에서 옵션 판매자 풀에 대해 “업\(상승\)” 포지션을 선택합니다._
 {% endtab %}
 
 {% tab title="Options Sellers" %}
@@ -46,35 +42,38 @@ _Considering Alice's strong opinion, the pool is obliged to take the opposing vi
 {% endtab %}
 {% endtabs %}
 
-## Calls And Puts <a id="8949"></a>
+## 콜옵션과 풋옵션
 
-Traders that want to make money on an appreciation in the price of BTC purchase **calls**. Those prognosticating a price decrease purchase **puts**.
+BTC가격의 상승으로 돈을 벌기를 원하는 트레이더 들은 **콜옵션**을 구매하고, 가격 하락을 예측한다면 **풋옵션**을 구매합니다. 
 
-Only price direction matters.
+가격의 향방 만이 관건입니다.
 
-It never matters how much the price increases or decreases. In BIOPset, call holders win whether the price of BTC increases by one dollar or one thousand dollars. Similarly, put holders win whether the price of BTC decreases by one dollar or one thousand dollars.
+가격 상승/하락의 폭은 중요하지 않습니다. BIOPset 상에서는 BTC 가격이 1달러가 상승하든, 1,000달러가 상승하든 콜옵션 보유자가 승리하며, 반대로 BTC 가격이 1달러 또는 1,000달러가 하락하면 풋옵션 보유자가 이기게 됩니다.\(승리/이긴다는 의미는 돈을 번다는 의미라고 할 수 있음\).
 
-## Strike Price <a id="effd"></a>
+## **행사 가격**
 
-The price of BTC at the moment the binary option is purchased is called the **strike price**. It is always displayed on the BIOPset UI.
+바이너리 옵션의 구매가 이루어지는 순간의 BTC 가격을 **행사 가격**\(strike/exercise price\)이라고 부르며, 항상 BIOPset UI\(사용자 인터페이스\)에 나타납니다.
 
-To be precise, it is the price of BTC at the moment the option was purchased according to the [Chainlink Oracle](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work#:~:text=Summary,when%20certain%20conditions%20are%20met.). This is important to note because the value of the option changes based on this strike price.
+정확히 말하자면, [Chainlink Oracle](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work#:~:text=Summary,when%20certain%20conditions%20are%20met.)에 따라서 옵션이 구매되는 순간의 BTC 가격입니다. 이러한 행사 가격에 따라서 옵션의 가치가 변화하기 때문에 유의하는 것이 중요합니다.
 
-Put holders can settle their options if the strike price exceeds the price of BTC when the first update from the oracle is received. Call holders can settle their options if the price of BTC when the first update from the oracle exceeds the strike price.
+풋옵션 보유자 들은 오라클로부터 첫번째 업데이트를 받을 때, 행사가격이 BTC 가격을 초과한다면 그들의 옵션을 처리할 수 있습니다. 반대로 콜옵션 보유자 들은 오라클로부터 첫 업데이트를 받았을 때 BTC 가격이 행사 가격을 초과한다면 옵션을 처분할 수 있습니다.  
 
-## Expiration <a id="15d9"></a>
 
-At expiration, traditional binary options are always worthless \(or possess **zero intrinsic value**\). The intrinsic value that they possessed has **expired**. At that point, the right to exercise them no longer exists.
+## **기간** **만료**
 
-The concept of expiration does not exist with BIOPset. Expiration is set to infinity. That's because the value of the option is determined by the oracle update received.
+만료 시, 기존의 바이너리 옵션의 가치는 없으며\(또는 **내재가치 제로 보유**\), 이들이 가졌던 내재 가치는 소멸되었습니다. 이러한 관점에서 이 옵션을 행사할 권리가 더이상 존재하지 않습니다. 
 
-## Settlement
+BIOPset에는 **기한만료**라는 개념은 없습니다. 만료기간이 무한대로 설정되어 있으며, 이는 옵션의 가치가 오라클 업데이트를 받으면서 정해지기 때문입니다.
 
-Any person or bot may also settle the option and receive the 0.2_%_ **settlement fee** after the oracle update is received.
+## **결제**
 
-Consequently, the call or put holder can **settle** the option themselves and collect that 0.2% fee. In such cases, the payout of the option is 99% \(BIOPset charges 1% transaction fee\).
+사람 또는 프로그램도 옵션을 결제처리하고 오라클 업데이트를 받은 후에 0.2%의 **결제 수수료**를 받습니다.
 
-Otherwise, any arbitrary platform participant can settle the option if it is in their financial interest and collect the 0.2% fee. In such cases, the payout of the option drops to 98.8% \(as 0.2% is paid to the person/bot that settles the option\).
+결과적으로 콜 또는 풋 옵션 보유자 들은 옵션을 **스스로 처리**하고 그 0.2% 수수료를 받을 수 있는데, 이러한 경우에 옵션 지급액은 99%입니다. 
 
-The settlement role transactions are always risk free. The exact payoff is viewable before this action is taken.
+\(BIOPset은 1%의 거래수수료를 부과합니다.\)
+
+그렇지 않으면 임의의 플랫폼 참여자가 금융지분이 있는 경우에 그 옵션을 결제하고 0.2% 수수료를 가져갈 수 있습니다. 이러한 경우 옵션 지급액은 98.8%\(옵션을 결제하는 사람/봇\(프로그램\)에게 0.2% 지급됨\)로 감소하게 됩니다.
+
+결제 역할 트랜잭션은 항상 위험이 없습니다. 이 조치를 취하기 전에 정확한 보상을 확인할 수 있기 때문입니다.
 
