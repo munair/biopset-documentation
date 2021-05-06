@@ -1,14 +1,21 @@
 ---
-description: A summary of BIOPset and its users.
+description: BIOPset과 사용자들에대한 요약/정리.
 ---
 
-# Summary
+# 요약
 
-_BIOPset is the world's first on-demand, peer-to-pool, decentralized binary options trading protocol. It is built on the Ethereum Network to ensure censorship-resistance and governed by BIOP tokens in the Settlement DAO._
+_BIOPset은 세계 최초의 주문형, 피어-투-풀\(peer-to-pool\), 분산 형 바이너리 옵션 거래 프로토콜입니다. 검열 저항을 보장하기 위해 이더 리움 네트워크를 기반으로 구축되었으며 결산\(Settlement\) DAO의 BIOP 토큰에 의해 통제/관리됩니다._
 
-[_Shalaquiana_](https://twitter.com/shalaquiana) _is the pseudonymous founder behind the initial version of the BIOPset protocol._
+[_Shalaquiana_](https://twitter.com/shalaquiana)_는 BIOPset 프로토콜의 최초 버전 뒤에 숨겨졌던 익명의 설립자입니다._
 
-## Stakeholders
+## 스테이크홀더\(보관자\) 들
+
+BIOPset에는 다음과 같은 부류의 스테이크홀더 들에게 맡겨집니다: 
+
+1. 거래자들 
+2. 기고가\(글 작성자\) 들 
+3. 결산 담당자 들 
+4. 관리/통제하는 자 들
 
 BIOPset caters to the following classes of stakeholders:
 
