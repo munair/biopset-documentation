@@ -4,82 +4,84 @@ description: 바이너리 옵션 판매에 대한 설명과 프로토콜 수준�
 
 # 판매옵션
 
-In BIOPset, options sellers are market makers \(or **liquidity providers**\). Sellers \(officially called **writers**\) pool their funds together to take an opposing position to any option buyer \(or **trader**\) that wants to express an opinion on the direction of prices.
+BIOPset에서는 옵션 판매자들은 마켓 메이커\(혹은 **유동성 공급자** 들\)입니다. 판매자\(공식적으로는 **작성자**라고 부름\)들은 가격 정책에 의견 제시를 원하는 옵션 구매자\(**트레이더**\)들의 반대 입장을 취하기 위해서 함께 그들의 자금을 공동 출자합니다. 
 
-Writers are always passive counterparties to active traders on the BIOPset platform.
+BIOPset 상에서 작성자들은 항상 활발한 트레이더들의 소극적인 상대방입니다.
+
+상대방들은 바이너리 옵션 계약의 반대편에 서게 되는데, 상대방이 없이는 바이너리 옵션의 구매는 불가능합니다.
 
 {% hint style="info" %}
-Counterparties take the opposing side of a binary options contract. It is impossible to buy binary options without a counterparty.
+상대방들은 바이너리 옵션 계약의 반대편에 서게 되는데, 상대방이 없이는 바이너리 옵션의 구매는 불가능합니다.
 {% endhint %}
 
-Whenever a writer makes a contribution to the pool, they are issued **pETH** \(or **poolETH**\) in proportion to their stake in the pool. For this reason, providing funds to the pool is ofter called staking.
+작성자가 공동 출자 풀에 기여할 때 마다, 그들은 그 기금내의 그들의 보관 비율에 따라서 **pETH**\(또는 **poolETH**\)를 발급 받습니다.
 
-## Staking Ether
+## 이더리움 스테이킹
 
-BIOPset V4 offers traders the ability to speculate on the direction of Chainlink \(or **LINK**\) prices. The pooled ETH pool makes this possible. Option sellers deposit their contributions directly to this pool and receive pETH in return.
+BIOPset 버전4는 트레이더들에게 Chainlink\(또는 **LINK**\) 가격 방향의 투기적 예측 능력을 제공합니다. ETH로 출자한 기금풀이 이를 가능하게 합니다. 옵션 판매자 들은 이 공동 출자 풀에 그들의 개인 분담금을 예치하고 대신 pETH를 받습니다.
+
+작성자가 받는 pETH의 액수는 기금\(pool\) 내 ETH 전체 수량에 대한 상대적인 기여도를 나타냅니다.
 
 {% hint style="info" %}
-The amount of pETH a writer receives is a representation of their relative contribution to the entire quantity of ETH in the pool.
-
-**pETH is a risky asset.** Its value in ETH changes over time depending on the performance of the pool. The value may increase tremendously if the writer pool performs well. pETH could also become worthless if traders perform well.
+**pETH는 위험한 자산입니다**. ETH의 가치는 시간이 지나면서 기금\(pool\)의 성과에 따라서 변화합니다. 작가 기금 풀의 성과가 좋을 경우 그 가치는 엄청나게 상승할 수도 있지만 pETH는 트레이더들이 좋은 성과를 낸다면 가치가 없어 질 수도 있습니다
 {% endhint %}
 
-pETH is issued one-to-one for ETH, but its redemption is less trivial.
+pETH는 ETH와 일대일로 발급되지만, 그 상환\(현금화\)은 적지 않습니다.
 
-## Redemption Value
+## 상환 가치
 
-pETH is redeemable for ETH. However, its redemption value changes every time binary options expire worthless \(or **out-of-the-money** or **OTM**\) or are valuable \(or **in-the-money** or **ITM**\) and exercised.
+pETH는 ETH로 교환할 수 있습니다. 하지만 그 상환 가치는 바이너리 옵션이 무가치 만료\(혹은 **OTM**이라고도 함\), 가치 보존\(혹은 **ITM**\) 그리고 옵션 행사할 때 마다 변합니다.
 
-[Shalaquiana](https://twitter.com/shalaquiana) expresses this most eloquently with the following scenario:
+[Shalaquiana](https://twitter.com/shalaquiana) 는 아래와 같은 시나리오\(가설\)로 이와같은 상황을 가장 잘 표현합니다:
 
-> Suppose BIOPset just launched and Brock the Bull has 1 ETH at his disposal. He decides to sell binary options for the pure fun of it. It's discretionary wealth for him and he has a lot of wealth to burn.
+> 이를테면 BIOPset이 방금 시작되었고 Brock\(일명 황소\)은 재량껏 처리할 수 있는 1 ETH를 갖고 있다고 가정해 봅시다. 그는 오로지 재미를 위해서 바이너리 옵션을 팔기로 결정합니다. 그에게는 맘대로 처분할 수 있는 재산이고, 그는 충분한 부가 있습니다.  
+>   
+> Brock은 첫번째 작성자로 신규 ETH 풀에 1 ETH를 기여한 댓가로 1 pETH를 받아서 보관하는데 Brock의 1 pETH는 ETH 풀의 100%에 해당 됩니다.
 >
-> Brock is the first writer to stake and received 1 pETH for contributing 1 ETH to the fledgling ETH pool. Brock's 1 pETH represents 100% of the ETH pool.
+> 또한 Tahila\(일명 암호랑이\)가 동참해서 2 ETH를 기여했다고 가정한다면, 그녀는 2 pETH를 받습니다. 여기서 Brock의 1 pETH는 ETH 풀의 33%이며, Tahila의 2 pETH는 풀의 나머지 66%에 해당 됩니다.  
+>   
+> 마지막으로 Jose\(일명 잭래빗\)가 LINK 가격이 상승할 것 이라는 의견을 갖고 BIOPset에서 2 ETH 가치에 해당하는 LINK 가격으로 바이너리 풋옵션을 구매합니다. 이후 오라클 업데이트를 받고 옵션은 무가치의 OTM으로 완료되고, Jose는 잘못된 예측으로 2 ETH를 잃습니다.  
+>   
+> Jose의 손실이 풀의 이익이 됩니다. Jose의 바이너리 옵션 종료 시점에 풀에는 총 5 ETH가 있게 됩니다. 만약 Brock이 풀에서 그의 지분을 인출하고자 한다면 그의 33% 지분은 1.66 ETH이며, 5 ETH의 33%를 수령하게 됩니다.
+
+Shalaquiana의 설명은 명확하게 이해되지만, 지나치게 단순화시킨 이야기입니다. BIOPset에서 가장 중요한 부분인 시장의 형성, 즉 유동성 동결이 남아 있습니다.
+
+## 유동성 잠금\(동결\)
+
+BIOPset에는 두 종류의 유동성 잠금 제도가 있습니다:
+
+1. 담보 잠금 
+2. 예치금 잠금
+
+트레이더들은 담보 잠금을 작동시키며, 작성자들은 그들이 유동성에 기여할\(높일\) 때 마다 예치금 잠금을 실행합니다.
+
+### 담보 잠금
+
+담보 잠금은 옵션이 구매될 때 마다 생기며, 풀 기금의 잠금은 옵션 만기 혹은 옵션이 ITM으로 행사될 때 까지 남아 있게 됩니다. 담보 잠금은 풀 기금과 거래자 기금 모두를 포함합니다. 
+
+이 기간\(**락업-거래정지 기간**이라고 함\) 동안에는 작성자 들은 ETH 풀에 있는 그들 각각의 잠겨있지 않은 유동성 지분을 인출만 할 수도 있습니다.
+
+다시한번, [Shalaquiana](https://twitter.com/shalaquiana)가 최고의 설명을 합니다:
+
+> **인출권한은 오로지 유동성 제공자에게만 주어지며, 그들의 잠겨 있지 않은 유동성의 지분에 대해서만 가능합니다.** 예를 들어서, 풀에 6 ETH가 있고 당신의 몫이 50%\(발급된 총 6 pETH 중 당신은 3 pETH를 갖고 있다는 의미\)인데, 갑자기 트레이더 한명이 2 ETH 상당의 바이너리 콜 옵션을 LINK 가격 상승을 확신하며 구매한다고 가정해 본다면, 그 구매는 잠금 없는 유동성을 6 ETH에서 4 ETH로 감소시키는 담보 잠금이라는 결과를 낳게 됩니다.
 >
-> Furthermore, suppose Tahlia the Tigress comes along and contributes 2 ETH. She receives 2 pETH. At this point, Brock's 1 pETH represents 33% of the ETH pool. Tahlia's 2 pETH represents the remaining 66% of the ETH pool.
->
-> Finally, suppose Jose the Jackrabbit holds the opinion that LINK prices are going down and purchases a 2 ETH worth of binary put option on the price of LINK via BIOPset. The oracle update is received and the options expire worthlessly OTM. Jose was wrong and lost 2 ETH.
->
-> Jose's loss is the pool's benefit. At the expiration of Jose's binary option, the pool has a total of 5 ETH in it. If Brock were to withdraw his portion of the pool, his 33% stake is worth 1.66 ETH. He receives 33% of 5 ETH.
+> 만약 당신이 담보 잠금 기간에 유동성 인출을 원한다면, 2 ETH\(잠금 해제된 4 ETH 중 50%\)까지만 인출할 수 있습니다. 만일 담보 잠금이 만료되어 해제될 때까지 기다린다면, 당신은 3 ETH\(잠금 해제된 6 ETH의 50%\) 전부를 인출할 수 있습니다. 만일 결제될 때 트레이더들의 바이너리 옵션이 ITM일 경우, 담보 잠금 상태의 자금 들은 모두 트레이더의 몫이 됩니다.
 
-Shalaquiana's explanation is clearly understood, but it's an oversimplification. It left out one important part of market making on BIOPset: Liquidity Locks.
+### **예치금 잠금**
 
-## Liquidity Locking
+작성자들은 최소 기간 동안 ETH를 풀에 예치하며, 이는 두번째 형태의 거래정지 기간입니다. 예치금 동결의 정지 기간은 작성자가 새로운 자금을 풀에 투입할 때 마다 리셋되며 줄어 들지는 않습니다.
 
-There are two types of liquidity locks in BIOPset:
-
-1. Collateral Locks
-2. Deposit Locks
-
-Traders trigger collateral locks. Writers commit to a deposit lock every time they contribute liquidity.
-
-### Collateral Locks
-
-A collateral lock occurs whenever an option is purchased. The lock on pool funds remains until the option expires or the option is exercised ITM. A collateral lock contains both pool funds and trader funds.
-
-During this period of time \(called the **lockup period**\) writers may only withdraw their respective share of the unlocked liquidity in the ETH pool.
-
-Again, [Shalaquiana](https://twitter.com/shalaquiana) explains it best:
-
-> **Withdrawal only entitles liquidity providers to their share of the unlocked liquidity.** For example, supposed there is 6 ETH in the pool and your share of the pool is 50% \(meaning that you possess 3 pETH of the total 6 pETH issued\) but a trader suddenly purchases 2 ETH worth of binary call options banking on LINK's price appreciation. That purchase would result in a collateral lock that reduces the unlocked liquidity from 6 ETH to 4 ETH.
->
-> If you wanted to withdraw your liquidity during the collateral lock, you could only withdraw up to 2 ETH \(50% of the unlocked 4 ETH\). If you wait for the collateral lock to be removed through expiration, you could withdraw your entire stake of 3 ETH \(50% of the unlocked 6 ETH\). If the trader's binary option is ITM when settled then the funds in that collateral lock all go to the trader.
-
-### Deposit Locks
-
-Writers deposit ETH into the pool for minimum period of time. This is the second type of lockup period. The lockup period on a deposit lock resets every time a writer contributes new funds to the pool. It is set on the deposit of funds and cannot be reduced.
-
-The lockup period of BIOPset V3 is 14 days. During that 14 day period, any withdrawal of funds contributed to the pool is taxed an early withdrawal fee\(1%\). After the lockup period funds may be withdrawn and occur no fees.
+BIOPset 버전3의 거래 정지 기간은 14일간이며 이 기간 중 풀로 부터 인출되는 어떤 자금에 대해서도 조기 인출 수수료\(1%\)가 부과됩니다. 정지 기간 후에는 자금은 수수료 발생 없이 인출될 수 있습니다.
 
 {% hint style="info" %}
-The 14-day lockup period may change depending on governance decisions.
+14일간의 정지 기간은 거버넌스\(협의체\) 결정에 의해 변경될 수도 있습니다.
 {% endhint %}
 
-#### Early Withdraw Fees
+#### 조기 인출 수수료
 
-There is a 1% early withdrawal fee. During the deposit lockup period, writers are only entitled to their stake in the unlocked pool liquidity.
+조기 인출 수수료 1%가 있으며, 유치금 거래정지 기간 동안에는 작성자들 만이 잠금해제된 풀의 유동성에 있는 지분의 권리가 있을뿐 입니다.
 
 {% hint style="info" %}
-The early withdrawal fee does not apply after the 14-day lockup period expires and the percentage may change depending on governance decisions.
+14일의 정지기간 만료 후에는 조기 인출 수수료가 적용되지 않으며 수수료 요율은 거버넌스\(협의체\) 결정에 따라서 변경될 수도 있습니다.
 {% endhint %}
 
