@@ -4,15 +4,15 @@ description: 바이너리 옵션 결제에 대한 설명과 프로토콜 수준�
 
 # 결제옵션
 
-This is a risk free passive opportunity to profit by helping the BIOPset protocol run smoothly.
+이 옵션은 BIOPset 프로토콜이 원활하게 실행하도록 지원함으로써 이익을 취할 수 있는 리스크 없는 수동적 기회입니다.
 
-Settling options is the process closing trades by exercising them ITM or expiring them OTM. Both of these actions are completed with the press of one button and are the same kind of transaction.
+결제 옵션은 ITM으로 옵션 행사를 하거나 OTM으로 옵션 만기로 거래를 마감하는 과정입니다. 이 두가지 조치는 버튼 하나를 클릭함으로 완료되며 둘 다 같은 종류의 거래입니다.
 
-To decide to settle an option a user views the currently open options in the "Settle" page. On this tab they are able to view open options and settle them with the push of a button. Each open option shows the fee they will receive for completing that option. The fee \(in the underlying asset, ETH by default\) is predetermined.
+옵션 결제를 결정하기 위해서 사용자는 “Settle\(결제\)” 페이지에서 현재 오픈 옵션\(열려있는 옵션\)을 볼 수 있습니다. 이 탭에서 버튼을 누르며 오픈 옵션을 보고 결제할 수 있습니다. 각 오픈 옵션은 옵션을 완료했을 때 받게되는 수수료를 표시하며 수수료\(기초자산의 경우 디폴트 값은 ETH\)는 사전에 정해 집니다.
 
-_By default the settlement fee is 0.02%_
+_결제 수수료는 디폴트로 0.02%_
 
-## Utilization Rewards For Settling
+## 결제에대한 활용보상
 
-While Utilization Rewards are active a BIOP reward is also given with every option settled. The amount of BIOP are determined based on the number of options currently awaiting settlement. When more options that are pending the greater the amount of BIOP the user receives.
+활용보상이 활성화되어 있는 동안에는 BIOP 보상도 매 옵션이 결제될 때 마다 주어집니다. BIOP액수는 현재 결제 대기 중인 옵션의 수량으로 결정됩니다. 대기중인 옵션이 많을수록 사용자가 받는 BIOP의 액수도 더 많아집니다.
 
