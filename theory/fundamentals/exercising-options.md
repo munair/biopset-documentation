@@ -16,5 +16,5 @@ _By default the settlement fee is 0.02%_
 
 ## Utilization Rewards For Settling
 
-While Utilization Rewards are active a BIOP reward is also given with every option settled. The amount of BIOP are determined based on the number of options currently awaiting settlement. When more options that are pending the greater the amount of BIOP the user receives.
+While Utilization Rewards are active a BIOP reward is also given with every option settled. The amount of BIOP is determined based on the number of options currently awaiting settlement. When more options that are pending the greater the amount of BIOP the user receives.
 
