@@ -17,7 +17,7 @@ BIOPset caters to the following classes of stakeholders:
 3. Settlers.
 4. Governors.
 
-The first two stakeholders are counterparties to decentralized binary options. The second two stakeholders make and fine tune the execution the protocol.
+The first two stakeholders are counterparties to decentralized binary options. The second two stakeholders make and fine tune the execution of the protocol.
 
 {% hint style="info" %}
 Counterparties take opposing sides of an options contract. It is impossible to buy derivatives \(like binary options\) without a counterparty willing to sell it.
