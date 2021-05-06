@@ -72,7 +72,7 @@ The concept of expiration does not exist with BIOPset. Expiration is set to infi
 
 Any person or bot may also settle the option and receive the 0.2_%_ **settlement fee** after the oracle update is received.
 
-Consequently, the call or put holder can **settle** the option themselves and collect that 0.2% fee. In such cases, the payout of the option is 99% \(BIOPset charges 1% transaction fee\).
+Consequently, the call or put holder can **settle** the option themselves and collect that 0.2% fee. In such cases, the payout of the option is 99%. \(BIOPset charges 1% transaction fee.\)
 
 Otherwise, any arbitrary platform participant can settle the option if it is in their financial interest and collect the 0.2% fee. In such cases, the payout of the option drops to 98.8% \(as 0.2% is paid to the person/bot that settles the option\).
 
