@@ -46,9 +46,9 @@ The tokens will be locked until 6 months from launch, when the ability to deploy
 
 Please see [Bonding Curve](https://docs.biopset.com/references/tokens/boding-curve) for further details.
 
-### Initial Tiered Coins Offering
+### Tiered Initial Bonding Curve Offering
 
-The initial funds for development and a bootstrap to the BIOPset Liquidity will be done through the ITCO \(Initial Tiered Coins Offering\). For more details about the [ITCO](https://docs.biopset.com/references/tokens/itco).
+The initial funds for development and a bootstrap to the BIOPset Liquidity will be done through the Tiered Initial Bonding Curve Offering \(Tiered IBCO\). For more details about the [Tiered IBCO](../../references/tokens/tiered-ibco.md).
 
 ### DEX Rewards
 
