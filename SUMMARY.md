@@ -15,8 +15,8 @@
   * [Selling Options](theory/fundamentals/selling-options.md)
   * [Settling Options](theory/fundamentals/exercising-options.md)
 * [BIOPset Tokens](theory/tokenomics/README.md)
-  * [$PETH Token](theory/tokenomics/pooleth.md)
-  * [$BIOP Token](theory/tokenomics/biop-token.md)
+  * [PETH Token](theory/tokenomics/pooleth.md)
+  * [BIOP Token](theory/tokenomics/biop-token.md)
 * [BIOPset Governance](theory/governance.md)
 
 ## Practice
