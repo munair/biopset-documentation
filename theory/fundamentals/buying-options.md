@@ -42,7 +42,7 @@ Options sellers **must** hold the opposing view about the future price of BTC/US
 In BIOPset, no individual seller holds the opposing view alone. The sellers as a group hold the opposing view in proportion to the funds committed to the pool \(or house\).
 {% endhint %}
 
-_Considering Alice's strong opinion, the pool is obliged to take the opposing view and commits 10 BTC to prices going "**down**"._
+_Considering Alice's strong opinion, the pool is obliged to take the opposing view and commits 10 ETH to prices going "**down**"._
 {% endtab %}
 {% endtabs %}
 
