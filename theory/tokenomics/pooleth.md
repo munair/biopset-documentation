@@ -8,3 +8,4 @@ poolETH \(or pETH\) is the token issued to options sellers \(or **writers**\) af
 
 $PETH represents the token holders stake in the pool of funds provided by all writers. To understand how PETH functions, please refer to the [Selling Options](https://app.gitbook.com/@munair/s/biopset/theory/fundamentals/selling-options) section of [BIOPset Fundamentals](https://docs.biopset.com/theory/fundamentals).
 
+{% hint style="info" %} pETH is for the main ETH pool. When depositing to other pools LPs recieve the respective pool token for that pool. Example: in a WBTC pool LPs get pWBTC tokens to represent their share. {% endhint %}
