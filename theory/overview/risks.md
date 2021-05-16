@@ -34,7 +34,7 @@ Settling binary options on BIOPset is a risk free interaction.
 
 ### Governing
 
-Governing involves holding and staking BIOP tokens. This is not risk free. The price of BIOP will go up or down depending on supply and demand.
+Governing involves holding or staking BIOP tokens. This is not risk free. The price of BIOP will go up or down depending on supply and demand.
 
 {% page-ref page="../governance.md" %}
 
