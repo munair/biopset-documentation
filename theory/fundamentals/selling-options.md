@@ -6,6 +6,8 @@ description: >-
 
 # Selling Options
 
+_this page is written from the perspective of the main ETH pool, BIOPset also supports selling options using any ERC20 token as the pool asset and traders collatoral_
+
 In BIOPset, options sellers are market makers \(or **liquidity providers**\). Sellers \(officially called **writers**\) pool their funds together to take an opposing position to any option buyer \(or **trader**\) that wants to express an opinion on the direction of prices.
 
 Writers are always passive counterparties to active traders on the BIOPset platform.
