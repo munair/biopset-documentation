@@ -56,6 +56,8 @@ It never matters how much the price increases or decreases. In BIOPset, call hol
 
 ## Strike Price <a id="effd"></a>
 
+_this sections descriptions use BTC as the asset whose price is being speculated on. BTC is one of many possible values to place trades on the movements of_
+
 The price of BTC at the moment the binary option is purchased is called the **strike price**. It is always displayed on the BIOPset UI.
 
 To be precise, it is the price of BTC at the moment the option was purchased according to the [Chainlink Oracle](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work#:~:text=Summary,when%20certain%20conditions%20are%20met.). This is important to note because the value of the option changes based on this strike price.
