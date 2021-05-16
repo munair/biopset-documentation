@@ -58,11 +58,11 @@ To incentivise Uniswap liquidity we will provide incentives to the Uniswap Liqui
 
 The Developer Fund will be used to pay for development, deployment, grants and to prevent DAO attacks until a healthy organization is present.
 
-Of the Developer Fund, 10% will be unlocked at TGE followed by a 3 years linear vesting on the remaining 90%
+Of the Developer Fund, 10% will be unlocked at TGE followed by a 3 years linear vesting on the remaining 90%.
 
 ### Uniswap Listing
 
-To provide a starting price and enable trading on Uniswap the team will lock BIOP and Ethereum in a Uniswap Liquidity Pool after the ITCO end
+To provide a starting price and enable trading on Uniswap the team will lock BIOP and Ethereum in a Uniswap Liquidity Pool after the ITCO end.
 
 ### V2/V3 Repayment
 
@@ -70,9 +70,9 @@ During BIOPset V2 and BIOPset V3, the betters won over the entire liquidity pool
 
 ### Airdrops
 
-To incentivize the community to actively partecipate and grow we are planning multiple airdrop and events with BIOP prizes
+To incentivize the community to actively partecipate and grow we are planning multiple airdrop and events with BIOP prizes.
 
 ### V2/V3 Swap
 
-The users that partecipated in transaction mining on the previous biop versions and got old versions of the BIOP token will receive the new BIOP v4
+The users that partecipated in transaction mining on the previous biop versions and got old versions of the BIOP token will receive the new BIOP v4.
 
