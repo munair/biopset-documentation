@@ -10,7 +10,7 @@ _The Binary Options Settlement Protocol \("**BIOPset**"\) is governed by the Set
 
 The Settlement DAO governs through a liquid democracy of BIOP token holders.
 
-A "**House of Representatives**" votes on formalized initiatives that bubble up from community discussions on Discord to the BIOPset forum. Formalized initiatives are put to a vote on BIOPset [Snapshot Page](https://snapshot.org/#/biopset.eth).
+The governance votes on formalized initiatives that bubble up from community discussions on Discord to the BIOPset forum. Formalized initiatives are put to a vote on BIOPset [Snapshot Page](https://snapshot.org/#/biopset.eth).
 
 ## Governance Process
 
