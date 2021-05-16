@@ -18,7 +18,7 @@ Every interaction with the BIOPset platform earns BIOP tokens during the utiliza
 
 ## What's Else Is In It For Me?
 
-While every user will initiall receive BIOP rewards, each participant stands to gain something financially for their participation in BIOPset. BIOPset ensures that the following four stakeholders are properly recompensed:
+While every user will initially receive BIOP rewards, each participant stands to gain something financially for their participation in BIOPset. BIOPset ensures that the following four stakeholders are properly recompensed:
 
 1. Traders.
 2. Writers.
