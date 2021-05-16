@@ -56,7 +56,7 @@ To incentivise Uniswap liquidity we will provide incentives to the Uniswap Liqui
 
 ### Developer Fund
 
-The Developer Fund will be used to pay for development, deployment, grants and to prevent DAO attacks until a healthy organization is present.
+The Developer Fund are team tokens. They are to pay developers, marketers, and others who create and help maintain the protocol, instructional materials, and interfaces relevant to BIOPset.
 
 Of the Developer Fund, 10% will be unlocked at TGE followed by a 3 years linear vesting on the remaining 90%.
 
