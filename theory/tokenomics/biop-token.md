@@ -50,7 +50,7 @@ Please see [Bonding Curve](https://docs.biopset.com/references/tokens/boding-cur
 
 The initial funds for development and a bootstrap to the BIOPset Liquidity will be done through the ITCO \(Initial Tiered Coins Offering\). For more details about the [ITCO](https://docs.biopset.com/references/tokens/itco).
 
-### Dex Rewards
+### DEX Rewards
 
 To incentivise Uniswap liquidity we will provide incentives to the Uniswap Liquidity Providers that will stake their LP tokens.
 
