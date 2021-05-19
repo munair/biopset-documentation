@@ -2,7 +2,7 @@
 description: Details of the later stage bonding curve.
 ---
 
-# Reserve Boding Curve
+# Reserve Bonding Curve
 
 _A permanent market for BIOP/ETH exchange_
 

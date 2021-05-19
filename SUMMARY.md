@@ -34,7 +34,7 @@
 
 * [Tokens](references/tokens/README.md)
   * [Tiered IBCO](references/tokens/tiered-ibco.md)
-  * [Reserve Boding Curve](references/tokens/boding-curve.md)
+  * [Reserve Bonding Curve](references/tokens/boding-curve.md)
   * [Rewards](references/tokens/rewards.md)
 * [Smart Contracts](references/smart-contracts/README.md)
   * [Audits](references/smart-contracts/audits.md)
