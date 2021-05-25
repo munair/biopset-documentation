@@ -4,7 +4,7 @@ description: $BIOP is the governance token.
 
 # $BIOP Token
 
-BIOP tokens are used for governing the BIOPset protocol. A total of exactly 31 Million $BIOP tokens are in existance. $BIOP tokens are standard ERC-20 tokens and use the ticker BIOP.
+BIOP tokens are used for governing the BIOPset protocol. A total of exactly 31 Million $BIOP tokens are in existence. $BIOP tokens are standard ERC-20 tokens and use the ticker BIOP.
 
 The majority of BIOP tokens \(45.2%\) are allocated to platform utilization rewards. For a more detailed breakdown, see the "token distribution" section below.
 
@@ -32,9 +32,9 @@ The majority of BIOP tokens \(45.2%\) are allocated to platform utilization rewa
 
 ### Utilization Rewards
 
-The majority \(45.2%\) of $BIOP will be distributed to community members via an **transaction mining** mechanism. Transaction mining is the process of rewarding platform participants. Thus these rewards may also be called transaction mining rewards.
+The majority \(45.2%\) of $BIOP will be distributed to community members via a **transaction mining** mechanism. Transaction mining is the process of rewarding platform participants. Thus these rewards may also be called transaction mining rewards.
 
-Of these tokens, 10% will be unlocked at Token Generation Event, with a following vesting of 2.5% per month over the following 3 years.
+Of these tokens, 10% will be unlocked at Token Generation Event, with the following vesting of 2.5% per month over the following 3 years.
 
 Transaction mining activities commenced with the BIOPset V1 Mainnet launch. Please see the [Benefits](https://munair.gitbook.io/biopset/theory/overview/benefits) section for more information.
 
@@ -42,17 +42,17 @@ Transaction mining activities commenced with the BIOPset V1 Mainnet launch. Plea
 
 The Bonding Curve will be deployed by the DAO in the case of lackluster liquidity on dexes. Any swap fee \(set to zero by default in both directions\) of the Bonding Curve will go to the BIOPset Treasury.
 
-The tokens will be locked until 6 months from launch, when the ability to deploy the Bonding Curve will be transferred to the DAO.
+The tokens will be locked until 6 months from launch when the ability to deploy the Bonding Curve will be transferred to the DAO.
 
 Please see [Bonding Curve](https://docs.biopset.com/references/tokens/boding-curve) for further details.
 
 ### Initial Tiered Coins Offering
 
-The initial funds for development and a bootstrap to the BIOPset Liquidity will be done through the ITCO \(Initial Tiered Coins Offering\). For more details about the [ITCO](https://docs.biopset.com/references/tokens/itco).
+The initial funds for development and bootstrap to the BIOPset Liquidity will be done through the ITCO \(Initial Tiered Coins Offering\). For more details about the [ITCO](https://docs.biopset.com/references/tokens/itco).
 
 ### Dex Rewards
 
-To incentivise Uniswap liquidity we will provide incentives to the Uniswap Liquidity Providers that will stake their LP tokens.
+To incentivize Uniswap liquidity we will provide incentives to the Uniswap Liquidity Providers that will stake their LP tokens.
 
 ### Developer Fund
 
@@ -70,9 +70,8 @@ During BIOPset V2 and BIOPset V3, the betters won over the entire liquidity pool
 
 ### Airdrops
 
-To incentivize the community to actively partecipate and grow we are planning multiple airdrop and events with BIOP prizes
+To incentivize the community to actively participate and grow we are planning multiple airdrop and events with BIOP prizes
 
 ### V2/V3 Swap
 
-The users that partecipated in transaction mining on the previous biop versions and got old versions of the BIOP token will receive the new BIOP v4
-
+The users that participated in transaction mining on the previous biop versions and got old versions of the BIOP token will receive the new BIOP v4
