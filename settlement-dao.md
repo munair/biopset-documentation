@@ -14,7 +14,7 @@ Governors vote on formalized initiatives that bubble up from community discussio
 
 ## Governance Process
 
-The governance process of the Settlement DAO is outline below:
+The governance process of the Settlement DAO is outlined below:
 
 ### Discussion
 
