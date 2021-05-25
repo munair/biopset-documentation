@@ -17,7 +17,7 @@ BIOPset caters to the following classes of stakeholders:
 3. Settlers.
 4. Governors.
 
-The first two stakeholders are counterparties to decentralized binary options. The second two stakeholders make and fine tune the execution of the protocol.
+The first two stakeholders are counterparties to decentralized binary options. The second two stakeholders make and fine-tune the execution of the protocol.
 
 {% hint style="info" %}
 Counterparties take opposing sides of an options contract. It is impossible to buy derivatives \(like binary options\) without a counterparty willing to sell it.
@@ -43,7 +43,7 @@ In BIOPset, writers pool their funds together to function as passive counterpart
 Writers \(or liquidity providers\) are passive users in BIOPset.
 {% endhint %}
 
-Although BIOPset's infrastructure primarily provides a service to binary options buyers, it is the passive pool of options sellers that provide the liquidity required for the service to work. They are like vendors that set up a shop and bring a market to life.
+Although BIOPset's infrastructure primarily provides a service to binary options buyers, it is the passive pool of options sellers that provides the liquidity required for the service to work. They are like vendors that set up a shop and bring a market to life.
 
 ### Settlers
 
@@ -53,11 +53,11 @@ They intervene on behalf of the options trader by **settling** in-the-money opti
 
 ### Governors
 
-Anyone holding BIOP tokens is automatically a governor. Governors are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. 
+Anyone holding BIOP tokens is automatically a governor. Governors are responsible for fine-tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. 
 
 Liquidity providers need not be governors and vice versa.
 
 {% hint style="info" %}
-Ideally, governors are also liquidity providers. This aligns shorter-term and longer-term incentive structures.
+Ideally, governors are also liquidity providers. This aligns with shorter-term and longer-term incentive structures.
 {% endhint %}
 
