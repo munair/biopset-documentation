@@ -34,7 +34,7 @@ The majority of BIOP tokens \(45.2%\) are allocated to platform utilization rewa
 
 The majority \(45.2%\) of $BIOP will be distributed to community members via a **transaction mining** mechanism. Transaction mining is the process of rewarding platform participants. Thus these rewards may also be called transaction mining rewards.
 
-Of these tokens, 10% will be unlocked at Token Generation Event, with a following vesting of 2.5% per month over the following 3 years.
+Of these tokens, 10% will be unlocked at Token Generation Event, with the following vesting of 2.5% per month over the following 3 years.
 
 Transaction mining activities commenced with the BIOPset V1 launch on the Ethereum Mainnet. Please see the [Benefits](https://munair.gitbook.io/biopset/theory/overview/benefits) section for more information.
 
@@ -52,7 +52,7 @@ Please see [Reserve Bonding Curve](https://docs.biopset.com/references/tokens/bo
 
 ### Tiered Initial Bonding Curve Offering
 
-The initial funds for development and a bootstrap to the BIOPset Liquidity will be done through the Tiered Initial Bonding Curve Offering \(Tiered IBCO\). For more details about the [Tiered IBCO](../../references/tokens/tiered-ibco.md).
+The initial funds for development and bootstrap to the BIOPset Liquidity will be done through the Tiered Initial Bonding Curve Offering \(Tiered IBCO\). For more details about the [Tiered IBCO](../../references/tokens/tiered-ibco.md).
 
 {% page-ref page="../../references/tokens/tiered-ibco.md" %}
 
@@ -81,4 +81,5 @@ To incentivize the community to actively participate and grow we are planning mu
 ### V2/V3 Swap
 
 The users that participated in transaction mining in previous protocol releases and got old versions of the BIOP token will receive the new BIOP v4.
+
 
