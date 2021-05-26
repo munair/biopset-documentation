@@ -12,13 +12,12 @@ _The protocol is governed by a decentralized autonomous organization \("**DAO**"
 
 ## Document Revision
 
-The latest version \(**BIOPset Version 4**\) allows traders to speculate on the [price of Chainlink tokens](https://www.coingecko.com/en/coins/chainlink) \(or **LINK**\) going up or down.
+The latest version \(**BIOPset Version 4**\) allows traders to speculate on the price of various pairs like BTC/USD and ETH/USD going up or down.
 
-**These are the official documents as of April 21st 2021**.
+**These are the official documents as of May 25th, 2021**.
 
 If you have any questions or concerns after reviewing this documentation, please join the discussion on [Discord](https://discord.gg/4SRYBNdE3r).
 
 {% embed url="https://discord.com/invite/4SRYBNdE3r" caption="Get the latest information on BIOPset by asking the Discord Community" %}
 
 If there is anything unclear or out of date, please submit a [pull request](https://github.com/munair/biopset-documentation/blob/main/WELCOME.md).
-
