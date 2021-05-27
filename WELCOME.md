@@ -1,5 +1,8 @@
 ---
-description: BIOPset 문서화
+description: >-
+  프롤로그(서문)BIOPset 문서화바이너리 옵션 정 프로토콜(Binary Options Settlement Protocol,
+  BIOPset)은 투명한 바이너리 옵션 거래를 위하여 감사 완료된 주문형 검열 방지 피어-투-풀 프로토콜이다.이 플랫폼은 기본적으로 유동성
+  제공자("옵션 발행자-매도자")에게는 수동적인(passive) 수익을 제공하고 공 문서화
 ---
 
 # 프롤로그
