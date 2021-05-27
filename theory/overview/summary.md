@@ -23,7 +23,7 @@ The first two stakeholders are counterparties to decentralized binary options. T
 Counterparties take opposing sides of an options contract. It is impossible to buy derivatives \(like binary options\) without a counterparty willing to sell it.
 {% endhint %}
 
-Every participant stands to gain something financially for their interaction with the protocol.
+Every participant stands to gain something financially for their interaction with the protocol. Each role (except for Settlers) involves taking some risk.
 
 ### Traders
 
@@ -50,6 +50,8 @@ Although BIOPset's infrastructure primarily provides a service to binary options
 Settlers are humans \(or bots\) that facilitate the realization of a gain for either the trader or writer.
 
 They intervene on behalf of the options trader by **settling** in-the-money options. They intervene on behalf of the options writers by **settling** binary options that have become worthless.
+
+Their interactions with the protocol are always 100% risk-free and results are known before a transaction is sent.
 
 ### Governors
 
