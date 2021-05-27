@@ -37,3 +37,4 @@ Trading rewards are claims are determined at the creation of each option. They a
 ## Settling Utilization Rewards in Detail
 
 Settling reward claims are determined at the settlement of each option. They are influenced by the number of options pending settlement. More options to settle? More rewards!
+
