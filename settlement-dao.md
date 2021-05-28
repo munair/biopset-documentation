@@ -1,10 +1,10 @@
 ---
-description: 결산 DAO 소개
+description: 정산 DAO 소개
 ---
 
-# 결산 DAO
+# 정산 DAO
 
-_바이너리 옵션 결산 프로토콜\(“**BIOPset**”\)은 결산 DAO가 관리합니다._
+_바이너리 옵션 산 프로토콜\(“**BIOPset**”\)은 산 DAO가 관리합니다._
 
 ## 관리 개요
 

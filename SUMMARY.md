@@ -1,8 +1,8 @@
 # Table of contents
 
-* [프롤로그](WELCOME.md)
+* [프롤로그\(서문\)](WELCOME.md)
 * [문서화 가이드](documentation-guide.md)
-* [결산 DAO](settlement-dao.md)
+* [정산 DAO](settlement-dao.md)
 
 ## Theory
 
