@@ -34,31 +34,31 @@ BIOP 보상을 받는 것 외에, 모든 참가자들은 그들의 BIOPset 참�
 
 이들은 또한 정산자들이 될 수 있습니다.\(아래를 참조\)
 
-### Writers
+### 발행자들
 
-Writers \(or **options writers**\) are passively selling binary options in a pool with other sellers. They are BIOPset's market makers \(or **liquidity providers**\). Liquidity providers earn very competitive yields for market making \(**options writing**\).
+발행자\(또는 **옵션 작성자**\)들은 풀 내에서 다른 판매자들과 함께 바이너리 옵션을 소극적으로 판매합니다. 이들은 BIOPset의 마켓메이커\(또는 **유동성 공급자**\)이기도 합니다. 유동성 공급자 들은 시장 형성\(옵션 발행\)에 대한 매우 경쟁력 있는 수익을 얻게 됩니다. 
 
-Writers can also be settlers \(see below\).
+발행자들은 또한 정산자들이 될 수도 있습니다.\(아래를 참조\)
 
-### Settlers
+### 정산자들
 
-Settlers receive risk-free fees for providing their services. The default amount is 0.2% of the option's value. Consequently, any settler could potentially earn $2K USD for exercising/expiring a million dollar position.
-
-{% hint style="info" %}
-Settlers act on behalf of the options trader by **settling** in-the-money options. They intervene on behalf of the liquidity provider by **settling** out-of-the money options.
-{% endhint %}
-
-Anyone \(human, bot, or artificial intelligence\) with a wallet and sufficient gas can be a settler.
-
-### Governors
-
-Transaction fees are presently set to 20 basis points \(0.2%\) and those proceeds accrue to the treasury of the Settlement DAO. Governors control the funds in the Settlement DAO treasury. They may also elect \(through vote delegation\) to distribute a portion of those fees directly to token holders willing to stake BIOP tokens.
+정산자들은 그들의 서비스 제공에 대하여 리스크 제로의 수수료를 받습니다. 기본 액수는 옵션 가치의 0.2%이며, 결과적으로 어떤 정산자는 100만불 가치를 행사하거나 만기종료시킬 경우 잠재적으로 2천불을 벌 수 있게 됩니다.
 
 {% hint style="info" %}
-Governors manage the treasury and are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. They can elect to be incentivized for growing the number of users of the platform in the longer-term.
+정산자들은 옵션 거래자를 대신해서 인더머니\(ITM\) 옵션을 **정산**하며, 이들은 유동성 제공자를 대신하여 아웃오브머니\(OTM\) 옵션을 **정산**하며 개입합니다.
 {% endhint %}
 
-Traders, writers, and settlers can all participate in governance initiatives by holding BIOP tokens. They may also delegate that voting power to any governor that garners their confidence.
+누구든지\(사람, 봇, 혹은 AI\) 전자지갑과 충분한 가스\(gas\)만 있으면 정산자가 될 수 있습니다.
 
-It is highly recommended that voting power only ever be delegegated to predeployed audited smart contracts making the desired change instead of delegating to a human's address.
+### 거버너\(의사결정자\)들
+
+거래 수수료는 현재 20 기본 포인트\(0.2%\)로 설정되어 있으며, 그 수익금은 정산DAO의 금고에 적립하게 됩니다. 거버너들은 정산DAO 금고의 자금을 관리하며, 그들은 또한 \(투표 위임을 통해\) BIOP토큰을 지분으로 보유하고자 하는 토큰 보유자에게 직접 그 수수료의 일부를 분배하도록 선택할 수도 있습니다.
+
+{% hint style="info" %}
+거버너들은 금고를 관리하고 유동성 제공자들에게 합리적인 수익률을 보장하기 위해 BIOPset의 매개 변수를 미세 조정할 책임이 있습니다. 이들은 장기적으로 플랫폼 사용자 수를 증가시키기위한 인센티브제도를 채택할 수 있습니다.
+{% endhint %}
+
+트레이더,발행자 및 정산자들은 모두 BIOP 토큰을 보유함으로서 의사결정 계획에 참여할 수 있으며, 이들의 신뢰를 얻은 거버너에게 투표권을 위임할 수도 있습니다. 
+
+투표권은 개인의 주소로 위임하는 대신 원하는 변경을 할 수 있도록 사전에 감사 완료되어 만들어진 스마트 계약서에만 위임할 것을 강력히 추천합니다.
 
