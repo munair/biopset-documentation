@@ -31,7 +31,7 @@ BIOPset 버전4에서 활용된 정보 입력 들은 [체인링크](https://docs
 _한가지 예를 들어보면, 앨리스는 BTC/USD 페어의 가격이 오를 것이라고 믿으며 그렇게 되리라고 매우 강하게 느끼고 있습니다. 그래서 앨리스는 그 의견에 기꺼이 10 ETH를 걸 것을 약속하고 BIOPset 상에서 옵션 판매자 풀에 대해 “업\(상승\)” 포지션을 선택합니다._
 {% endtab %}
 
-{% tab title="Options Sellers" %}
+{% tab title="옵션 판매자" %}
 Options sellers **must** hold the opposing view about the future price of BTC/USD. By definition, the option seller is the counterparty and takes the opposition positi
 
 {% hint style="info" %}
