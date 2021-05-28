@@ -21,18 +21,18 @@ BIOPset 플랫폼과의 모든 상호작용은 활용 보상 기간 동안 BIOP 
 
 BIOP 보상을 받는 것 외에, 모든 참가자들은 그들의 BIOPset 참가에 대하여 재정적 이득을 얻을 수 있는 위치에 있게 됩니다. BIOPset은 다음 4 부류의 스테이크홀더\(보관자\)들이 적절한 보상을 받을 수 있도록 보장합니다:
 
-1. Traders.
-2. Writers.
-3. Settlers.
-4. Governors.
+1. 트레이더
+2. 발행자들
+3. 정산자들
+4. 거버너\(의사결정자\)들
 
-Governors always retain the right to determine exactly how each stakeholder is compensated for their activities.
+거버너\(의사결정자\)들은 항상 각각의 스테이크홀더들이 그들의 활동에 대해서 어떻게 보상을 받는지를 정확하게 결정하기 위한 권리를 항상 유합니다.
 
-### Traders
+### 트레이더들
 
-Traders \(or **options traders**\) are actively buying binary options. They can potentially double their wealth if they speculate correctly on price direction.
+트레이더\(또는 **옵션거래자**\)들은 활발하게 바이너리 옵션을 구매하며 가격 방향을 정확하게 예측 할 경우 그들의 재산을 2배로 만들 수 있는 잠재력을 갖고 있습니다.T
 
-Traders can also be settlers \(see below\).
+이들은 또한 정산자들이 될 수 있습니다.\(아래를 참조\)
 
 ### Writers
 
