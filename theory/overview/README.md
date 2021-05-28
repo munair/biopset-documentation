@@ -1,6 +1,6 @@
 ---
-description: The essence of BIOPset.
+description: BIOPset의 본질(엣센스).
 ---
 
-# BIOPset Overview
+# BIOPset 개요
 

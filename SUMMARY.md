@@ -6,7 +6,7 @@
 
 ## Theory
 
-* [BIOPset Overview](theory/overview/README.md)
+* [BIOPset 개요](theory/overview/README.md)
   * [요약](theory/overview/summary.md)
   * [Benefits](theory/overview/benefits.md)
   * [Risks](theory/overview/risks.md)
