@@ -9,7 +9,7 @@
 * [BIOPset 개요](theory/overview/README.md)
   * [요약](theory/overview/summary.md)
   * [이익](theory/overview/benefits.md)
-  * [Risks](theory/overview/risks.md)
+  * [위험요소](theory/overview/risks.md)
 * [BIOPset의 기초\(기본원칙\)](theory/fundamentals/README.md)
   * [구매옵션](theory/fundamentals/buying-options.md)
   * [판매옵션](theory/fundamentals/selling-options.md)

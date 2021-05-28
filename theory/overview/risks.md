@@ -1,44 +1,44 @@
 ---
-description: The risks of interacting with BIOPset.
+description: BIOPset과 상호작용시 위험요소.
 ---
 
-# Risks
+# 위험요소
 
-_Trading binary options is risky and not all binary options carry the same risk. If you are the liquidity provider \(or **writer**\) you face different risks to the binary option holder \(or **trader**\) and the binary option settler \(or **settler**\)._
+_바이너리 옵션 거래에는 위험요소가 있지만 모든 바이너리 옵션이 동일한 위험요소를 동반 하지는 않습니다. 당신이 만약 유동성 공급자\(또는 **발행자**\)라면 바이너리옵션 보유자\(또는 **트레이더**\)와 바이너리 옵션 정산자\(**정산자**\)와는 다른 위험에 직면하게 됩니다._
 
-## Stakeholder Risks
+## 스테이크홀더 리스크
 
-Be certain to thoroughly understand the fundamentals of trading options before attempting to use BIOPset. However, it is also important to understand the protocol's unique risks for the four stakeholders.
+BIOPset 사용을 시도하기에 앞서 거래 옵션의 기본 사항들을 확실하게 숙지하기 바랍니다. 또한 4 부류의 스테이크홀더\(보관자\)들에 대한 프로토콜의 독특한 리스크 들을 이해하는 것도 중요합니다.
 
-### Traders
+### 트레이
 
-Buying binary options on BIOPset is the riskiest type of interaction with the protocol. Traders must pay a premium to acquire the binary option and choose whether to hold a call binary option or a put binary option.
+BIOPset에서 바이너리 옵션을 구매하는 것은 프로토콜과의 상호작용 중 가장 위험한 형태입니다. 트레이더들은 바이너리 옵션 획득을 위하여 프리미엄을 지불해야 하며, 콜 바이너리 옵션 혹은 풋 바이너리 옵션을 보유할지를 선택해야합니다.
 
-**Calls** \(call binary options\) embrace a bullish outlook/strategy where a trader believes that the price of the asset price will appreciate in the future. **However, traders will lose their entire premium if the asset price depreciates.**
+**콜**\(콜 바이너리 옵션\)은 거래자가 자산 가격이 향후 오를 것이라고 믿고 포괄적으로 낙관적 전망/전략을 수립합니다. **하지만 자산 가격이 내릴 경우 트레이더들은 전체 프리미엄을 모두 잃게 됩니다.**
 
-**Puts** \(put binary options\) embrace a bearish outlook/strategy where a trader believes that the price of the asset price will depreciate in the future. **However, traders will lose their entire premium if the asset price appreciates.**
+**풋**\(풋 바이너리 옵션\)은 거래자가 향후 자산 가격이 내릴 것이라고 믿고 포괄적으로 약세 전망/전략을 수립합니다. **하지만 자산 가격이 오를 경우 트레이더들은 전체 프리미엄을 모두 잃게 됩니다.**
 
 {% page-ref page="../fundamentals/buying-options.md" %}
 
-### Writers
+### 발행자
 
-Selling binary options on BIOPset is not a risk-free interaction with the protocol. It is not like interacting with a decentralized lending protocol that offers a variable or fixed interest rate. **Binary options sellers can lose the capital that they put at risk**. Writers are the counterparties to traders and can lose their entire investment if traders consistently meet with successful outcomes.
+BIOPset에서 바이너리 옵션의 판매는 리스크 없는 프로토콜과의 상호 작용이 아닙니다. 변동 혹은 고정 이자율을 제공하는 분산화된 렌딩 프로토콜과의 상호 작용과는 다릅니다. **바이너리 옵션 판매자는 리스크를 안고 투입한 자본을 잃을 수도 있습니다.** 발행자들은 거래자들의 상대방이며 만일 거래자들이 지속적으로 성공적인 결과를 얻는다면 그들의 모든 투자금을 잃을 수도 있습니다.
 
 {% page-ref page="../fundamentals/selling-options.md" %}
 
-### Settlers
+### 정산자
 
-Settling binary options on BIOPset is a risk free interaction.
+BIOPset 상에서 바이너리 옵션의 정산은 리스크 없는 상호작용입니다.
 
 {% page-ref page="../fundamentals/exercising-options.md" %}
 
-### Governing
+### 거버닝\(의사결정\)
 
-Governing involves holding BIOP tokens. This is not risk free. The price of BIOP will go up or down depending on supply and demand.
+의사결정은 BIOP 토큰을 보유하는 것을 포함하며 리스크가 없지 않습니다. BIOP의 가격이 수요/공급에 따라서 오르고 내리기 때문입니다.Governing involves holding BIOP tokens. This is not risk free. The price of BIOP will go up or down depending on supply and demand.
 
 {% page-ref page="../governance.md" %}
 
 {% hint style="info" %}
-In summary, if research points to increasing asset prices \(and before the oracle update is received\), then buy a call. Otherwise, buy a put. If the research points to the option staying about the same, be a writer. If you don't want zero risk, settle options. If you like the protocol, don't mind potential BIOP price fluctuation, and want to help govern the Settlement DAO, buy BIOP.
+요약해서 정리하자면, 조사결과가 자산가격 상승\(오라클 업데이트 받기 전에\)을 가리키면 콜 옵션을 구매하고, 그렇지 않을 경우 풋 옵션을 구매 하십시오. 조사 결과 옵션이 거의 동일하다고 하면 발행자가 되십시오. 제로 리스크를 원치 않는다면 정산 옵션입니다. 만약 프로토콜을 선호하시고, 잠재적인 BIOP 가격 변동이 상관 없으며, 정산DAO 관리/통제를 돕기를 원하시면 BIOP을 구매하십시오.
 {% endhint %}
 
