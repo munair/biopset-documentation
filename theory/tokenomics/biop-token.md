@@ -1,8 +1,8 @@
 ---
-description: $BIOP is the governance token.
+description: BIOP은 거버넌스(의결권을 갖는) 토큰입니다.
 ---
 
-# $BIOP Token
+# BIOP 토큰
 
 BIOP tokens are used for governing the BIOPset protocol. A total of exactly 31 Million $BIOP tokens are in existance. $BIOP tokens are standard ERC-20 tokens and use the ticker BIOP.
 

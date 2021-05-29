@@ -14,9 +14,9 @@
   * [구매옵션](theory/fundamentals/buying-options.md)
   * [판매옵션](theory/fundamentals/selling-options.md)
   * [정산 옵션](theory/fundamentals/exercising-options.md)
-* [BIOPset Tokens](theory/tokenomics/README.md)
-  * [$PETH Token](theory/tokenomics/pooleth.md)
-  * [$BIOP Token](theory/tokenomics/biop-token.md)
+* [BIOPset 토큰](theory/tokenomics/README.md)
+  * [PETH 토큰](theory/tokenomics/pooleth.md)
+  * [BIOP 토큰](theory/tokenomics/biop-token.md)
 * [BIOPset Governance](theory/governance.md)
 
 ## Practice
