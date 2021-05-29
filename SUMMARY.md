@@ -17,7 +17,7 @@
 * [BIOPset 토큰](theory/tokenomics/README.md)
   * [PETH 토큰](theory/tokenomics/pooleth.md)
   * [BIOP 토큰](theory/tokenomics/biop-token.md)
-* [BIOPset Governance](theory/governance.md)
+* [BIOPset 거버넌스](theory/governance.md)
 
 ## Practice
 

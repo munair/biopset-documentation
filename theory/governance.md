@@ -1,13 +1,13 @@
 ---
-description: 'The Settlement DAO: A BIOP-Governed Decentralized Autonomous Organization'
+description: '정산 DAO: BIOP 통제하의 DAO(탈중앙 자율조직)'
 ---
 
-# BIOPset Governance
+# BIOPset 거버넌스
 
-Robust participation in the Settlement DAO is the ultimate aspiration of the platform’s design and incentive system. That stated, the DAO’s constituency should change markedly after the BIOPSET smart contracts have been launched. Thus, the DAO has two distinct natures:
+정산 DAO에 강력한 참여는 플랫폼 디자인\(설계\)와 인센티브 제도의 궁극적인 염원입니다. 그럼으로써 DAO의 지지세력\(고객층\)은 BIOPset 스마트 계약이  개시된 후에는 눈에 띄게 변화해야 합니다. 따라서, DAO는 두가지 뚜렷한 특성을 갖고 있습니다.
 
-1. Bootstrapping Phase
-2. Continuous Organization Phase 
+1. 부트스트랩 단계\(혼자 힘으로 시작\)
+2. 지속적인 구성 단계 
 
 Both phases embrace the following priorities:
 
