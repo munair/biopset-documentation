@@ -4,39 +4,39 @@ description: BIOP은 거버넌스(의결권을 갖는) 토큰입니다.
 
 # BIOP 토큰
 
-BIOP tokens are used for governing the BIOPset protocol. A total of exactly 31 Million $BIOP tokens are in existance. $BIOP tokens are standard ERC-20 tokens and use the ticker BIOP.
+BIOP 토큰은 BIOPset 프로토콜을 거버닝\(통제\)하는데 사용되며 정확하게 총 3,100만개의 BIOP토큰이 실제로 있습니다. BIOP 토큰은 표준 ERC-20 토큰이며 티커\(약자로\) BIOP을 사용합니다.
 
-The majority of BIOP tokens \(45.2%\) are allocated to platform utilization rewards. For a more detailed breakdown, see the "token distribution" section below.
+BIOP 토큰의 대다수\(45.2%\)는 플랫폼 활용 보상으로 할당됩니다. 보다 자세한 사용 내역은 아래의 “토큰 분배” 섹션을 보기 바랍니다.
 
-## Token Specification
+## 토큰 스펙
 
-| Specification | Attribute |
+| 스펙 | 속 |
 | :--- | :--- |
-| Token Ticker | BIOP |
-| Token Type | ERC-20 |
-| Token Supply | 31,000,000 |
+| 토큰 티커\(Ticker\) | BIOP |
+| 토큰 유형 | ERC-20 |
+| 토큰 공 | 31,000,000 |
 
-## Token Distribution
+## 토큰 분
 
-| Specification | Percentage | Amount |
+| 스펙 | 백분 | 액 |
 | :--- | :--- | :--- |
-| Utilization Rewards | 45.2% | 14,000,000 |
-| Bonding Curve | 19.4% | 6,000,000 |
-| Initial Tiered Coins Offering | 19.4% | 6,000,000 |
-| Dex Rewards | 5.8% | 1,800,000 |
-| Developer Fund | 4.3% | 1,340,000 |
-| Uniswap Listing | 3.2% | 1,000,000 |
-| V2/V3 Repayment | 1.1% | 340,000 |
-| Airdrops | 1.1% | 340,000 |
-| V2/V3 Swap | 1.1% | 340,000 |
+| 활용 보상 | 45.2% | 14,000,000 |
+| 본딩 곡 | 19.4% |   6,000,000 |
+| ITCO 오퍼링 | 19.4% |   6,000,000 |
+| Dex 보상 |    5.8% |   1,800,000 |
+| 개발 펀드 |    4.3% |   1,340,000 |
+| 유니스왑 상 |    3.2% |   1,000,000 |
+| 버전 2/3 상환 |    1.1% |      340,000 |
+| 무상 지 |    1.1% |      340,000 |
+| 버전 2/3 스 |    1.1% |      340,000 |
 
-### Utilization Rewards
+### 활용 보
 
-The majority \(45.2%\) of $BIOP will be distributed to community members via an **transaction mining** mechanism. Transaction mining is the process of rewarding platform participants. Thus these rewards may also be called transaction mining rewards.
+대다수\(45.2%\)의 BIOP은 거래 채굴 메커니즘을 통해서 커뮤니티 가입자\(멤버\)들에게 분배될 예정입니다. 거래 채굴은 보상 플랫폼 참가자들의 과정입니다. 그래서 이 보상은 거래 채굴 보상이라고도 합니다.
 
-Of these tokens, 10% will be unlocked at Token Generation Event, with a following vesting of 2.5% per month over the following 3 years.
+이 토큰에서 10%는 토큰 생성 이벤트 시점에서 향후 3년에 걸쳐서 월 2.5% 귀속 확정으로 잠금 해제 될 것입니다.
 
-Transaction mining activities commenced with the BIOPset V1 Mainnet launch. Please see the [Benefits](https://munair.gitbook.io/biopset/theory/overview/benefits) section for more information.
+거래 채굴 활동은 BIOPset 버전1 메인넷 개시와 함께 시작 되었습니다. 추가정보를 위해서는 [Benefits](https://munair.gitbook.io/biopset/theory/overview/benefits)\(이익\) 섹션을 참고 하십시오.
 
 ### Bonding Curve
 
