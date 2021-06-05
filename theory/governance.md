@@ -4,33 +4,35 @@ description: '정산 DAO: BIOP 통제하의 DAO(탈중앙 자율조직)'
 
 # BIOPset 거버넌스
 
-정산 DAO에 강력한 참여는 플랫폼 디자인\(설계\)와 인센티브 제도의 궁극적인 염원입니다. 그럼으로써 DAO의 지지세력\(고객층\)은 BIOPset 스마트 계약이  개시된 후에는 눈에 띄게 변화해야 합니다. 따라서, DAO는 두가지 뚜렷한 특성을 갖고 있습니다.
+정산 DAO에 확고한 참여는 플랫폼 디자인\(설계\)와 인센티브 제도의 궁극적인 염원입니다. 그럼으로써 DAO의 투표권자\(지지세력\)은 BIOPset 스마트 계약서가 시작된 후에는 눈에 띄게 변화해야 합니다. 따라서, DAO는 두가지 뚜렷한 특성을 갖고 있습니다.
 
 1. 부트스트랩 단계\(혼자 힘으로 시작\)
 2. 지속적인 구성 단계 
 
-Both phases embrace the following priorities:
+두단계 모두 다음과 같은 우선 순위를 갖고 있습니다:
 
-1. Security 
-2. Transparency 
-3. Best Practices 
-4. Liquid Democracy
+1. 보안\(Security\) 
+2. 투명성\(Transparency\) 
+3. 모범 사례\(Best Practices\) 
+4. 유동적 민주주의\(Liquid Democracy\)
 
-**Security** should be understood as an unrelenting obsession with keeping the funds stored in the platform safe. Having this as a top priority means auditing all mainnet smart contract deployments and establishing a bug bounty system.
+**보안**은 플랫폼에 저장된 자금을 안전하게 보관하는 것에 대한 끊임없는 집착으로 이해되어야만 합니다. 이것을 최우선 순위로 삼는다는 것은 모든 메인넷 스마트 계약 구축을 감사하고 버그 바운티\(취약점 제보 보상\)시스템을 확립하는 것을 의미합니다.
 
-**Transparency** means building transparent processes and fostering open discourse and public debate.
+**투명성**은 투명한 프로세스를 구축하고 열린 담화와 공개 토론을 함양하는것을 의미합니다.
 
-**Best Practices** should be understood as the continual search for and implementation of professional standards that improve the value and resilience of smart contract deployment and effective governance \(timelocks, multi-sigs, forums, off-chain/on-chain voting, etc\).
+**모범 사례**는 스마트 계약 구축과 효과적인 거버넌스\(타임락, 멀티시그\(공동서명\), 포럼, 무기명/온체인 투표 등\)의 가치와 복원력을 향상시키는 전문화된 표준을 지속적으로 탐색하고 구현하는 것으로 이해되어야 합니다.
 
-**Liquid Democracy** means that DAO members possess the privilege of voting directly or delegating that privilege to a delegate.
+유동적 민주주의란 DAO 회원들이 직접 투표하는 특권 혹은 그 특권을 대리인에게 위임할 권리를 소유하는 것을 의미합니다.
+
+다음 사이트의 자료를 참고 하십시오.
 
 {% hint style="info" %}
-**Please refer to** [**https://en.wikipedia.org/wiki/Liquid\_democracy**](https://en.wikipedia.org/wiki/Liquid_democracy)\*\*\*\*
+[https://en.wikipedia.org/wiki/Liquid\_democracy](https://en.wikipedia.org/wiki/Liquid_democracy****)
 {% endhint %}
 
-The Bootstrapping Phase differs from the Continuous Organization Phase in one particular aspect:
+부트스트랩 단계는 특별한 한가지 측면에서 지속적인 구성 단계와 다릅니다.
 
-Taking the experience of writer almost exclusively into consideration.
+발행자의 경험을 전적으로 고려하는 것.
 
-This was achieved by temporarily constructing a pure democracy where each DAO member possesses one vote. This interim governance structure will last until BIOPSET V4 is launched. During this time the membership of the DAO will consist of the brave group of erstwhile BIOPSET V2/3 Writers exclusively. These former contributors to BIOPset V2/3 liquidity pools have the privilege of submitting proposals to the DAO and voting on all initiatives.
+이는 각 DAO 멤버들이 한 투표권을 소유하는 순수 민주주의를 일시적으로 구축함으로 이루어졌습니다. 이러한 잠정적인 거버넌스\(통제\) 구조는 BIOPset 버전4가 출시될 때까지 지속될 것입니다. 이 기간 동안 DAO의 멤버쉽은 지금까지의 BIOPset 버전2/3의 발행들만의 용맹한 그룹으로 구성될 것입니다. BIOPset 버전 2/3 유동성 풀의 과거 발행자들은 DAO에 제안서를 제출하고 모든 계획에 투표할 수 있는 특권을 갖습니다.
 

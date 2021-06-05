@@ -1,59 +1,61 @@
 ---
-description: Instructions for trading.
+description: 거래를 위한 설명
 ---
 
-# Buying Options Step-By-Step
+# 단계별 구매옵션
 
-## Step 1: Visit [BIOPset](https://biopset.com/)
+## 단계 1: [BIOPset](https://biopset.com/) 방문 
 
-Enter the [https://biopset.com/](https://biopset.com/) URL into your browser.
+브라우저에서 URL [http://biopset.com](http://biopset.com) 을 입력
 
-## Step 2: Connect Your Wallet
+## 단계 2: 지갑 연결
 
-Connect your wallet by pressing the “Connect” button. Choose your provider.
+“연결” 버튼을 누르면서 지갑에 연결하고, 제공자\(공급자\) 선택하십시오.
 
 {% hint style="info" %}
-In user guide images the relevant part is circled in purple.
+사용자 안내서에서 해당 부분은 자주색 원으로 표시됩니다.
 {% endhint %}
 
 ![Click on Connect](https://camo.githubusercontent.com/3d81dc2617e626a69834b1f3ce9553ecca036ead5c0a080fa2597048c93d43d1/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a665f4e506f502d353756504873434a454f79452d31412e706e67)
 
-## Step 3: Set Option Size
+## 단계 3: 옵션 사이즈 설정
 
-Enter the amount of ETH you want to risk in the red box. It must be less than the amount shown next to “max bet size”.
+당신이 원하는 리스크 만큼의 ETH 액수를 빨간색 박스에 입력하십시오. 그 액수는 옆에 나타낸 “최대 베팅 사이즈” 액수보다 반드시 적어야 합니다.
 
-The amount you can win by picking the direction correctly is shown in the blue box under “WIN”. If your bet is too big you will be shown a message here. ![2](https://github.com/BIOPset/gitbook/raw/main/2.png)
+정확한 방향을 선택해서 딸 수 있는 금액은 “WIN” 아래의 파란색 박스에 나타납니다.
 
-_Your maximum earnings are on the right in the blue box_
+ ![2](https://github.com/BIOPset/gitbook/raw/main/2.png)
 
-As you can see there are other options you can configure like the length of your option \(1 hour in the image above\) and the price pair you want to play on \(ETH/USD in the example above\).
+_당신의 최대 소득은 우측 상단 파란색 입니다._
 
-The defaults for these settings make it easy to get started and you can dig in and find the best combo for you later on.
+보시는 것 처럼 옵션의 시간\(위 이미지에서의 1시간\) 및 당신이 사용하기 원하는 가격 페어\(위의 예에서는 ETH/USD\)등과 같이 당신이 구성할 수 있는 다른 옵션이 있습니다.
 
-## Step 4: Pick A Direction
+이러한 기본\(디폴트\) 설정은 시작하기 용이해서 심도있게 들어가 나중에 최고의 조합을 찾을 수 있습니다.
 
-Press the blue “UP” button or the red “DOWN” button to select the direction of your option.
+## 단계 4: 방향 선택
 
-If you pick up and the price goes up in the timeframe, you win. If it goes down, you lose.
+당신 옵션의 방향을 선택하기 위해 파란색 “UP” 또는 빨간색 “DOWN” 버튼을 누르십시오. 
+
+만일 up을 택하고 시간내에 가격이 오르면, 당신이 따게됩니다. 만약 가격이 내리면, 당신은 잃게됩니다.
 
 ![3](https://github.com/BIOPset/gitbook/raw/main/3.png)
 
-_red or blue it's up to you_
+_빨강? 파랑? 당신의 선택입니다._
 
-## Step 5: Confirm the transaction
+## 단계 5:거래 컨펌\(최확인\)
 
-confirm the transaction in your wallet. \(Shown here in metamask\).
+지갑에서 거래를 확인하세요\(여기서는 Metamask\). 
 
-Don’t send the transaction if your wallet tells you there is an error.
+만일 당신의 지갑에 에러가 있을 경우 그 거래를 보내지 마십시오.
 
 ![4](https://github.com/BIOPset/gitbook/raw/main/4.png)
 
-_Trading sizes larger than the gas fee are recommended._
+거래 규모는 가스\(gas\) 수수료 보다 많게 하기를 권합니다.
 
-Once you’ve confirmed the transaction you have two choices:
+거래 확인을 하게 되면, 두가지의 선택이 있습니다.
 
-1. You can sit back and watch for the next dip to buy at.
-2. You can visit the Exercise/Expire page to complete your option.
+1. 잠시 쉬면서 구매를 위한 다음 하락을 지켜보는 선택을 할 수 있으며
+2. 옵션을 마무리하기 위해 행사/기간만료 페이지로 갈 수 있습니다.
 
-If you don’t want to have to watch your option for the next hour that’s ok. Anyone will be able to complete it for you and they will get a small fee \(~0.02% of your profits\). See [here](https://docs.biopset.com/practice/guides/exercising-options-step-by-step#step-1-exercise-valuable-options) for more information on option settlement.
+만약 당신이 당신의 옵션을 다음 한 시간 동안 지켜보기를 원치 않는다면 괜찮습니다. 누구든지 당신을 위해 그것을 완성할 수 있고 그들은 약간의 수수료\(당신 이익의 0.02%\)를 받을 것입니다. 옵션 정산에 대한 보다 자세한 정보는 [here](../../references/tokens/tiered-ibco.md)\(이곳\) 참조하십시오.
 

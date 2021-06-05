@@ -10,27 +10,27 @@ BIOP 토큰의 대다수\(45.2%\)는 플랫폼 활용 보상으로 할당됩니�
 
 ## 토큰 스펙
 
-| 스펙 | 속 |
+| 스펙 |  속 |
 | :--- | :--- |
 | 토큰 티커\(Ticker\) | BIOP |
 | 토큰 유형 | ERC-20 |
-| 토큰 공 | 31,000,000 |
+| 토큰 공급 수 | 31,000,000 |
 
-## 토큰 분
+## 토큰 분배
 
-| 스펙 | 백분 | 액 |
+| 스펙 | 백분 |   액 |
 | :--- | :--- | :--- |
 | 활용 보상 | 45.2% | 14,000,000 |
-| 본딩 곡 | 19.4% |   6,000,000 |
+| 본딩 곡선 | 19.4% |   6,000,000 |
 | ITCO 오퍼링 | 19.4% |   6,000,000 |
 | Dex 보상 |    5.8% |   1,800,000 |
 | 개발 펀드 |    4.3% |   1,340,000 |
-| 유니스왑 상 |    3.2% |   1,000,000 |
+| 유니스왑 상장 |    3.2% |   1,000,000 |
 | 버전 2/3 상환 |    1.1% |      340,000 |
 | 무상 지급 |    1.1% |      340,000 |
-| 버전 2/3 스 |    1.1% |      340,000 |
+| 버전 2/3 스왑 |    1.1% |      340,000 |
 
-### 활용 보
+### 활용 보상
 
 대다수\(45.2%\)의 BIOP은 거래 채굴 메커니즘을 통해서 커뮤니티 가입자\(멤버\)들에게 분배될 예정입니다. 거래 채굴은 보상 플랫폼 참가자들의 과정입니다. 그래서 이 보상은 거래 채굴 보상이라고도 합니다.
 
@@ -38,41 +38,41 @@ BIOP 토큰의 대다수\(45.2%\)는 플랫폼 활용 보상으로 할당됩니�
 
 거래 채굴 활동은 BIOPset 버전1 메인넷 개시와 함께 시작 되었습니다. 추가정보를 위해서는 [Benefits](https://munair.gitbook.io/biopset/theory/overview/benefits)\(이익\) 섹션을 참고 하십시오.
 
-### Bonding Curve
+### 본딩 곡선\(IDO 토큰판매가격 산정방식\)
 
-The Bonding Curve will be deployed by the DAO in the case of lackluster liquidity on dexes. Any swap fee \(set to zero by default in both directions\) of the Bonding Curve will go to the BIOPset Treasury.
+본딩 곡선은 덱스\(탈중앙화거래소\)에서 유동성 부족의경우, DAO에 의해서 사용됩니다. 본딩 커브의 모든 스왑 수수료\(양방향 모두 기본값 제로 설정\)는 BIOPset 금고로 들어갑니다. 
 
-The tokens will be locked until 6 months from launch, when the ability to deploy the Bonding Curve will be transferred to the DAO.
+토큰들은 개시로부터 6개월간 동결되었다가 사용 능력이 생기면 본딩 커브는 DAO로 전환됩니다. 
 
-Please see [Bonding Curve](https://docs.biopset.com/references/tokens/boding-curve) for further details.
+보다 상세한 내용은 Bonding Curve를 보십시오.
 
-### Initial Tiered Coins Offering
+### 초기 단계별 코인 오퍼링\(ITCO\)
 
-The initial funds for development and a bootstrap to the BIOPset Liquidity will be done through the ITCO \(Initial Tiered Coins Offering\). For more details about the [ITCO](https://docs.biopset.com/references/tokens/itco).
+BIOPset유동성으로의 개발과 부트스트랩\(무료 S/W 도구모음\)에 대한 초기 자금 형성은 ITCO를 통해서 이루어 집니다. [ITCO](https://docs.biopset.com/references/tokens/itco)에 대한 보다 자세한 자세한 사항.
 
-### Dex Rewards
+### **덱스 보상**
 
-To incentivise Uniswap liquidity we will provide incentives to the Uniswap Liquidity Providers that will stake their LP tokens.
+유니스왑 유동성을 인센티브화하기 위해서 LP\(유동성제공\)토큰을 스테이킹하는 유니스왑 유동성 제공자들에게 인센티브를 제공하게 됩니다.
 
-### Developer Fund
+### 개발자 펀드
 
-The Developer Fund will be used to pay for development, deployment, grants and to prevent DAO attacks until a healthy organization is present.
+개발자 펀드는 건전한\(안정적인\) 조직이 갖춰 질 때까지 개발, 전개, 보조금 및 DAO공격의 예방 자금 등으로 사용됩니다. 
 
-Of the Developer Fund, 10% will be unlocked at TGE followed by a 3 years linear vesting on the remaining 90%
+개발자 펀드 중에서 10%는 나머지 90%의 3년 간에 걸친 락업\(동결\) 이후 토큰 생성 이벤트\(TGE\)에서 해제됩니다.
 
-### Uniswap Listing
+### **유니스왑 상장**
 
-To provide a starting price and enable trading on Uniswap the team will lock BIOP and Ethereum in a Uniswap Liquidity Pool after the ITCO end
+Uniswap에서 시작가를 제공하고 거래를 가능하게 하기 위해서 팀은 ITCO 종료 후 Uniswap 유동성풀에서 BIOP과 이더리움을 동결시킵니다.
 
-### V2/V3 Repayment
+### **버전2/3 상환**
 
-During BIOPset V2 and BIOPset V3, the betters won over the entire liquidity pool. A lot of measures are now in place to avoid that it will happen again. To repay those who lost their Ethereum because of those reasons, we will reward them with an amount of BIOP equal to the ETH they lost, at a rate of ~0.0001 ETH / BIOP.
+BIOPset의 버전2와 버전3 기간 동안 우월한 자들이 전체 유동성풀에서 승리\(돈을 번다 의미\)했습니다. 이제는 그러한 일이 다시 일어나지 않도록 여러가지 조치가 취해 졌습니다. 그러한 이유로 이더리움을 잃은 사람들에게 그들이 손해본 이더리움과 동일한 액수의 BIOP을\(1 BIOP당 0.0001ETH 이상으로\) 보상해 줄 것 입니다.
 
-### Airdrops
+### 무상지급
 
-To incentivize the community to actively partecipate and grow we are planning multiple airdrop and events with BIOP prizes
+커뮤니티에 활발한 참여와 성장에 대한 인센티브로 BIOP 상품으로 다양한 무상 지급과 이벤트를 계획하고 있습니다.
 
-### V2/V3 Swap
+### **버전2/3 스왑**
 
-The users that partecipated in transaction mining on the previous biop versions and got old versions of the BIOP token will receive the new BIOP v4
+이전 BIOP 버전으로 거래 채굴에 참가해서 구 버전의 BIOP 토큰을 가진 사용자들은 새로운 BIOP 버전4를 받게 됩니다.
 

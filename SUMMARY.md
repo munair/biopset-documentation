@@ -21,10 +21,10 @@
 
 ## Practice
 
-* [Instruction Manuals](practice/guides/README.md)
-  * [Buying Options Step-By-Step](practice/guides/buying-options-step-by-step.md)
-  * [Selling Options Step-By-Step](practice/guides/selling-options-step-by-step.md)
-  * [Settling Options Step-By-Step](practice/guides/exercising-options-step-by-step.md)
+* [사용매뉴얼](practice/guides/README.md)
+  * [단계별 구매옵션](practice/guides/buying-options-step-by-step.md)
+  * [단계별 판매 옵션](practice/guides/selling-options-step-by-step.md)
+  * [단계별 정산 옵션](practice/guides/exercising-options-step-by-step.md)
 * [FAQs](practice/faqs/README.md)
   * [General Questions](practice/faqs/most-frequent-questions.md)
   * [Trading Questions](practice/faqs/trading-questions.md)

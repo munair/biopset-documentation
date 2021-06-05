@@ -1,18 +1,18 @@
 ---
-description: Instructions for buyer intervention.
+description: 구매자 개입에 대한 설명.
 ---
 
-# Settling Options Step-By-Step
+# 단계별 정산 옵션
 
-After expiration, a trader's binary options are either valuable \(**in-the-money** or **ITM**\) or worthless \(**out-of-the money** or **OTM**\). Settlement is the process of transferring funds to the trader if the options are ITM, or the writer \(liquidity pool\) if the options are OTM. This is how to settle options, step-by-step:
+기간 만료 후, 트레이더의 바이너리 옵션은 가치가 살아 있거나\(내가격 또는 ITM\) 무가치\(외가격 또는 OTM\)하거나 둘 중 하나입니다. 정산이란 옵션이 ITM일 경우 트레이더에게, 옵션이 OTM일 경우 발행자\(유동성 풀\)에게 자금을 전해주는 과정입니다. 이것이 옵션들을 단계별로 처리하는 방법입니다.
 
-## Step 1: Exercise Valuable Options
+## 단계 1 : 가치있는 옵션의 행사
 
-**Want to claim the 0.2% settlement fee for yourself?** visit the "**Settle**" page and claim the entire value of the option for yourself.
+**당신 자신에대한 0.2%의 결제 수수료를 청구하기 원합니까?** **“Settle\(정산\)”** 페이지로 가서 당신 자신에 대한 옵션의 전체 값을 청구하십시오.
 
-While your there you can help others \(and **earn a risk free fee for yourself**\) by settling other ITM or OTM options
+이동안 당신은 다른 ITM 또는 OTM 옵션을 정산함으로 다른 이들을 도울 수 있습니다.\(그리고 당신 자신에대한 리스크 없는 수수료를 벌 수 있습니다.\)
 
 ![5](https://github.com/BIOPset/gitbook/raw/main/5.png)
 
-Even if your option choice is wrong you can get some of your money back by expiring it.
+비록 당신의 옵션 선택이 틀렸더라도 그것을 기간 만료 시킴으로써 당신 돈의 일부를 돌려 받을 수 있습니다.
 
