@@ -85,3 +85,12 @@ There is a 1% early withdrawal fee. During the deposit lockup period, writers ar
 The early withdrawal fee does not apply after the 14-day lockup period expires and the percentage may change depending on governance decisions.
 {% endhint %}
 
+### Option Pricing
+As a writer your funds are used to counterparty user created ATM (At the money) options. This means that the Strike Price of an option created against a BIOPset liquidity pool is always the current price of a option. 
+
+
+{% hint style="info" %}
+Example: The price of ETH is $1870. Traders can purchase a option that the price will be higher or lower then $1870 when the option time completes. They cannot purchase a option at a higher or lower strike price like $1500 or $2000 as is common in option systems like [hegic](https://hegic.co)
+{% endhint %}
+
+This means writers only ever accept options (lock liquidity against the Trader's money) based on the current market price (as received from the oracle) of the asset in question. The strike price is based automatically on the oracle and is not a user input sent by the Trader.
