@@ -30,7 +30,7 @@ Both phases embrace the following priorities:
 
 The Bootstrapping Phase differs from the Continuous Organization Phase in one particular aspect:
 
-Taking the experience of writer almost exclusively into consideration.
+Taking the experience of the writer almost exclusively into consideration.
 
 This was achieved by temporarily constructing a pure democracy where each DAO member possesses one vote. This interim governance structure will last until BIOPSET V4 is launched. During this time the membership of the DAO will consist of the brave group of erstwhile BIOPSET V2/3 Writers exclusively. These former contributors to BIOPset V2/3 liquidity pools have the privilege of submitting proposals to the DAO and voting on all initiatives.
 
