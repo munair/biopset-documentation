@@ -80,5 +80,3 @@ Otherwise, any arbitrary platform participant can settle the option if it is in 
 
 The settlement role transactions are always risk-free. The exact payoff is viewable before this action is taken.
 
-
-

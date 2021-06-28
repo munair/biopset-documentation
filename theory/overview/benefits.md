@@ -59,5 +59,7 @@ Governors manage the treasury and are responsible for fine tuning BIOPset parame
 
 Traders, writers, and settlers can all participate in governance initiatives by holding BIOP tokens. They may also delegate that voting power to any governor that garners their confidence.
 
-It is highly recommended that voting power only ever be delegegated to predeployed audited smart contracts making the desired change instead of delegating to a human's address.
+It is highly recommended that voting power only ever be delegated to pre-deployed audited smart contracts making the desired change instead of delegating to a human's address.  
+  
+Please read more about endorsing contracts [here](https://medium.com/biopset/endorsing-contracts-2f8c9447650f).
 

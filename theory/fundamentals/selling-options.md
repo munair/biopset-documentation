@@ -84,3 +84,4 @@ There is a 1% early withdrawal fee. During the deposit lockup period, writers ar
 {% hint style="info" %}
 The early withdrawal fee does not apply after the 14-day lockup period expires and the percentage may change depending on governance decisions.
 {% endhint %}
+

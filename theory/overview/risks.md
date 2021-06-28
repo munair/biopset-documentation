@@ -41,3 +41,4 @@ Governing involves holding or staking BIOP tokens. This is not risk-free. The pr
 {% hint style="info" %}
 In summary, if research points to increasing asset prices \(and before the oracle update is received\), then buy a call. Otherwise, buy a put. If the research points to the price staying about the same, be a writer. If you want zero risks, settle options. If you like the protocol, don't mind potential BIOP price fluctuation, and want to help govern the Settlement DAO, buy BIOP.
 {% endhint %}
+
