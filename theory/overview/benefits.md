@@ -57,9 +57,13 @@ Transaction fees are presently set to 20 basis points \(0.2%\) and those proceed
 Governors manage the treasury and are responsible for fine tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. They can elect to be incentivized for growing the number of users of the platform in the longer-term.
 {% endhint %}
 
-Traders, writers, and settlers can all participate in governance initiatives by holding BIOP tokens. They may also delegate that voting power to any governor that garners their confidence.
+Traders, writers, and settlers can all participate in governance initiatives by holding BIOP tokens. They may also use that voting power to **endorse** smart contract changes that they feel improve the protocol.
 
-It is highly recommended that voting power only ever be delegated to pre-deployed audited smart contracts making the desired change instead of delegating to a human's address.  
+{% hint style="danger" %}
+It is highly recommended that voting power only ever be use to endorse pre-deployed audited smart contracts making the desired change instead of delegating to a human's address.  
   
 Please read more about endorsing contracts [here](https://medium.com/biopset/endorsing-contracts-2f8c9447650f).
+{% endhint %}
+
+{% embed url="https://medium.com/biopset/endorsing-contracts-2f8c9447650f" %}
 
