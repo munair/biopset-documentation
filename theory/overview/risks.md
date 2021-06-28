@@ -28,7 +28,7 @@ Selling binary options on BIOPset is not a risk-free interaction with the protoc
 
 ### Settlers
 
-Settling binary options on BIOPset is a risk-free interaction.
+Settling binary options on BIOPset is a risk-free interaction. Although gas prices will vary and need to be considered, settlers will always know the payout that is the result of settling any binary option prior to initiating the settlement operation.
 
 {% page-ref page="../fundamentals/exercising-options.md" %}
 

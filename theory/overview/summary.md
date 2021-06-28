@@ -53,7 +53,7 @@ They intervene on behalf of the options trader by **settling** in-the-money opti
 
 ### Governors
 
-Anyone holding BIOP tokens is automatically a governor. Governors are responsible for fine-tuning BIOPset parameters to ensure a reasonable yield for liquidity providers. 
+Anyone holding BIOP tokens is automatically a governor. Governors are responsible for fine-tuning BIOPset parameters to ensure a reasonable yield for liquidity providers.
 
 Liquidity providers need not be governors and vice versa.
 
