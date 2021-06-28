@@ -14,7 +14,7 @@ _The protocol is governed by a decentralized autonomous organization \("**DAO**"
 
 The latest version \(**BIOPset Version 4**\) allows traders to speculate on the [price of Chainlink tokens](https://www.coingecko.com/en/coins/chainlink) \(or **LINK**\) going up or down.
 
-**These are the official documents as of April 21st 2021**.
+**These are the official documents as of April 21st, 2021**.
 
 If you have any questions or concerns after reviewing this documentation, please join the discussion on [Discord](https://discord.gg/4SRYBNdE3r).
 
