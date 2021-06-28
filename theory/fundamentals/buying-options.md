@@ -12,10 +12,10 @@ This section on buying options was taken from the detailed explanation provided 
 
 ## Price Speculation
 
-BIOPset facilitates price speculation. The whole purpose of buying binary options is to take a position on the direction of movement in prices.
+BIOPset facilitates price speculation. The whole purpose of buying binary options is to take a position in the direction of movement in prices.
 
 {% hint style="info" %}
-Binary options are essentially all or nothing financial derivatives. Traders either win or they lose. There’s no in-between \(or other possible outcomes\).
+Binary options are essentially all or nothing financial derivatives. Traders either win or lose. There’s no in-between \(or other possible outcomes\).
 {% endhint %}
 
 They are called derivatives because their value is derived from something else after a certain period of time. After that period of time, the options are said to have **expired**. That _something else_ from which binary options derive their value is called the **underlying** \(or **underlying asset**\).
@@ -36,7 +36,7 @@ _For example, Alice believes that BTC/USD prices are going up. She feels very st
 {% endtab %}
 
 {% tab title="Options Sellers" %}
-Options sellers **must** hold the opposing view about the future price of BTC/USD. By definition, the option seller is the counterparty and takes the opposition positi
+Options sellers **must** hold the opposing view about the future price of BTC/USD. By definition, the option seller is the counterparty and takes the opposition position.
 
 {% hint style="info" %}
 In BIOPset, no individual seller holds the opposing view alone. The sellers as a group hold the opposing view in proportion to the funds committed to the pool \(or house\).
@@ -78,5 +78,7 @@ Consequently, the call or put holder can **settle** the option themselves and co
 
 Otherwise, any arbitrary platform participant can settle the option if it is in their financial interest and collect the 0.2% fee. In such cases, the payout of the option drops to 98.8% \(as 0.2% is paid to the person/bot that settles the option\).
 
-The settlement role transactions are always risk free. The exact payoff is viewable before this action is taken.
+The settlement role transactions are always risk-free. The exact payoff is viewable before this action is taken.
+
+
 
