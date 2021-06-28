@@ -16,7 +16,7 @@ BIOPset documentation is broken into three groups:
 2. Practice
 3. References
 
-The section on "**theory**" explains the binary options, decentralized trading, and some design philosophies. Experienced traders may want to skip over this section. That said, consider it required reading for liquidity providers that want to know how yield is generated.
+The section on "**theory**" explains the binary options, decentralized trading, and some design philosophies. Experienced traders may want to skip over this section. That said, consider it required reading for liquidity providers that want to know how yields are generated.
 
 The section on "**practice**" is a step-by-step user guide. It is updated with changes to the platform, but for the latest information, traders are strongly urged to [join the BIOPset Discord community](https://discord.gg/4SRYBNdE3r).
 
