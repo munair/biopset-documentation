@@ -58,7 +58,7 @@ It never matters how much the price increases or decreases. In BIOPset, call hol
 
 The price of BTC at the moment the binary option is purchased is the **strike price** of a binary option on BIOPset. It is always displayed on the BIOPset UI.
 
-The strike price cannot be set manually by traders. It is generated automatically from the price oracle being used in the option. This means that all options on BIOPset have a ATM\(**At-The-Money**\) strike price. For example if the price of ETH is $1900 options can be created with a $1900 strike price but not with a $1800 or $2000 one.
+The strike price cannot be set manually by traders. It is generated automatically with a value received from the price oracle. This means that all options on BIOPset have an **at-the-money** \(or "**ATM**"\) strike price. For example, if the price of ETH is $1,900, the binary option will be created with a $1,900 strike price \(not with a $1,800 or $2,000 strike price\).
 
 To be precise, for a BTC option it is the price of BTC at the moment the option was purchased according to the [Chainlink Oracle](https://www.gemini.com/cryptopedia/what-is-chainlink-and-how-does-it-work#:~:text=Summary,when%20certain%20conditions%20are%20met.). This is important to note because the value of the option changes based on this strike price.
 

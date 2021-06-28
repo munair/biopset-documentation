@@ -37,4 +37,3 @@ Of the remaining Ethereum:
 * 50% \(up to a maximum of 75 ETH\) will be added to a Uniswap Liquidity pool
 * The rest will be added to BIOPset Option liquidity Pool and the bETH tokens locked
 
-

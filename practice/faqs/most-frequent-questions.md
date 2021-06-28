@@ -37,3 +37,4 @@ As part of the utilization rewards scheme, traders \(or options holders/buyers\)
 BIOPset is presently in beta. The code is constantly improved and variables may change. Finally, BIOPset runs on smart contracts that have not yet been audited.
 
 In short, there are many risks, and platform users must know that the possibility of losing their funds is very high at this stage.
+

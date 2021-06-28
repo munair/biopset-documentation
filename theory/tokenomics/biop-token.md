@@ -82,4 +82,3 @@ To incentivize the community to actively participate and grow we are planning mu
 
 The users that participated in transaction mining in previous protocol releases and got old versions of the BIOP token will receive the new BIOP v4.
 
-
