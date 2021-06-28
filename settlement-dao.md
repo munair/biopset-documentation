@@ -18,11 +18,11 @@ The governance process of the Settlement DAO is outlined below:
 
 ### Discussion
 
-Ideas for improving BIOPset are discussed in Discord.
+Ideas for improving BIOPset are discussed in [Discord](https://discord.gg/4SRYBNdE3r).
 
 ### Proposals
 
-Meritorious ideas are then outlined in official proposals in the BIOPset forum.
+Meritorious ideas are then outlined in official proposals in the [BIOPset forum](https://biopset.freeforums.net).
 
 ### Voting
 
