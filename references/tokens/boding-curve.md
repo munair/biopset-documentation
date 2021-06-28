@@ -17,3 +17,4 @@ The curve is based on the Bancor bonding curve foundation. This means the price 
 The buy and sell functions of the LSBC have optional fees. These fees are both set to zero \(0%\) by default. The Settlement DAO has the ability to change those fees using two-tiered actions. fees generated through this mechanism are passed into the Settlement DAO treasury for use by DAO stakers.
 
 Critical to the autonomous and censorship-resistant nature of the BIOPset protocol the LSBC allows anyone who may not discover BIOP until later on the change to fully participate in all Settlement DAO activities, even once Utilization Rewards are complete. First and foremost the mission of the LSBC is to provide a permanent venue for all to access BIOP at market-controlled prices.
+
