@@ -28,17 +28,16 @@ Selling binary options on BIOPset is not a risk-free interaction with the protoc
 
 ### Settlers
 
-Settling binary options on BIOPset is a risk free interaction.
+Settling binary options on BIOPset is a risk-free interaction.
 
 {% page-ref page="../fundamentals/exercising-options.md" %}
 
 ### Governing
 
-Governing involves holding or staking BIOP tokens. This is not risk free. The price of BIOP will go up or down depending on supply and demand.
+Governing involves holding or staking BIOP tokens. This is not risk-free. The price of BIOP will go up or down depending on supply and demand.
 
 {% page-ref page="../governance.md" %}
 
 {% hint style="info" %}
-In summary, if research points to increasing asset prices \(and before the oracle update is received\), then buy a call. Otherwise, buy a put. If the research points to the option staying about the same, be a writer. If you don't want zero risk, settle options. If you like the protocol, don't mind potential BIOP price fluctuation, and want to help govern the Settlement DAO, buy BIOP.
+In summary, if research points to increasing asset prices \(and before the oracle update is received\), then buy a call. Otherwise, buy a put. If the research points to the price staying about the same, be a writer. If you want zero risks, settle options. If you like the protocol, don't mind potential BIOP price fluctuation, and want to help govern the Settlement DAO, buy BIOP.
 {% endhint %}
-
