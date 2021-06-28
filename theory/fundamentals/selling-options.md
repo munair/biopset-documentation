@@ -63,13 +63,13 @@ During this period of time \(called the **lockup period**\) writers may only wit
 
 Again, [Shalaquiana](https://twitter.com/shalaquiana) explains it best:
 
-> **Withdrawal only entitles liquidity providers to their share of the unlocked liquidity.** For example, supposed there is 6 ETH in the pool and your share of the pool is 50% \(meaning that you possess 3 pETH of the total 6 pETH issued\) but a trader suddenly purchases 2 ETH worth of binary call options banking on LINK's price appreciation. That purchase would result in a collateral lock that reduces the unlocked liquidity from 6 ETH to 4 ETH.
+> **Withdrawal only entitles liquidity providers to their share of the unlocked liquidity.** For example, suppose there is 6 ETH in the pool and your share of the pool is 50% \(meaning that you possess 3 pETH of the total 6 pETH issued\) but a trader suddenly purchases 2 ETH worth of binary call options banking on LINK's price appreciation. That purchase would result in a collateral lock that reduces the unlocked liquidity from 6 ETH to 4 ETH.
 >
 > If you wanted to withdraw your liquidity during the collateral lock, you could only withdraw up to 2 ETH \(50% of the unlocked 4 ETH\). If you wait for the collateral lock to be removed through expiration, you could withdraw your entire stake of 3 ETH \(50% of the unlocked 6 ETH\). If the trader's binary option is ITM when settled then the funds in that collateral lock all go to the trader.
 
 ### Deposit Locks
 
-Writers deposit ETH into the pool for minimum period of time. This is the second type of lockup period. The lockup period on a deposit lock resets every time a writer contributes new funds to the pool. It is set on the deposit of funds and cannot be reduced.
+Writers deposit ETH into the pool for a minimum period of time. This is the second type of lockup period. The lockup period on a deposit lock resets every time a writer contributes new funds to the pool. It is set on the deposit of funds and cannot be reduced.
 
 The lockup period of BIOPset V3 is 14 days. During that 14 day period, any withdrawal of funds contributed to the pool is taxed an early withdrawal fee\(1%\). After the lockup period funds may be withdrawn and occur no fees.
 
@@ -84,4 +84,3 @@ There is a 1% early withdrawal fee. During the deposit lockup period, writers ar
 {% hint style="info" %}
 The early withdrawal fee does not apply after the 14-day lockup period expires and the percentage may change depending on governance decisions.
 {% endhint %}
-
